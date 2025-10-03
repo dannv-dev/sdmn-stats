@@ -1,0 +1,4715 @@
+Game Number	Game Number	Sequence	Primary Player	Event Type	Secondary Player
+1	1	1	Harry	Killed (Killed)	Ethan
+1	1	2	JJ	Called Emergency Meeting	
+1	1	3	Harry	Killed (Killed)	JJ
+1	1	4	Simon	Called Emergency Meeting	
+1	1	5	Harry	Killed (Killed)	Tobi
+1	1	6	Vik	Killed (Killed)	Liam
+1	1	7	MilkInABag	Reported Body Of	Liam
+1	1	8	Vik	Was Voted Out	
+1	1	9	Harry	Killed (Killed)	Simon
+1	1	10	MilkInABag	Reported Body Of	Simon
+1	1	11	Harry	Was Voted Out	
+2	2	1	JJ	Killed (Killed)	Harry
+2	2	2	Tobi	Reported Body Of	Harry
+2	2	3	Tobi	Was Voted Out	
+2	2	4	MilkInABag	Killed (Killed)	Simon
+2	2	5	Vik	Called Emergency Meeting	
+2	2	6	MilkInABag	Killed (Killed)	Josh
+2	2	7	JJ	Killed (Killed)	Ethan
+2	2	8	MilkInABag	Killed (Killed)	Vik
+3	3	1	Vik	Killed (Killed)	MilkInABag
+3	3	2	Simon	Reported Body Of	MilkInABag
+3	3	3	Randolph	Was Voted Out	
+3	3	4	JJ	Called Emergency Meeting	
+3	3	5	Simon	Called Emergency Meeting	
+3	3	6	Tobi	Was Voted Out	
+3	3	7	Ethan	Killed (Killed)	Liam
+3	3	8	Vik	Killed (Killed)	Josh
+3	3	9	Vik	Reported Body Of	Josh
+3	3	10	Harry	Was Voted Out	
+4	4	1	JJ	Called Emergency Meeting	
+4	4	2	JJ	Was Voted Out	
+4	4	3	Randolph	Killed (Killed)	Harry
+4	4	4	Simon	Reported Body Of	Harry
+4	4	5	Randolph	Killed (Killed)	Vik
+4	4	6	Ethan	Killed (Killed)	Simon
+4	4	7	Tobi	Reported Body Of	Simon
+4	4	8	Ethan	Was Voted Out	
+4	4	9	Randolph	Killed (Killed)	MilkInABag
+4	4	10	Liam	Reported Body Of	MilkInABag
+4	4	11	Randolph	Was Voted Out	
+5	5	1	MilkInABag	Killed (Killed)	Tobi
+5	5	2	JJ	Killed (Killed)	Ethan
+5	5	3	Liam	Reported Body Of	Tobi
+5	5	4	JJ	Killed (Killed)	Harry
+5	5	5	MilkInABag	Killed (Killed)	Liam
+5	5	6	Simon	Reported Body Of	Harry
+5	5	7	Josh	Was Voted Out	
+5	5	8	MilkInABag	Killed (Killed)	Vik
+6	6	1	Ethan	Killed (Killed)	JJ
+6	6	2	MilkInABag	Reported Body Of	JJ
+6	6	3	Ethan	Killed (Killed)	Simon
+6	6	4	Josh	Reported Body Of	Simon
+6	6	5	Harry	Was Voted Out	
+6	6	6	Ethan	Killed (Killed)	Josh
+6	6	7	Vik	Reported Body Of	Josh
+6	6	8	Ethan	Was Voted Out	
+6	6	9	Randolph	Killed (Killed)	Tobi
+6	6	10	Liam	Reported Body Of	Tobi
+6	6	11	Randolph	Was Voted Out	
+7	7	1	Harry	Killed (Killed)	Vik
+7	7	2	Pewdiepie	Reported Body Of	Vik
+7	7	3	Harry	Was Voted Out	
+7	7	4	Josh	Killed (Killed)	JJ
+7	7	5	Dream	Reported Body Of	JJ
+7	7	6	Josh	Killed (Killed)	Pewdiepie
+7	7	7	Josh	Reported Body Of	Pewdiepie
+7	7	8	Tobi	Was Voted Out	
+7	7	9	Dream	Called Emergency Meeting	
+7	7	10	Josh	Killed (Killed)	Ethan
+7	7	11	Dream	Reported Body Of	Ethan
+7	7	12	Josh	Killed (Killed)	Simon
+7	7	13	Josh	Reported Body Of	Simon
+7	7	14	Josh	Was Voted Out	
+8	8	1	JJ	Called Emergency Meeting	
+8	8	2	Tobi	Was Voted Out	
+8	8	3	Josh	Killed (Killed)	Simon
+8	8	4	Ethan	Killed (Killed)	JJ
+8	8	5	Josh	Reported Body Of	JJ
+8	8	6	Harry	Called Emergency Meeting	
+8	8	7	Ethan	Killed (Killed)	Harry
+8	8	8	Dream	Called Emergency Meeting	
+8	8	9	Ethan	Was Voted Out	
+8	8	10	Pewdiepie	Called Emergency Meeting	
+8	8	11	Vik	Was Voted Out	
+8	8	12	Josh	Killed (Killed)	Dream
+8	8	13	Josh	Reported Body Of	Dream
+8	8	14	Josh	Was Voted Out	
+9	9	1	JJ	Killed (Killed)	Dream
+9	9	2	JackSepticEye	Reported Body Of	Dream
+9	9	3	JJ	Killed (Killed)	Pewdiepie
+9	9	4	JackSepticEye	Killed (Killed)	Josh
+9	9	5	JJ	Killed (Killed)	Tobi
+9	9	6	Vik	Reported Body Of	Tobi
+9	9	7	JJ	Was Voted Out	
+9	9	8	JackSepticEye	Killed (Killed)	Ethan
+9	9	9	JackSepticEye	Killed (Killed)	Vik
+9	9	10	Simon	Reported Body Of	Vik
+9	9	11	Harry	Was Voted Out	
+10	10	1	Tobi	Killed (Killed)	JJ
+10	10	2	Dream	Reported Body Of	JJ
+10	10	3	Tobi	Was Voted Out	
+10	10	4	Pewdiepie	Called Emergency Meeting	
+10	10	5	Josh	Killed (Killed)	Harry
+10	10	6	Josh	Reported Body Of	Harry
+10	10	7	Josh	Was Voted Out	
+11	11	1	Tobi	Killed (Killed)	Dream
+11	11	2	Tobi	Reported Body Of	Dream
+11	11	3	JJ	Killed (Killed)	Vik
+11	11	4	JJ	Reported Body Of	Vik
+11	11	5	Ethan	Called Emergency Meeting	
+11	11	6	Tobi	Killed (Killed)	Ethan
+11	11	7	Tobi	Was Voted Out	
+11	11	8	Josh	Reported Body Of	Ethan
+11	11	9	JJ	Killed (Killed)	Josh
+11	11	10	Pewdiepie	Reported Body Of	Josh
+11	11	11	JJ	Was Voted Out	
+12	12	1	Vik	Killed (Killed)	Josh
+12	12	2	Simon	Reported Body Of	Josh
+12	12	3	JJ	Called Emergency Meeting	
+12	12	4	JJ	Was Voted Out	
+12	12	5	Randolph	Killed (Killed)	Lachlan
+12	12	6	Simon	Reported Body Of	Lachlan
+12	12	7	Randolph	Was Voted Out	
+12	12	8	Vik	Killed (Killed)	Simon
+12	12	9	Vik	Killed (Killed)	Tobi
+12	12	10	Lazarbeam	Reported Body Of	Simon
+12	12	11	Vik	Was Voted Out	
+13	13	1	Simon	Killed (Killed)	Ethan
+13	13	2	Tobi	Killed (Killed)	Randolph
+13	13	3	Lachlan	Reported Body Of	Ethan
+13	13	4	JJ	Was Voted Out	
+13	13	5	Tobi	Killed (Killed)	Lachlan
+13	13	6	Simon	Killed (Killed)	Lazarbeam
+13	13	7	Tobi	Killed (Killed)	Josh
+14	14	1	Simon	Killed (Killed)	Vik
+14	14	2	Lachlan	Reported Body Of	Vik
+14	14	3	Simon	Was Voted Out	
+14	14	4	Josh	Killed (Killed)	Tobi
+14	14	5	Lachlan	Called Emergency Meeting	
+14	14	6	Lachlan	Was Voted Out	
+14	14	7	Ethan	Called Emergency Meeting	
+14	14	8	Josh	Killed (Killed)	Ethan
+14	14	9	Josh	Reported Body Of	Ethan
+14	14	10	Josh	Killed (Killed)	Fresh
+14	14	11	Lazarbeam	Reported Body Of	Fresh
+14	14	12	Josh	Was Voted Out	
+15	15	1	JJ	Called Emergency Meeting	
+15	15	2	JJ	Was Voted Out	
+15	15	3	Josh	Called Emergency Meeting	
+15	15	4	Vik	Was Voted Out	
+15	15	5	Simon	Killed (Killed)	Ethan
+15	15	6	Lachlan	Reported Body Of	Ethan
+15	15	7	Simon	Killed (Killed)	Lazarbeam
+15	15	8	Randolph	Called Emergency Meeting	
+15	15	9	Tobi	Was Voted Out	
+15	15	10	Simon	Killed (Killed)	Lachlan
+15	15	11		Tasks Completed	
+16	16	1	JJ	Killed (Killed)	Simon
+16	16	2	Lachlan	Reported Body Of	Simon
+16	16	3	Josh	Killed (Killed)	Ethan
+16	16	4	JJ	Killed (Killed)	Lachlan
+16	16	5	JJ	Reported Body Of	Lachlan
+16	16	6	Vik	Was Voted Out	
+16	16	7	Josh	Killed (Killed)	Lazarbeam
+16	16	8	JJ	Reported Body Of	Lazarbeam
+16	16	9	Josh	Was Voted Out	
+16	16	10	JJ	Killed (Killed)	Randolph
+16	16	11	Fresh	Called Emergency Meeting	
+16	16	12	Fresh	Was Voted Out	
+17	17	1	Simon	Killed (Killed)	Josh
+17	17	2	Simon	Killed (Killed)	Randolph
+17	17	3	Simon	Killed (Killed)	Ethan
+17	17	4	Lachlan	Reported Body Of	Ethan
+17	17	5	Lachlan	Was Voted Out	
+17	17	6	Vik	Killed (Killed)	JJ
+17	17	7	Vik	Killed (Killed)	Tobi
+18	18	1	Simon	Killed (Killed)	Fresh
+18	18	2	Vik	Reported Body Of	Fresh
+18	18	3	Vik	Was Voted Out	
+18	18	4	Simon	Killed (Killed)	Tobi
+18	18	5	Randolph	Killed (Killed)	Lachlan
+18	18	6	Lazarbeam	Reported Body Of	Tobi
+18	18	7	Lazarbeam	Was Voted Out	
+18	18	8	Simon	Killed (Killed)	Ethan
+19	19	1	Tobi	Killed (Killed)	JJ
+19	19	2	Fresh	Reported Body Of	JJ
+19	19	3	Tobi	Was Voted Out	
+19	19	4	Lachlan	Called Emergency Meeting	
+19	19	5	Simon	Was Voted Out	
+19	19	6	Ethan	Killed (Killed)	Lachlan
+19	19	7	Ethan	Killed (Killed)	Lazarbeam
+19	19	8	Fresh	Reported Body Of	Lachlan
+19	19	9	Vik	Was Voted Out	
+19	19	10	Ethan	Killed (Killed)	Josh
+19	19	11	Fresh	Reported Body Of	Josh
+19	19	12	Fresh	Was Voted Out	
+20	20	1	Lazarbeam	Killed (Killed)	Fresh
+20	20	2	JJ	Killed (Killed)	Randolph
+20	20	3	Lachlan	Reported Body Of	Randolph
+20	20	4	JJ	Was Voted Out	
+20	20	5	Lazarbeam	Killed (Killed)	Josh
+20	20	6	Simon	Reported Body Of	Josh
+20	20	7	Lazarbeam	Killed (Killed)	Simon
+20	20	8	Lachlan	Reported Body Of	Simon
+20	20	9	Lazarbeam	Killed (Killed)	Vik
+20	20	10	Lazarbeam	Reported Body Of	Vik
+20	20	11	Lachlan	Was Voted Out	
+20	20	12	Lazarbeam	Killed (Killed)	Ethan
+21	21	1	Fresh	Killed (Killed)	Josh
+21	21	2	Fresh	Reported Body Of	Josh
+21	21	3	JJ	Was Voted Out	
+21	21	4	Fresh	Killed (Killed)	Randolph
+21	21	5	Lachlan	Killed (Killed)	Simon
+21	21	6	Lazarbeam	Reported Body Of	Simon
+21	21	7	Lachlan	Was Voted Out	
+21	21	8	Fresh	Killed (Killed)	Lazarbeam
+21	21	9	Vik	Reported Body Of	Lazarbeam
+21	21	10	Fresh	Killed (Killed)	Vik
+21	21	11	Tobi	Called Emergency Meeting	
+21	21	12	Tobi	Was Voted Out	
+22	22	1	Harry	Killed (Killed)	Josh
+22	22	2	Vik	Reported Body Of	Josh
+22	22	3	Vik	Was Voted Out	
+22	22	4	MrBeast	Killed (Killed)	Ethan
+22	22	5	Harry	Killed (Killed)	Simon
+22	22	6	MrBeast	Killed (Killed)	Tobi
+22	22	7	Karl	Reported Body Of	Tobi
+22	22	8	Karl	Was Voted Out	
+23	23	1	JJ	Killed (Killed)	Ethan
+23	23	2	MrBeast	Reported Body Of	Ethan
+23	23	3	MrBeast	Called Emergency Meeting	
+23	23	4	Tobi	Killed (Killed)	Harry
+23	23	5	JJ	Killed (Killed)	Simon
+23	23	6	Karl	Reported Body Of	Harry
+23	23	7	Karl	Was Voted Out	
+23	23	8	JJ	Killed (Killed)	Josh
+23	23	9	Vik	Reported Body Of	Josh
+23	23	10	Tobi	Killed (Killed)	Vik
+24	24	1	Simon	Called Emergency Meeting	
+24	24	2	JJ	Was Voted Out	
+24	24	3	Vik	Killed (Killed)	Simon
+24	24	4	Tobi	Reported Body Of	Simon
+24	24	5	Tobi	Was Voted Out	
+24	24	6	Vik	Killed (Killed)	Ethan
+24	24	7	Chandler	Killed (Killed)	Karl
+24	24	8	Vik	Killed (Killed)	Josh
+25	25	1	JJ	Killed (Killed)	Tobi
+25	25	2	Harry	Reported Body Of	Tobi
+25	25	3	JJ	Killed (Killed)	Vik
+25	25	4	Karl	Reported Body Of	Vik
+25	25	5	JJ	Killed (Killed)	Ethan
+25	25	6	Chandler	Reported Body Of	Ethan
+25	25	7	JJ	Killed (Killed)	Harry
+25	25	8	Simon	Reported Body Of	Harry
+25	25	9	JJ	Was Voted Out	
+26	26	1	Tobi	Killed (Killed)	Harry
+26	26	2	Ethan	Reported Body Of	Harry
+26	26	3	Tobi	Killed (Killed)	Josh
+26	26	4	Vik	Reported Body Of	Josh
+26	26	5	Tobi	Killed (Killed)	JJ
+26	26	6	Chandler	Reported Body Of	JJ
+26	26	7	Tobi	Killed (Killed)	Ethan
+26	26	8	Simon	Reported Body Of	Ethan
+26	26	9	Tobi	Was Voted Out	
+27	27	1	MrBeast	Called Emergency Meeting	
+27	27	2	Simon	Killed (Killed)	Tobi
+27	27	3	Chandler	Reported Body Of	Tobi
+27	27	4	Karl	Called Emergency Meeting	
+27	27	5	Simon	Killed (Killed)	Josh
+27	27	6	MrBeast	Killed (Killed)	JJ
+27	27	7	Chandler	Reported Body Of	JJ
+27	27	8	MrBeast	Killed (Killed)	Harry
+27	27	9	Simon	Killed (Killed)	Chandler
+27	27	10	Karl	Reported Body Of	Harry
+27	27	11	MrBeast	Was Voted Out	
+27	27	12	Simon	Killed (Killed)	Ethan
+27	27	13	Karl	Reported Body Of	Ethan
+27	27	14	Simon	Was Voted Out	
+28	28	1	Harry	Killed (Killed)	Kay
+28	28	2	Apex	Reported Body Of	Kay
+28	28	3	JJ	Was Voted Out	
+28	28	4	Harry	Killed (Killed)	Jarvis
+28	28	5	Vik	Called Emergency Meeting	
+28	28	6	Harry	Killed (Killed)	Tobi
+28	28	7	Harry	Reported Body Of	Tobi
+28	28	8	Harry	Was Voted Out	
+28	28	9	Apex	Killed (Killed)	Vik
+28	28	10	Ethan	Called Emergency Meeting	
+28	28	11	Apex	Killed (Killed)	Josh
+28	28	12	Ethan	Reported Body Of	Josh
+28	28	13	Apex	Was Voted Out	
+29	29	1	Harry	Killed (Killed)	Josh
+29	29	2	Simon	Killed (Killed)	Jarvis
+29	29	3	Ethan	Reported Body Of	Josh
+29	29	4	Tobi	Was Voted Out	
+29	29	5	Harry	Killed (Killed)	JJ
+29	29	6	Harry	Killed (Killed)	Ethan
+29	29	7	Harry	Reported Body Of	Ethan
+29	29	8	Vik	Was Voted Out	
+30	30	1	Simon	Called Emergency Meeting	
+30	30	2	Kay	Killed (Killed)	Ethan
+30	30	3	Josh	Reported Body Of	Ethan
+30	30	4	Kay	Killed (Killed)	Harry
+30	30	5	Tobi	Killed (Killed)	Vik
+30	30	6	Kay	Killed (Killed)	Jarvis
+30	30	7	Tobi	Killed (Killed)	Apex
+30	30	8	Josh	Reported Body Of	Jarvis
+30	30	9	Simon	Was Voted Out	
+31	31	1	Ethan	Killed (Killed)	Apex
+31	31	2	Vik	Killed (Killed)	Simon
+31	31	3	Harry	Reported Body Of	Apex
+31	31	4	Ethan	Killed (Killed)	Josh
+31	31	5	Vik	Killed (Killed)	Jarvis
+31	31	6	Tobi	Called Emergency Meeting	
+31	31	7	JJ	Was Voted Out	
+31	31	8	Vik	Killed (Killed)	Harry
+32	32	1	Ethan	Killed (Killed)	Apex
+32	32	2	Kay	Killed (Killed)	Harry
+32	32	3	Vik	Reported Body Of	Apex
+32	32	4	Josh	Was Voted Out	
+32	32	5	Ethan	Killed (Killed)	Jarvis
+32	32	6	Ethan	Reported Body Of	Jarvis
+32	32	7	JJ	Was Voted Out	
+32	32	8	Kay	Killed (Killed)	Vik
+33	33	1	Harry	Killed (Killed)	Ethan
+33	33	2	Josh	Killed (Killed)	Jarvis
+33	33	3	Apex	Reported Body Of	Jarvis
+33	33	4	Josh	Was Voted Out	
+33	33	5	Harry	Killed (Killed)	Simon
+33	33	6	JJ	Called Emergency Meeting	
+33	33	7	Harry	Was Voted Out	
+34	34	1	JJ	Killed (Killed)	Vik
+34	34	2	Josh	Reported Body Of	Vik
+34	34	3	JJ	Killed (Killed)	Tobi
+34	34	4	Apex	Reported Body Of	Tobi
+34	34	5	JJ	Was Voted Out	
+34	34	6	Jarvis	Killed (Killed)	Harry
+34	34	7	Kay	Reported Body Of	Harry
+34	34	8	Jarvis	Was Voted Out	
+35	35	1	JJ	Killed (Killed)	Josh
+35	35	2	Tobi	Killed (Killed)	Simon
+35	35	3	Harry	Reported Body Of	Josh
+35	35	4	Harry	Was Voted Out	
+35	35	5	JJ	Killed (Killed)	Ethan
+35	35	6	Callux	Reported Body Of	Ethan
+35	35	7	JJ	Killed (Killed)	Vik
+35	35	8	Tobi	Killed (Killed)	Randolph
+36	36	1	Simon	Killed (Killed)	Calfreezy
+36	36	2	JJ	Killed (Killed)	Harry
+36	36	3	Callux	Reported Body Of	Calfreezy
+36	36	4	Simon	Killed (Killed)	Callux
+36	36	5	Simon	Killed (Killed)	Tobi
+36	36	6	Simon	Killed (Killed)	Josh
+36	36	7	JJ	Killed (Killed)	Randolph
+37	37	1	Ethan	Called Emergency Meeting	
+37	37	2	JJ	Was Voted Out	
+37	37	3	Vik	Disconnected	
+37	37	4	Harry	Killed (Killed)	Josh
+37	37	5	Randolph	Killed (Killed)	Callux
+37	37	6	Simon	Reported Body Of	Callux
+37	37	7	Harry	Was Voted Out	
+37	37	8	Randolph	Killed (Killed)	Tobi
+37	37	9	Randolph	Reported Body Of	Tobi
+37	37	10	Simon	Was Voted Out	
+37	37	11	Simon	Killed (Killed)	Calfreezy
+38	38	1	Ethan	Killed (Killed)	Harry
+38	38	2	Vik	Reported Body Of	Harry
+38	38	3	Ethan	Killed (Killed)	Josh
+38	38	4	Simon	Reported Body Of	Josh
+38	38	5	JJ	Killed (Killed)	Callux
+38	38	6	Randolph	Reported Body Of	Callux
+38	38	7	JJ	Killed (Killed)	Calfreezy
+38	38	8	Tobi	Reported Body Of	Calfreezy
+38	38	9	Simon	Called Emergency Meeting	
+38	38	10	Randolph	Called Emergency Meeting	
+38	38	11	JJ	Was Voted Out	
+39	39	1	Calfreezy	Killed (Killed)	Josh
+39	39	2	Ethan	Killed (Killed)	Tobi
+39	39	3	Ethan	Killed (Killed)	Vik
+39	39	4	Harry	Reported Body Of	Vik
+39	39	5	Calfreezy	Was Voted Out	
+39	39	6	Harry	Called Emergency Meeting	
+39	39	7	Ethan	Killed (Killed)	JJ
+39	39	8	Simon	Reported Body Of	JJ
+39	39	9	Randolph	Was Voted Out	
+39	39	10	Ethan	Killed (Killed)	Simon
+39	39	11	Harry	Reported Body Of	Simon
+39	39	12	Ethan	Killed (Killed)	Callux
+40	40	1	Josh	Killed (Killed)	Simon
+40	40	2	Ethan	Reported Body Of	Simon
+40	40	3	Ethan	Was Voted Out	
+40	40	4	JJ	Called Emergency Meeting	
+40	40	5	JJ	Was Voted Out	
+40	40	6	Calfreezy	Killed (Killed)	Harry
+40	40	7	Josh	Killed (Killed)	Callux
+40	40	8	Randolph	Reported Body Of	Callux
+40	40	9	Josh	Was Voted Out	
+40	40	10	Calfreezy	Killed (Killed)	Randolph
+40	40	11	Tobi	Reported Body Of	Randolph
+40	40	12	Calfreezy	Was Voted Out	
+41	41	1	TommyInnit	Killed (Killed)	Vik
+41	41	2	TommyInnit	Reported Body Of	Vik
+41	41	3	JJ	Was Voted Out	
+41	41	4	TommyInnit	Killed (Killed)	Simon
+41	41	5	TommyInnit	Reported Body Of	Simon
+41	41	6	TommyInnit	Was Voted Out	
+42	42	1	Simon	Called Emergency Meeting	
+42	42	2	JJ	Was Voted Out	
+42	42	3	Tobi	Killed (Killed)	Ethan
+42	42	4	Josh	Reported Body Of	Ethan
+42	42	5	TommyInnit	Disconnected	
+42	42	6	Harry	Disconnected	
+42	42	7	Tobi	Killed (Killed)	Simon
+42	42	8	Vik	Reported Body Of	Simon
+42	42	9	Tobi	Was Voted Out	
+42	42	10	Vik	Called Emergency Meeting	
+42	42	11	Wilbur	Killed (Killed)	Josh
+42	42	12	Tubbo	Reported Body Of	Josh
+42	42	13	Wilbur	Was Voted Out	
+43	43	1	TommyInnit	Killed (Killed)	Tubbo
+43	43	2	Josh	Killed (Killed)	Vik
+43	43	3	Ethan	Reported Body Of	Vik
+43	43	4	Wilbur	Was Voted Out	
+43	43	5	Simon	Called Emergency Meeting	
+43	43	6	Josh	Was Voted Out	
+43	43	7	TommyInnit	Killed (Killed)	Simon
+43	43	8	Ethan	Reported Body Of	Simon
+43	43	9	TommyInnit	Was Voted Out	
+44	44	1	Josh	Killed (Killed)	Tobi
+44	44	2	Simon	Killed (Killed)	Wilbur
+44	44	3	Simon	Killed (Killed)	Vik
+44	44	4	Harry	Reported Body Of	Tobi
+44	44	5	JJ	Was Voted Out	
+44	44	6	Simon	Killed (Killed)	TommyInnit
+44	44	7	Josh	Killed (Killed)	Ethan
+45	45	1	Ethan	Called Emergency Meeting	
+45	45	2	Vik	Killed (Killed)	Wilbur
+45	45	3	Tobi	Reported Body Of	Wilbur
+45	45	4	Josh	Killed (Killed)	Simon
+45	45	5	Vik	Killed (Killed)	Tobi
+45	45	6	Ethan	Reported Body Of	Simon
+45	45	7	JJ	Was Voted Out	
+45	45	8	Tubbo	Called Emergency Meeting	
+45	45	9	Tubbo	Was Voted Out	
+45	45	10	Josh	Killed (Killed)	Ethan
+46	46	1	TommyInnit	Killed (Killed)	Ethan
+46	46	2	Simon	Killed (Killed)	Tubbo
+46	46	3	Wilbur	Reported Body Of	Tubbo
+46	46	4	TommyInnit	Killed (Killed)	Harry
+46	46	5	Vik	Reported Body Of	Harry
+46	46	6	TommyInnit	Was Voted Out	
+46	46	7	Tobi	Called Emergency Meeting	
+46	46	8	Simon	Killed (Killed)	Josh
+46	46	9	Vik	Reported Body Of	Josh
+46	46	10	Simon	Was Voted Out	
+47	47	1	Wilbur	Called Emergency Meeting	
+47	47	2	JJ	Called Emergency Meeting	
+47	47	3	JJ	Was Voted Out	
+47	47	4	Simon	Called Emergency Meeting	
+47	47	5	TommyInnit	Was Voted Out	
+47	47	6	Tubbo	Called Emergency Meeting	
+47	47	7	Josh	Killed (Killed)	Vik
+47	47	8	Simon	Reported Body Of	Vik
+47	47	9	Harry	Was Voted Out	
+47	47	10	Josh	Killed (Killed)	Tubbo
+47	47	11	Simon	Reported Body Of	Tubbo
+47	47	12	Josh	Was Voted Out	
+47	47	13	Ethan	Called Emergency Meeting	
+47	47	14	Wilbur	Was Voted Out	
+48	48	1	TommyInnit	Called Emergency Meeting	
+48	48	2	Ethan	Was Voted Out	
+48	48	3	Tubbo	Killed (Killed)	Josh
+48	48	4	JJ	Called Emergency Meeting	
+48	48	5	Simon	Was Voted Out	
+48	48	6	Tubbo	Killed (Killed)	Wilbur
+48	48	7	Harry	Reported Body Of	Wilbur
+48	48	8	Harry	Was Voted Out	
+48	48	9	Tobi	Killed (Killed)	Vik
+49	49	1	Ellum	Killed (Killed)	Simon
+49	49	2	JJ	Killed (Killed)	Tobi
+49	49	3	Harry	Reported Body Of	Simon
+49	49	4	Randolph	Was Voted Out	
+49	49	5	Ellum	Killed (Killed)	Harry
+49	49	6	JJ	Killed (Killed)	Vik
+49	49	7	JJ	Reported Body Of	Harry
+49	49	8	Josh	Was Voted Out	
+50	50	1	Ethan	Killed (Killed)	Vik
+50	50	2	Harry	Reported Body Of	Vik
+50	50	3	Ethan	Killed (Killed)	JJ
+50	50	4	Ethan	Reported Body Of	JJ
+50	50	5	Ethan	Was Voted Out	
+50	50	6	Josh	Killed (Killed)	Randolph
+50	50	7	Josh	Killed (Killed)	Harry
+50	50	8	Simon	Reported Body Of	Harry
+50	50	9	Ellum	Was Voted Out	
+50	50	10	Tobi	Called Emergency Meeting	
+50	50	11	Josh	Killed (Killed)	Theo
+50	50	12	Tobi	Reported Body Of	Theo
+50	50	13	Josh	Was Voted Out	
+51	51	1	JJ	Called Emergency Meeting	
+51	51	2	JJ	Was Voted Out	
+51	51	3	Vik	Killed (Killed)	Ellum
+51	51	4	Josh	Reported Body Of	Ellum
+51	51	5	Josh	Killed (Killed)	Theo
+51	51	6	Vik	Killed (Killed)	Tobi
+51	51	7	Ethan	Reported Body Of	Tobi
+51	51	8	Harry	Was Voted Out	
+51	51	9	Vik	Killed (Killed)	Ethan
+52	52	1	Ethan	Killed (Killed)	Josh
+52	52	2	Vik	Reported Body Of	Josh
+52	52	3	Harry	Killed (Killed)	Theo
+52	52	4	Vik	Reported Body Of	Theo
+52	52	5	Harry	Was Voted Out	
+52	52	6	Ethan	Killed (Killed)	Tobi
+52	52	7	Vik	Called Emergency Meeting	
+52	52	8	Ethan	Was Voted Out	
+53	53	1	JJ	Killed (Killed)	Harry
+53	53	2	Vik	Killed (Killed)	Tobi
+53	53	3	JJ	Called Emergency Meeting	
+53	53	4	Randolph	Was Voted Out	
+53	53	5	JJ	Killed (Killed)	Simon
+53	53	6	Vik	Killed (Killed)	Ethan
+53	53	7	JJ	Killed (Killed)	Theo
+54	54	1	Ethan	Killed (Killed)	Randolph
+54	54	2	Vik	Killed (Killed)	Simon
+54	54	3	Ellum	Reported Body Of	Simon
+54	54	4	Ellum	Was Voted Out	
+54	54	5	Ethan	Killed (Killed)	Harry
+54	54	6	Vik	Killed (Killed)	Josh
+54	54	7	Ethan	Reported Body Of	Harry
+54	54	8	JJ	Was Voted Out	
+55	55	1	Josh	Killed (Killed)	Tobi
+55	55	2	Harry	Reported Body Of	Tobi
+55	55	3	Josh	Killed (Killed)	Theo
+55	55	4	Randolph	Killed (Killed)	Simon
+55	55	5	Vik	Reported Body Of	Theo
+55	55	6	Ellum	Was Voted Out	
+55	55	7	Randolph	Killed (Killed)	Harry
+55	55	8	JJ	Called Emergency Meeting	
+55	55	9	JJ	Was Voted Out	
+56	56	1	Muselk	Killed (Killed)	Lazarbeam
+56	56	2	Harry	Reported Body Of	Lazarbeam
+56	56	3	Simon	Was Voted Out	
+56	56	4	Vik	Killed (Killed)	Harry
+56	56	5	Muselk	Killed (Killed)	Josh
+56	56	6	Ethan	Reported Body Of	Josh
+56	56	7	JJ	Was Voted Out	
+56	56	8	Muselk	Killed (Killed)	Lachlan
+57	57	1	Harry	Called Emergency Meeting	
+57	57	2	JJ	Called Emergency Meeting	
+57	57	3	Josh	Killed (Killed)	Simon
+57	57	4	Muselk	Reported Body Of	Simon
+57	57	5	Josh	Was Voted Out	
+57	57	6	Lachlan	Killed (Killed)	Muselk
+57	57	7	Lachlan	Reported Body Of	Muselk
+57	57	8	Lachlan	Killed (Killed)	Harry
+57	57	9	Lachlan	Reported Body Of	Harry
+57	57	10	Lachlan	Was Voted Out	
+58	58	1	Harry	Killed (Killed)	Simon
+58	58	2	Josh	Reported Body Of	Simon
+58	58	3	Harry	Killed (Killed)	Tobi
+58	58	4	JJ	Killed (Killed)	Lazarbeam
+58	58	5	Harry	Reported Body Of	Lazarbeam
+58	58	6	Vik	Was Voted Out	
+58	58	7	JJ	Killed (Killed)	Lachlan
+58	58	8	Harry	Killed (Killed)	Ethan
+59	59	1	Simon	Killed (Killed)	JJ
+59	59	2	Josh	Killed (Killed)	Harry
+59	59	3	Muselk	Reported Body Of	JJ
+59	59	4	Simon	Was Voted Out	
+59	59	5	Lazarbeam	Called Emergency Meeting	
+59	59	6	Josh	Was Voted Out	
+60	60	1	Lazarbeam	Killed (Killed)	Muselk
+60	60	2	Simon	Reported Body Of	Muselk
+60	60	3	Lazarbeam	Killed (Killed)	Vik
+60	60	4	Harry	Reported Body Of	Vik
+60	60	5	Harry	Was Voted Out	
+60	60	6	Ethan	Killed (Killed)	Tobi
+60	60	7	Simon	Reported Body Of	Tobi
+60	60	8	Ethan	Was Voted Out	
+60	60	9	Lazarbeam	Killed (Killed)	JJ
+60	60	10	Simon	Reported Body Of	JJ
+60	60	11	Lazarbeam	Was Voted Out	
+61	61	1	JJ	Killed (Killed)	Ethan
+61	61	2	Vik	Killed (Killed)	Josh
+61	61	3	Simon	Reported Body Of	Ethan
+61	61	4	Vik	Was Voted Out	
+61	61	5	JJ	Killed (Killed)	Muselk
+61	61	6	Tobi	Reported Body Of	Muselk
+61	61	7	JJ	Was Voted Out	
+62	62	1	Lazarbeam	Killed (Killed)	Ethan
+62	62	2	JJ	Killed (Killed)	Vik
+62	62	3	JJ	Reported Body Of	Ethan
+62	62	4	Lazarbeam	Shapeshifted Into	Lachlan
+62	62	5	Lazarbeam	Killed (Killed)	Harry
+62	62	6	Lachlan	Reported Body Of	Harry
+62	62	7	Lazarbeam	Shapeshifted Into	Muselk
+62	62	8	Lazarbeam	Killed (Killed)	Simon
+62	62	9	Lachlan	Reported Body Of	Simon
+62	62	10	Lazarbeam	Shapeshifted Into	Muselk
+62	62	11	Lazarbeam	Killed (Killed)	Tobi
+62	62	12	Lachlan	Reported Body Of	Tobi
+62	62	13	Lachlan	Was Voted Out	
+63	63	1	Vik	Shapeshifted Into	Simon
+63	63	2	Vik	Killed (Killed)	Lazarbeam
+63	63	3	Ethan	Reported Body Of	Lazarbeam
+63	63	4	Vik	Was Voted Out	
+63	63	5	Harry	Called Emergency Meeting	
+63	63	6	JJ	Called Emergency Meeting	
+63	63	7	Lachlan	Killed (Killed)	Muselk
+63	63	8	Ethan	Reported Body Of	Muselk
+63	63	9	Lachlan	Killed (Killed)	Ethan
+63	63	10	Harry	Reported Body Of	Ethan
+63	63	11	Lachlan	Was Voted Out	
+64	64	1	Vik	Killed (Killed)	Josh
+64	64	2	Muselk	Reported Body Of	Josh
+64	64	3	Vik	Shapeshifted Into	Harry
+64	64	4	Vik	Killed (Killed)	Lachlan
+64	64	5	Lazarbeam	Killed (Killed)	Simon
+64	64	6	Muselk	Reported Body Of	Simon
+64	64	7	Muselk	Was Voted Out	
+64	64	8	Vik	Shapeshifted Into	Ethan
+64	64	9	Lazarbeam	Killed (Killed)	Tobi
+64	64	10	Vik	Killed (Killed)	Ethan
+65	65	1	Randolph	Killed (Killed)	Harry
+65	65	2	Ellum	Killed (Killed)	JJ
+65	65	3	Randolph	Reported Body Of	Harry
+65	65	4	Ellum	Killed (Killed)	Ethan
+65	65	5	Tobi	Reported Body Of	Ethan
+65	65	6	Ellum	Was Voted Out	
+65	65	7	Simon	Called Emergency Meeting	
+65	65	8	Randolph	Killed (Killed)	Simon
+65	65	9	Randolph	Killed (Killed)	Vik
+65	65	10	Josh	Reported Body Of	Vik
+65	65	11	Randolph	Was Voted Out	
+66	66	1	JJ	Killed (Killed)	Ellum
+66	66	2	Simon	Reported Body Of	Ellum
+66	66	3	Ethan	Killed (Killed)	Randolph
+66	66	4	JJ	Killed (Killed)	Harry
+66	66	5	Simon	Reported Body Of	Randolph
+66	66	6	Ethan	Was Voted Out	
+66	66	7	Vik	Called Emergency Meeting	
+66	66	8	JJ	Killed (Killed)	Tobi
+66	66	9	JJ	Called Emergency Meeting	
+66	66	10	JJ	Killed (Killed)	Vik
+66	66	11	Simon	Reported Body Of	Vik
+66	66	12	Simon	Called Emergency Meeting	
+66	66	13	JJ	Was Voted Out	
+67	67	1	JJ	Killed (Killed)	Ellum
+67	67	2	Randolph	Reported Body Of	Ellum
+67	67	3	JJ	Killed (Killed)	Ethan
+67	67	4	JJ	Reported Body Of	Ethan
+67	67	5	JJ	Was Voted Out	
+67	67	6	Harry	Killed (Killed)	Tobi
+67	67	7	Randolph	Reported Body Of	Tobi
+67	67	8	Harry	Was Voted Out	
+68	68	1	Ethan	Killed (Killed)	Simon
+68	68	2	JJ	Called Emergency Meeting	
+68	68	3	Ethan	Killed (Killed)	Randolph
+68	68	4	Josh	Killed (Killed)	Harry
+68	68	5	Ellum	Reported Body Of	Randolph
+68	68	6	Ethan	Was Voted Out	
+68	68	7	Josh	Killed (Killed)	Vik
+68	68	8	Josh	Killed (Killed)	Tobi
+68	68	9	Josh	Killed (Killed)	JJ
+69	69	1	Vik	Killed (Killed)	Josh
+69	69	2	Simon	Shapeshifted Into	JJ
+69	69	3	JJ	Called Emergency Meeting	
+69	69	4	Josh	Protected	Ellum
+69	69	5	Simon	Shapeshifted Into	Ellum
+69	69	6	Simon	Killed (Killed)	Harry
+69	69	7	Ellum	Reported Body Of	Harry
+69	69	8	JJ	Was Voted Out	
+69	69	9	Simon	Shapeshifted Into	Tobi
+69	69	10	Simon	Killed (Killed)	Ellum
+69	69	11	Vik	Reported Body Of	Ellum
+69	69	12	Tobi	Was Voted Out	
+70	70	1	Ellum	Killed (Killed)	Ethan
+70	70	2	Simon	Reported Body Of	Ethan
+70	70	3	Josh	Killed (Killed)	Vik
+70	70	4	Ellum	Killed (Killed)	Simon
+70	70	5	Harry	Reported Body Of	Simon
+70	70	6	Josh	Killed (Killed)	Harry
+70	70	7	Ellum	Killed (Killed)	Randolph
+71	71	1	Tobi	Killed (Killed)	ChrisMD
+71	71	2	Simon	Reported Body Of	ChrisMD
+71	71	3	Tobi	Was Voted Out	
+71	71	4	Randolph	Killed (Killed)	Josh
+71	71	5	Vik	Reported Body Of	Josh
+71	71	6	Randolph	Was Voted Out	
+72	72	1	Ethan	Killed (Killed)	Randolph
+72	72	2	ChrisMD	Killed (Killed)	JJ
+72	72	3	ChrisMD	Reported Body Of	JJ
+72	72	4	ChrisMD	Killed (Killed)	Vik
+72	72	5	ChrisMD	Reported Body Of	Vik
+72	72	6	Ethan	Killed (Killed)	Harry
+72	72	7	Simon	Reported Body Of	Harry
+72	72	8	ChrisMD	Was Voted Out	
+72	72	9	Ethan	Killed (Killed)	Simon
+72	72	10	Tobi	Called Emergency Meeting	
+72	72	11	Ethan	Was Voted Out	
+73	73	1	Vik	Killed (Killed)	Ethan
+73	73	2	Simon	Reported Body Of	Ethan
+73	73	3	JJ	Was Voted Out	
+73	73	4	Harry	Killed (Killed)	Simon
+73	73	5	Vik	Killed (Killed)	Josh
+73	73	6	Randolph	Reported Body Of	Josh
+73	73	7	Tobi	Was Voted Out	
+73	73	8	Harry	Killed (Killed)	Randolph
+74	74	1	Vik	Killed (Killed)	Josh
+74	74	2	WillNE	Killed (Killed)	ChrisMD
+74	74	3	Vik	Killed (Killed)	Simon
+74	74	4	Randolph	Reported Body Of	Josh
+74	74	5	Vik	Was Voted Out	
+74	74	6	WillNE	Killed (Killed)	Harry
+74	74	7	Randolph	Reported Body Of	Harry
+74	74	8	JJ	Called Emergency Meeting	
+74	74	9	WillNE	Killed (Killed)	Ethan
+74	74	10	Randolph	Reported Body Of	Ethan
+74	74	11	Tobi	Called Emergency Meeting	
+74	74	12	WillNE	Was Voted Out	
+75	75	1	Randolph	Shapeshifted Into	Simon
+75	75	2	Randolph	Killed (Killed)	JJ
+75	75	3	Ethan	Killed (Killed)	Vik
+75	75	4	Randolph	Killed (Killed)	Simon
+75	75	5	Randolph	Shapeshifted Into	Harry
+75	75	6	Josh	Reported Body Of	Simon
+75	75	7	Josh	Was Voted Out	
+75	75	8	Ethan	Killed (Killed)	Tobi
+75	75	9	WillNE	Reported Body Of	Tobi
+75	75	10	WillNE	Was Voted Out	
+76	76	1	WillNE	Called Emergency Meeting	
+76	76	2	Harry	Was Voted Out	
+76	76	3	Vik	Called Emergency Meeting	
+76	76	4	Vik	Was Voted Out	
+76	76	5	Josh	Killed (Killed)	Randolph
+76	76	6	Josh	Reported Body Of	Randolph
+76	76	7	WillNE	Was Voted Out	
+76	76	8	JJ	Called Emergency Meeting	
+76	76	9	JJ	Was Voted Out	
+76	76	10	Josh	Killed (Killed)	Ethan
+77	77	1	ChrisMD	Killed (Killed)	Ethan
+77	77	2	Tobi	Shapeshifted Into	Randolph
+77	77	3	Tobi	Killed (Killed)	Harry
+77	77	4	Vik	Reported Body Of	Harry
+77	77	5	Simon	Called Emergency Meeting	
+77	77	6	JJ	Called Emergency Meeting	
+77	77	7	Tobi	Killed (Killed)	JJ
+77	77	8	Tobi	Reported Body Of	JJ
+77	77	9	WillNE	Was Voted Out	
+77	77	10	Tobi	Shapeshifted Into	ChrisMD
+77	77	11	Tobi	Killed (Killed)	Randolph
+77	77	12	Vik	Called Emergency Meeting	
+77	77	13	ChrisMD	Killed (Killed)	Simon
+78	78	1	Josh	Killed (Killed)	Simon
+78	78	2	Ethan	Killed (Killed)	Harry
+78	78	3	Vik	Reported Body Of	Simon
+78	78	4	Simon	Protected	Tobi
+78	78	5	Josh	Killed (Killed)	Vik
+78	78	6	JJ	Reported Body Of	Vik
+78	78	7	Ethan	Killed (Killed)	WillNE
+78	78	8	ChrisMD	Reported Body Of	WillNE
+78	78	9	Ethan	Was Voted Out	
+78	78	10	Randolph	Called Emergency Meeting	
+78	78	11	Josh	Killed (Killed)	Randolph
+78	78	12	Simon	Protected	JJ
+78	78	13	Josh	Killed (Killed)	JJ
+78	78	14	Tobi	Reported Body Of	JJ
+78	78	15	Josh	Was Voted Out	
+79	79	1	JJ	Killed (Killed)	Simon
+79	79	2	Vik	Reported Body Of	Simon
+79	79	3	JJ	Killed (Killed)	Ethan
+79	79	4	Josh	Reported Body Of	Ethan
+79	79	5	JJ	Was Voted Out	
+79	79	6	Theo	Killed (Killed)	Vik
+79	79	7	Tobi	Reported Body Of	Vik
+79	79	8	Tobi	Was Voted Out	
+79	79	9	Theo	Killed (Killed)	Viz
+79	79	10	Harry	Called Emergency Meeting	
+79	79	11	Theo	Killed (Killed)	Harry
+79	79	12	Josh	Called Emergency Meeting	
+79	79	13	Josh	Was Voted Out	
+80	80	1	Vik	Killed (Killed)	Harry
+80	80	2	Viz	Reported Body Of	Harry
+80	80	3	Tobi	Killed (Killed)	MilkInABag
+80	80	4	Tobi	Killed (Killed)	Josh
+80	80	5	Ethan	Reported Body Of	Josh
+80	80	6	Viz	Was Voted Out	
+80	80	7	Vik	Killed (Killed)	Randolph
+80	80	8	Simon	Reported Body Of	Randolph
+80	80	9	Tobi	Killed (Killed)	JJ
+81	81	1	Simon	Killed (Killed)	Viz
+81	81	2	Vik	Killed (Killed)	Randolph
+81	81	3	Harry	Reported Body Of	Viz
+81	81	4	Simon	Killed (Killed)	MilkInABag
+81	81	5	Tobi	Reported Body Of	MilkInABag
+81	81	6	Vik	Killed (Killed)	Josh
+81	81	7	Simon	Killed (Killed)	Tobi
+81	81	8	Ethan	Reported Body Of	Josh
+81	81	9	Harry	Was Voted Out	
+82	82	1	Tobi	Killed (Killed)	MilkInABag
+82	82	2	Tobi	Reported Body Of	MilkInABag
+82	82	3	Viz	Killed (Killed)	Randolph
+82	82	4	Tobi	Reported Body Of	Randolph
+82	82	5	Tobi	Killed (Killed)	Vik
+82	82	6	Viz	Killed (Killed)	Harry
+82	82	7	Josh	Reported Body Of	Vik
+82	82	8	Viz	Was Voted Out	
+82	82	9	Tobi	Killed (Killed)	Josh
+82	82	10	Ethan	Reported Body Of	Josh
+82	82	11	Simon	Was Voted Out	
+83	83	1	Josh	Killed (Killed)	JJ
+83	83	2	Josh	Killed (Killed)	Simon
+83	83	3	DannyAarons	Killed (Killed)	Tobi
+83	83	4	Josh	Killed (Killed)	Harry
+83	83	5	DannyAarons	Killed (Killed)	Ethan
+83	83	6	JME	Reported Body Of	Josh
+83	83	7	Josh	Was Voted Out	
+83	83	8	DannyAarons	Killed (Killed)	JME
+83	83	9	Vik	Reported Body Of	JME
+83	83	10	DannyAarons	Was Voted Out	
+84	84	1	DannyAarons	Killed (Killed)	Vik
+84	84	2	Harry	Reported Body Of	Vik
+84	84	3	Ethan	Was Voted Out	
+84	84	4	Harry	Killed (Killed)	Viz
+84	84	5	Josh	Reported Body Of	Viz
+84	84	6	Harry	Killed (Killed)	JME
+84	84	7	Simon	Called Emergency Meeting	
+84	84	8	Josh	Was Voted Out	
+84	84	9	DannyAarons	Killed (Killed)	JJ
+85	85	1	Ethan	Killed (Killed)	Harry
+85	85	2	JJ	Called Emergency Meeting	
+85	85	3	JME	Killed (Killed)	Josh
+85	85	4	DannyAarons	Reported Body Of	Josh
+85	85	5	Ethan	Killed (Killed)	DannyAarons
+85	85	6	Simon	Reported Body Of	DannyAarons
+85	85	7	Ethan	Killed (Killed)	JJ
+85	85	8	Viz	Reported Body Of	JJ
+85	85	9	Ethan	Was Voted Out	
+85	85	10	JME	Killed (Killed)	Simon
+85	85	11	Vik	Reported Body Of	Simon
+85	85	12	JME	Called Emergency Meeting	
+85	85	13	Vik	Was Voted Out	
+85	85	14	JME	Killed (Killed)	Viz
+86	86	1	Josh	Killed (Killed)	Ethan
+86	86	2	JME	Killed (Killed)	JJ
+86	86	3	Vik	Reported Body Of	Ethan
+86	86	4	JME	Killed (Killed)	Simon
+86	86	5	Vik	Reported Body Of	Simon
+86	86	6	JME	Was Voted Out	
+86	86	7	Josh	Killed (Killed)	Viz
+86	86	8	Tobi	Reported Body Of	Viz
+86	86	9	Josh	Was Voted Out	
+87	87	1	JME	Called Emergency Meeting	
+87	87	2	Josh	Killed (Killed)	DannyAarons
+87	87	3	JJ	Killed (Killed)	JME
+87	87	4	Ethan	Reported Body Of	JME
+87	87	5	Tobi	Called Emergency Meeting	
+87	87	6	Ethan	Called Emergency Meeting	
+87	87	7	JJ	Was Voted Out	
+87	87	8	Josh	Killed (Killed)	Simon
+87	87	9	Viz	Reported Body Of	Simon
+87	87	10	Josh	Was Voted Out	
+88	88	1	Viz	Killed (Killed)	Tobi
+88	88	2	Harry	Reported Body Of	Tobi
+88	88	3	Viz	Was Voted Out	
+88	88	4	JJ	Called Emergency Meeting	
+88	88	5	JJ	Was Voted Out	
+88	88	6	Josh	Killed (Killed)	Ethan
+88	88	7	Vik	Reported Body Of	Ethan
+88	88	8	Josh	Was Voted Out	
+89	89	1	Simon	Killed (Killed)	JJ
+89	89	2	Josh	Killed (Killed)	Tobi
+89	89	3	Vik	Reported Body Of	Tobi
+89	89	4	Josh	Killed (Killed)	Harry
+89	89	5	Lazarbeam	Reported Body Of	Harry
+89	89	6	Josh	Was Voted Out	
+89	89	7	Simon	Killed (Killed)	Vik
+89	89	8	Ethan	Reported Body Of	Vik
+89	89	9	Simon	Killed (Killed)	Lachlan
+89	89	10	Lazarbeam	Reported Body Of	Lachlan
+89	89	11	Lazarbeam	Was Voted Out	
+89	89	12	Simon	Killed (Killed)	Ethan
+90	90	1	Tobi	Killed (Killed)	JJ
+90	90	2	Tobi	Killed (Killed)	Ethan
+90	90	3	Lachlan	Reported Body Of	Ethan
+90	90	4	Tobi	Was Voted Out	
+90	90	5	Randolph	Killed (Killed)	Harry
+90	90	6	Vik	Reported Body Of	Harry
+90	90	7	Lazarbeam	Called Emergency Meeting	
+90	90	8	Randolph	Called Emergency Meeting	
+90	90	9	Randolph	Killed (Killed)	Simon
+90	90	10	Lachlan	Called Emergency Meeting	
+90	90	11	Randolph	Was Voted Out	
+91	91	1	Harry	Killed (Killed)	Lachlan
+91	91	2	Harry	Reported Body Of	Lachlan
+91	91	3	Harry	Was Voted Out	
+91	91	4	JJ	Called Emergency Meeting	
+91	91	5	JJ	Was Voted Out	
+91	91	6	Lazarbeam	Killed (Killed)	Tobi
+91	91	7	Ethan	Reported Body Of	Tobi
+91	91	8	Simon	Was Voted Out	
+91	91	9	Josh	Called Emergency Meeting	
+91	91	10	Randolph	Was Voted Out	
+91	91	11	Lazarbeam	Killed (Killed)	Ethan
+91	91	12	Lazarbeam	Reported Body Of	Ethan
+91	91	13	Vik	Was Voted Out	
+92	92	1	Simon	Killed (Killed)	Lazarbeam
+92	92	2	Ethan	Reported Body Of	Lazarbeam
+92	92	3	JJ	Was Voted Out	
+92	92	4	Simon	Killed (Killed)	Tobi
+92	92	5	Lachlan	Reported Body Of	Tobi
+92	92	6	Simon	Killed (Killed)	Vik
+92	92	7	Simon	Killed (Killed)	Harry
+92	92	8	Lachlan	Killed (Killed)	Randolph
+93	93	1	Randolph	Killed (Killed)	Harry
+93	93	2	Ethan	Reported Body Of	Harry
+93	93	3	Simon	Tinder Killed (Killed)	Vik
+93	93	4	Simon	Killed (Killed)	Ethan
+93	93	5	Randolph	Killed (Killed)	Viz
+93	93	6	DannyAarons	Called Emergency Meeting	
+93	93	7	Simon	Killed (Killed)	DannyAarons
+94	94	1	Harry	Killed (Killed)	DannyAarons
+94	94	2	Ellum	Reported Body Of	DannyAarons
+94	94	3	Harry	Was Voted Out	
+94	94	4	Simon	Tinder Killed (Killed)	Randolph
+94	94	5	Vik	Called Emergency Meeting	
+94	94	6	Ellum	Was Voted Out	
+94	94	7		Crisis	
+95	95	1	Simon	Called Emergency Meeting	
+95	95	2	Josh	Tinder Killed (Killed)	Randolph
+95	95	3	Josh	Killed (Killed)	Ethan
+95	95	4	Simon	Reported Body Of	Ethan
+95	95	5	Simon	Was Voted Out	
+95	95	6	Viz	Killed (Killed)	DannyAarons
+95	95	7	Josh	Killed (Killed)	Ellum
+96	96	1	DannyAarons	Killed (Killed)	Lazarbeam
+96	96	2	PieFace	Reported Body Of	Lazarbeam
+96	96	3	DannyAarons	Killed (Killed)	Ethan
+96	96	4	Tobi	Killed (Killed)	Vik
+96	96	5	Josh	Reported Body Of	Ethan
+96	96	6	DannyAarons	Was Voted Out	
+96	96	7	Tobi	Killed (Killed)	PieFace
+96	96	8	Simon	Reported Body Of	PieFace
+96	96	9	Tobi	Was Voted Out	
+97	97	1	Viz	Killed (Killed)	PieFace
+97	97	2	Simon	Reported Body Of	PieFace
+97	97	3	Viz	Killed (Killed)	DannyAarons
+97	97	4	Harry	Reported Body Of	DannyAarons
+97	97	5	Randolph	Killed (Killed)	Harry
+97	97	6	Tobi	Reported Body Of	Harry
+97	97	7	Randolph	Killed (Killed)	Lazarbeam
+97	97	8	Simon	Reported Body Of	Lazarbeam
+97	97	9	Randolph	Killed (Killed)	Simon
+97	97	10	Viz	Killed (Killed)	Tobi
+97	97	11	Randolph	Killed (Killed)	Josh
+98	98	1	Simon	Killed (Killed)	DannyAarons
+98	98	2	Tobi	Reported Body Of	DannyAarons
+98	98	3	Lazarbeam	Called Emergency Meeting	
+98	98	4	Simon	Killed (Killed)	Vik
+98	98	5	Tobi	Reported Body Of	Vik
+98	98	6	Ethan	Killed (Killed)	Viz
+98	98	7	Lazarbeam	Reported Body Of	Viz
+98	98	8	Ethan	Killed (Killed)	PieFace
+98	98	9	Ethan	Killed (Killed)	Randolph
+98	98	10	Josh	Reported Body Of	Randolph
+98	98	11	Lazarbeam	Was Voted Out	
+98	98	12	Ethan	Killed (Killed)	Josh
+99	99	1	Harry	Killed (Killed)	Josh
+99	99	2	Vik	Killed (Killed)	Randolph
+99	99	3	PieFace	Reported Body Of	Randolph
+99	99	4	Harry	Killed (Killed)	Simon
+99	99	5	Viz	Reported Body Of	Simon
+99	99	6	Harry	Was Voted Out	
+99	99	7	Vik	Killed (Killed)	Viz
+99	99	8	Lazarbeam	Reported Body Of	Viz
+99	99	9	Lazarbeam	Was Voted Out	
+99	99	10	Vik	Killed (Killed)	Tobi
+99	99	11	Ethan	Called Emergency Meeting	
+99	99	12	PieFace	Called Emergency Meeting	
+99	99	13	Vik	Killed (Killed)	Ethan
+99	99	14	DannyAarons	Was Voted Out	
+100	100	1	Vik	Killed (Killed)	Viz
+100	100	2	Ethan	Reported Body Of	Viz
+100	100	3	PieFace	Killed (Killed)	Randolph
+100	100	4	Vik	Killed (Killed)	Tobi
+100	100	5	DannyAarons	Reported Body Of	Randolph
+100	100	6	Vik	Killed (Killed)	Simon
+100	100	7	DannyAarons	Reported Body Of	Simon
+100	100	8	Vik	Killed (Killed)	Josh
+100	100	9	PieFace	Killed (Killed)	Harry
+100	100	10	Lazarbeam	Killed (Killed)	Vik
+100	100	11	DannyAarons	Reported Body Of	Vik
+100	100	12	Lazarbeam	Called Emergency Meeting	
+100	100	13	Lazarbeam	Killed (Killed)	PieFace
+101	101	1	Vik	Medic Shielded	Simon
+101	101	2	Viz	Killed (Killed)	PieFace
+101	101	3	Randolph	Reported Body Of	PieFace
+101	101	4	Viz	Killed (Killed)	Tobi
+101	101	5	Harry	Called Emergency Meeting	
+101	101	6	Randolph	Swapped Votes	
+101	101	7	Simon	Was Voted Out	
+101	101	8	DannyAarons	Called Emergency Meeting	
+101	101	9	Randolph	Swapped Votes	
+101	101	10	Harry	Was Voted Out	
+101	101	11	Lazarbeam	Killed (Killed)	Ethan
+101	101	12	Josh	Called Emergency Meeting	
+101	101	13	Randolph	Swapped Votes	
+101	101	14	Vik	Was Voted Out	
+101	101	15	Lazarbeam	Killed (Killed)	Josh
+102	102	1	Ethan	Killed (Killed)	Tobi
+102	102	2	Josh	Reported Body Of	Tobi
+102	102	3	Ethan	Killed (Killed)	PieFace
+102	102	4	Simon	Called Emergency Meeting	
+102	102	5	DannyAarons	Killed (Killed)	Simon
+102	102	6	Vik	Reported Body Of	Simon
+102	102	7	Viz	Swapped Votes	
+102	102	8	DannyAarons	Killed (Killed)	Viz
+102	102	9	Vik	Reported Body Of	Viz
+102	102	10	DannyAarons	Was Voted Out	
+102	102	11	Ethan	Killed (Killed)	Lazarbeam
+102	102	12	Vik	Called Emergency Meeting	
+102	102	13	Ethan	Killed (Killed)	Harry
+102	102	14	Randolph	Reported Body Of	Harry
+102	102	15	Ethan	Killed (Killed)	Josh
+102	102	16	Vik	Reported Body Of	Josh
+102	102	17	Ethan	Was Voted Out	
+103	103	1	Harry	Killed (Killed)	Simon
+103	103	2	PieFace	Reported Body Of	Simon
+103	103	3	Harry	Killed (Killed)	DannyAarons
+103	103	4	PieFace	Reported Body Of	DannyAarons
+103	103	5	Lazarbeam	Killed (Killed)	Viz
+103	103	6	PieFace	Reported Body Of	Viz
+103	103	7	Randolph	Was Voted Out	
+103	103	8	Lazarbeam	Killed (Killed)	Tobi
+103	103	9	Vik	Reported Body Of	Tobi
+103	103	10	PieFace	Was Voted Out	
+103	103	11	Harry	Killed (Killed)	Ethan
+104	104	1	ChrisMD	Killed (Killed)	Randolph
+104	104	2	ChrisMD	Killed (Killed)	Viz
+104	104	3	ChrisMD	Killed (Killed)	Harry
+104	104	4	ChrisMD	Killed (Killed)	Ellum
+104	104	5	ChrisMD	Killed (Killed)	Vik
+104	104	6	ChrisMD	Killed (Killed)	Josh
+104	104	7	ChrisMD	Killed (Killed)	PieFace
+104	104	8	ChrisMD	Killed (Killed)	Simon
+104	104	9	ChrisMD	Killed (Killed)	Tobi
+105	105	1	Viz	Killed (Killed)	Randolph
+105	105	2	Viz	Killed (Killed)	Ethan
+105	105	3	Viz	Killed (Killed)	Josh
+105	105	4	Viz	Killed (Killed)	Tobi
+105	105	5	Viz	Killed (Killed)	PieFace
+105	105	6	Viz	Killed (Killed)	Ellum
+105	105	7	Viz	Killed (Killed)	Vik
+105	105	8	Viz	Killed (Killed)	ChrisMD
+105	105	9	Viz	Killed (Killed)	Simon
+106	106	1	Vik	Killed (Killed)	PieFace
+106	106	2	Vik	Killed (Killed)	Ethan
+106	106	3	Vik	Killed (Killed)	Harry
+106	106	4	Vik	Killed (Killed)	Randolph
+106	106	5	Vik	Killed (Killed)	Viz
+106	106	6	Vik	Killed (Killed)	Josh
+106	106	7	Vik	Killed (Killed)	Tobi
+106	106	8	Vik	Killed (Killed)	ChrisMD
+106	106	9	Vik	Killed (Killed)	Ellum
+107	107	1	Simon	Killed (Killed)	Ethan
+107	107	2	Simon	Killed (Killed)	ChrisMD
+107	107	3	Simon	Killed (Killed)	Ellum
+107	107	4	Simon	Killed (Killed)	PieFace
+107	107	5	Simon	Killed (Killed)	Viz
+107	107	6	Simon	Killed (Killed)	Harry
+107	107	7	Simon	Killed (Killed)	Randolph
+107	107	8	Simon	Killed (Killed)	Vik
+107	107	9	Simon	Killed (Killed)	Josh
+107	107	10	Simon	Killed (Killed)	Tobi
+108	108	1	PieFace	Killed (Killed)	Tobi
+108	108	2	PieFace	Killed (Killed)	Josh
+108	108	3	PieFace	Killed (Killed)	Randolph
+108	108	4	PieFace	Killed (Killed)	Ellum
+109	109	1	Ellum	Swooped	
+109	109	2	Ellum	Killed (Killed)	Simon
+109	109	3	Vik	Reported Body Of	Simon
+109	109	4	Ellum	Swooped	
+109	109	5	Ellum	Killed (Killed)	Viz
+109	109	6	Vik	Killed (Killed)	Tobi
+109	109	7	Ethan	Reported Body Of	Tobi
+109	109	8	Ethan	Was Voted Out	
+109	109	9	Ellum	Swooped	
+109	109	10	Ellum	Killed (Killed)	Josh
+109	109	11	Ellum	Killed (Killed)	Randolph
+109	109	12	PieFace	Reported Body Of	Josh
+109	109	13	ChrisMD	Was Voted Out	
+110	110	1	PieFace	Swooped	
+110	110	2	PieFace	Killed (Killed)	ChrisMD
+110	110	3	PieFace	Reported Body Of	ChrisMD
+110	110	4	Tobi	Killed (Killed)	Vik
+110	110	5	Ethan	Reported Body Of	Vik
+110	110	6	Tobi	Was Voted Out	
+110	110	7	PieFace	Swooped	
+110	110	8	PieFace	Killed (Killed)	Viz
+110	110	9	PieFace	Killed (Killed)	Randolph
+110	110	10	Ethan	Reported Body Of	Randolph
+110	110	11	PieFace	Was Voted Out	
+111	111	1	Viz	Swooped	
+111	111	2	Viz	Killed (Killed)	Ethan
+111	111	3	PieFace	Reported Body Of	Ethan
+111	111	4	Viz	Swooped	
+111	111	5	Harry	Killed (Killed)	ChrisMD
+111	111	6	Vik	Reported Body Of	ChrisMD
+111	111	7	Vik	Was Voted Out	
+111	111	8	Viz	Swooped	
+111	111	9	Harry	Killed (Killed)	Simon
+111	111	10	Viz	Killed (Killed)	Ellum
+111	111	11	PieFace	Reported Body Of	Ellum
+111	111	12	Viz	Was Voted Out	
+111	111	13	Josh	Called Emergency Meeting	
+111	111	14	Harry	Killed (Killed)	Josh
+111	111	15	Harry	Reported Body Of	Josh
+111	111	16	Harry	Was Voted Out	
+112	112	1	Viz	Killed (Killed)	Josh
+112	112	2	Simon	Cleaned	Josh
+112	112	3	Viz	Killed (Killed)	Ethan
+112	112	4	Simon	Cleaned	Ethan
+112	112	5	Ellum	Called Emergency Meeting	
+112	112	6	Viz	Killed (Killed)	Vik
+112	112	7	PieFace	Reported Body Of	Vik
+112	112	8	PieFace	Was Voted Out	
+112	112	9	Simon	Called Emergency Meeting	
+112	112	10	ChrisMD	Was Voted Out	
+112	112	11	Randolph	Called Emergency Meeting	
+112	112	12	Viz	Killed (Killed)	Harry
+112	112	13	Simon	Killed (Killed)	Ellum
+113	113	1	Ellum	Killed (Killed)	Tobi
+113	113	2	Ethan	Cleaned	Tobi
+113	113	3	Ellum	Killed (Killed)	Simon
+113	113	4	Ethan	Cleaned	Simon
+113	113	5	ChrisMD	Called Emergency Meeting	
+113	113	6	Ethan	Killed (Killed)	Josh
+113	113	7	Ellum	Killed (Killed)	PieFace
+113	113	8	Ellum	Killed (Killed)	Vik
+113	113	9	Ethan	Cleaned	Vik
+113	113	10	Harry	Reported Body Of	PieFace
+113	113	11	Ellum	Was Voted Out	
+113	113	12	Randolph	Called Emergency Meeting	
+113	113	13	ChrisMD	Was Voted Out	
+113	113	14	Harry	Called Emergency Meeting	
+113	113	15	Randolph	Was Voted Out	
+113	113	16	Ethan	Killed (Killed)	Viz
+114	114	1	Simon	Called Emergency Meeting	
+114	114	2	Tobi	Was Voted Out	
+114	114	3	Randolph	Killed (Killed)	Ethan
+114	114	4	Ellum	Cleaned	Ethan
+114	114	5	ChrisMD	Called Emergency Meeting	
+114	114	6	Randolph	Was Voted Out	
+114	114	7	Ellum	Killed (Killed)	Josh
+114	114	8	ChrisMD	Reported Body Of	Josh
+114	114	9	Ellum	Was Voted Out	
+115	115	1	Lachlan	Killed (Killed)	PieFace
+115	115	2	Josh	Called Emergency Meeting	
+115	115	3	DannyAarons	Killed (Killed)	Vik
+115	115	4	Lachlan	Killed (Killed)	Simon
+115	115	5	Tobi	Reported Body Of	Simon
+115	115	6	Viz	Was Voted Out	
+115	115	7	Lachlan	Killed (Killed)	Lazarbeam
+115	115	8	Josh	Reported Body Of	Lazarbeam
+115	115	9	Tobi	Was Voted Out	
+115	115	10	Lachlan	Killed (Killed)	Randolph
+116	116	1	DannyAarons	Killed (Killed)	PieFace
+116	116	2	Viz	Reported Body Of	PieFace
+116	116	3	Lachlan	Killed (Killed)	Tobi
+116	116	4	Lachlan	Reported Body Of	Tobi
+116	116	5	Josh	Was Voted Out	
+116	116	6	Lachlan	Killed (Killed)	Viz
+116	116	7	Lachlan	Reported Body Of	Viz
+116	116	8	DannyAarons	Killed (Killed)	Simon
+116	116	9	Randolph	Reported Body Of	Simon
+116	116	10	Randolph	Was Voted Out	
+116	116	11	Lazarbeam	Called Emergency Meeting	
+116	116	12	DannyAarons	Killed (Killed)	Lazarbeam
+117	117	1	Vik	Killed (Killed)	PieFace
+117	117	2	Lazarbeam	Reported Body Of	PieFace
+117	117	3	DannyAarons	Was Voted Out	
+117	117	4	Tobi	Killed (Killed)	Randolph
+117	117	5	Vik	Killed (Killed)	Lachlan
+117	117	6	Simon	Reported Body Of	Randolph
+117	117	7	Simon	Called Emergency Meeting	
+117	117	8	Tobi	Killed (Killed)	Harry
+117	117	9	Josh	Reported Body Of	Harry
+117	117	10	Tobi	Was Voted Out	
+117	117	11	Vik	Killed (Killed)	Lazarbeam
+117	117	12	Vik	Killed (Killed)	Josh
+117	117	13	Vik	Killed (Killed)	Simon
+118	118	1	Tobi	Killed (Killed)	Josh
+118	118	2	Lazarbeam	Killed (Killed)	Simon
+118	118	3	DannyAarons	Reported Body Of	Josh
+118	118	4	Tobi	Was Voted Out	
+118	118	5	Lazarbeam	Killed (Killed)	PieFace
+118	118	6	Lazarbeam	Reported Body Of	PieFace
+118	118	7	Lazarbeam	Was Voted Out	
+119	119	1	Josh	Killed (Killed)	Tobi
+119	119	2	Lachlan	Reported Body Of	Tobi
+119	119	3	Josh	Was Voted Out	
+119	119	4	Lazarbeam	Killed (Killed)	Lachlan
+119	119	5	PieFace	Reported Body Of	Lachlan
+119	119	6	DannyAarons	Was Voted Out	
+119	119	7	Viz	Called Emergency Meeting	
+119	119	8	Lazarbeam	Killed (Killed)	Simon
+119	119	9	Viz	Reported Body Of	Simon
+119	119	10	Lazarbeam	Killed (Killed)	Vik
+119	119	11	Lazarbeam	Reported Body Of	Vik
+119	119	12	Lazarbeam	Was Voted Out	
+120	120	1	Simon	Swooped	
+120	120	2	Simon	Killed (Killed)	Randolph
+120	120	3	Viz	Reported Body Of	Randolph
+120	120	4	Simon	Swooped	
+120	120	5	Simon	Killed (Killed)	Viz
+120	120	6	MilkInABag	Morphed Into	Lazarbeam
+120	120	7	MilkInABag	Killed (Killed)	Tobi
+120	120	8	Harry	Reported Body Of	Viz
+120	120	9	Simon	Killed (Killed)	Lazarbeam
+120	120	10	Harry	Revived	Lazarbeam
+120	120	11	MilkInABag	Killed (Killed)	Ethan
+120	120	12	MilkInABag	Morphed Into	Lazarbeam
+120	120	13	Simon	Swooped	
+120	120	14	Simon	Killed (Killed)	Ellum
+120	120	15	Josh	Reported Body Of	Ellum
+120	120	16	MilkInABag	Killed (Killed)	Josh
+121	121	1	Ethan	Killed (Killed)	Randolph
+121	121	2	Ethan	Swooped	
+121	121	3	Viz	Reported Body Of	Randolph
+121	121	4	DannyAarons	Killed (Killed)	DannyAarons
+121	121	5	MilkInABag	Reported Body Of	DannyAarons
+121	121	6	Viz	Swapped Votes	
+121	121	7	Ethan	Killed (Killed)	Harry
+121	121	8	Josh	Killed (Killed)	Ellum
+121	121	9	Ethan	Swooped	
+121	121	10	Josh	Morphed Into	Ellum
+121	121	11	Viz	Reported Body Of	Ellum
+121	121	12	Ethan	Was Voted Out	
+121	121	13	Josh	Killed (Killed)	Tobi
+121	121	14	Josh	Morphed Into	MilkInABag
+121	121	15	Viz	Called Emergency Meeting	
+121	121	16	Josh	Was Voted Out	
+122	122	1	Simon	Killed (Killed)	
+122	122	2	Ellum	Reported Body Of	
+122	122	3	Simon	Killed (Killed)	Randolph
+122	122	4	DannyAarons	Killed (Killed)	Harry
+122	122	5	Viz	Reported Body Of	Harry
+122	122	6	Josh	Swapped Votes	
+122	122	7	DannyAarons	Was Voted Out	
+122	122	8	Simon	Killed (Killed)	Tobi
+122	122	9	Simon	Killed (Killed)	MilkInABag
+122	122	10	Simon	Reported Body Of	MilkInABag
+122	122	11	Josh	Swapped Votes	
+122	122	12	Ethan	Was Voted Out	
+122	122	13	Josh	Called Emergency Meeting	
+122	122	14	Josh	Swapped Votes	
+122	122	15	Ellum	Was Voted Out	
+122	122	16	Lazarbeam	Called Emergency Meeting	
+122	122	17	Josh	Swapped Votes	
+122	122	18	Lazarbeam	Was Voted Out	
+123	123	1	Viz	Killed (Killed)	Ethan
+123	123	2	Viz	Recalled	
+123	123	3	Lachlan	Reported Body Of	Ethan
+123	123	4	Vik	Killed (Killed)	Simon
+123	123	5	Tobi	Reported Body Of	Simon
+123	123	6	Viz	Was Voted Out	
+123	123	7	Ellum	Called Emergency Meeting	
+123	123	8	Josh	Was Voted Out	
+123	123	9	Vik	Killed (Killed)	Lachlan
+123	123	10	DannyAarons	Reported Body Of	Lachlan
+123	123	11	Vik	Was Voted Out	
+124	124	1	DannyAarons	Killed (Killed)	Ellum
+124	124	2	Vik	Killed (Killed)	Tobi
+124	124	3	Simon	Reported Body Of	Tobi
+124	124	4	DannyAarons	Killed (Killed)	MilkInABag
+124	124	5	DannyAarons	Recalled	
+124	124	6	Ethan	Reported Body Of	MilkInABag
+124	124	7	Harry	Was Voted Out	
+124	124	8	DannyAarons	Killed (Killed)	Simon
+124	124	9	DannyAarons	Recalled	
+124	124	10	Viz	Reported Body Of	Simon
+124	124	11	DannyAarons	Was Voted Out	
+124	124	12	Vik	Killed (Killed)	Randolph
+124	124	13	Ethan	Reported Body Of	Randolph
+124	124	14	Ethan	Called Emergency Meeting	
+124	124	15	Vik	Was Voted Out	
+125	125	1	Vik	Killed (Killed)	Ethan
+125	125	2	Viz	Reported Body Of	Ethan
+125	125	3	Lachlan	Killed (Killed)	DannyAarons
+125	125	4	Lachlan	Recalled	
+125	125	5	Tobi	Reported Body Of	DannyAarons
+125	125	6	Lachlan	Killed (Killed)	Josh
+125	125	7	Lachlan	Recalled	
+125	125	8	Harry	Reported Body Of	Josh
+125	125	9	Vik	Was Voted Out	
+125	125	10	Lachlan	Killed (Killed)	Ellum
+125	125	11	Lachlan	Recalled	
+125	125	12	Viz	Reported Body Of	Ellum
+125	125	13	Lachlan	Killed (Killed)	Randolph
+125	125	14	Lachlan	Recalled	
+125	125	15	Viz	Reported Body Of	Randolph
+125	125	16	Lachlan	Was Voted Out	
+126	126	1	MaxFosh	Killed (Killed)	Randolph
+126	126	2	DannyAarons	Killed (Killed)	JJ
+126	126	3	MaxFosh	Reported Body Of	Randolph
+126	126	4	MaxFosh	Killed (Killed)	Simon
+126	126	5	DannyAarons	Killed (Killed)	Chip
+126	126	6	Josh	Reported Body Of	Chip
+126	126	7	MaxFosh	Killed (Killed)	Harry
+126	126	8	Lazarbeam	Reported Body Of	Harry
+126	126	9	MaxFosh	Killed (Killed)	Vik
+126	126	10	PieFace	Reported Body Of	Vik
+126	126	11	Josh	Was Voted Out	
+126	126	12	PieFace	Called Emergency Meeting	
+126	126	13	PieFace	Was Voted Out	
+126	126	14	DannyAarons	Killed (Killed)	Lazarbeam
+127	127	1	Simon	Killed (Killed)	MaxFosh
+127	127	2	Ethan	Killed (Killed)	Chip
+127	127	3	DannyAarons	Reported Body Of	Chip
+127	127	4	Simon	Killed (Killed)	Harry
+127	127	5	PieFace	Reported Body Of	Harry
+127	127	6	Ethan	Killed (Killed)	DannyAarons
+127	127	7	Ethan	Reported Body Of	DannyAarons
+127	127	8	Simon	Killed (Killed)	Lazarbeam
+127	127	9	Randolph	Reported Body Of	Lazarbeam
+127	127	10	Simon	Killed (Killed)	Josh
+127	127	11	Vik	Reported Body Of	Josh
+127	127	12	Ethan	Killed (Killed)	JJ
+127	127	13		Lover Killed (Killed)	Simon
+127	127	14	Vik	Reported Body Of	Simon
+127	127	15	Ethan	Was Voted Out	
+128	128	1	JJ	Called Emergency Meeting	
+128	128	2	Ethan	Killed (Killed)	Chip
+128	128	3	DannyAarons	Reported Body Of	Chip
+128	128	4	Ethan	Was Voted Out	
+128	128	5	Josh	Killed (Killed)	MaxFosh
+128	128	6		Lover Killed (Killed)	PieFace
+128	128	7	Josh	Reported Body Of	MaxFosh
+128	128	8	Josh	Was Voted Out	
+129	129	1	Vik	Killed (Killed)	Simon
+129	129	2	DannyAarons	Killed (Killed)	MaxFosh
+129	129	3	Chip	Reported Body Of	MaxFosh
+129	129	4	Harry	Was Voted Out	
+129	129	5	Chip	Called Emergency Meeting	
+129	129	6	JJ	Was Voted Out	
+129	129	7	Vik	Killed (Killed)	Josh
+129	129	8	DannyAarons	Killed (Killed)	Chip
+129	129	9	Ethan	Reported Body Of	Josh
+129	129	10	Lazarbeam	Was Voted Out	
+129	129	11	DannyAarons	Killed (Killed)	PieFace
+130	130	1	Vik	Killed (Killed)	Simon
+130	130	2	Vik	Reported Body Of	Simon
+130	130	3	Vik	Was Voted Out	
+130	130	4	PieFace	Killed (Killed)	Randolph
+130	130	5	Ethan	Reported Body Of	Randolph
+130	130	6	PieFace	Was Voted Out	
+130	130	7	MaxFosh	Called Emergency Meeting	
+130	130	8	Chip	Was Voted Out	
+130	130	9	Lazarbeam	Killed (Killed)	Ethan
+130	130	10	Harry	Reported Body Of	Ethan
+130	130	11	Josh	Was Voted Out	
+130	130	12	Lazarbeam	Killed (Killed)	Harry
+130	130	13	Lazarbeam	Killed (Killed)	DannyAarons
+130	130	14	MaxFosh	Reported Body Of	DannyAarons
+130	130	15	Lazarbeam	Killed (Killed)	MaxFosh
+131	131	1	MaxFosh	Killed (Killed)	Lazarbeam
+131	131	2	Randolph	Killed (Killed)	Ethan
+131	131	3	Chip	Reported Body Of	Lazarbeam
+131	131	4	MaxFosh	Was Voted Out	
+131	131	5	Randolph	Killed (Killed)	PieFace
+131	131	6	Simon	Reported Body Of	PieFace
+131	131	7	JJ	Was Voted Out	
+131	131	8	Randolph	Killed (Killed)	Harry
+131	131	9	Simon	Reported Body Of	Harry
+131	131	10	Randolph	Killed (Killed)	Josh
+131	131	11	Vik	Reported Body Of	Josh
+131	131	12	Vik	Was Voted Out	
+131	131	13	Randolph	Killed (Killed)	Simon
+131	131	14	DannyAarons	Reported Body Of	Simon
+131	131	15	Randolph	Was Voted Out	
+132	132	1	Tobi	Revealed	Josh
+132	132	2	Josh	Flashed	
+132	132	3	Josh	Killed (Killed)	Deji
+132	132	4	JME	Reported Body Of	Deji
+132	132	5	Randolph	Was Voted Out	
+132	132	6	Josh	Flashed	
+132	132	7	Josh	Killed (Killed)	Viz
+132	132	8	Tobi	Revealed	Vik
+132	132	9	JME	Reported Body Of	Viz
+132	132	10	Ellum	Was Voted Out	
+132	132	11	JME	Rampaged	
+132	132	12	JME	Killed (Killed)	Lachlan
+132	132	13	Tobi	Called Emergency Meeting	
+132	132	14	Josh	Was Voted Out	
+132	132	15	JME	Rampaged	
+132	132	16	Vik	Morphed Into	Harry
+132	132	17	JME	Killed (Killed)	Harry
+132	132	18	JME	Killed (Killed)	Tobi
+132	132	19	Vik	Killed (Killed)	JME
+133	133	1	Ellum	Blackmailed	Deji
+133	133	2	Ellum	Killed (Killed)	Tobi
+133	133	3	Deji	Reported Body Of	Tobi
+133	133	4	Ellum	Was Voted Out	
+133	133	5	Randolph	Morphed Into	JJ
+133	133	6	Randolph	Killed (Killed)	Vik
+133	133	7	JME	Called Emergency Meeting	
+133	133	8	Randolph	Morphed Into	Deji
+133	133	9	Randolph	Killed (Killed)	JJ
+133	133	10	Lachlan	Reported Body Of	JJ
+133	133	11	Randolph	Was Voted Out	
+133	133	12	Josh	Killed (Killed)	JME
+133	133	13	Viz	Reported Body Of	JME
+133	133	14	Josh	Killed (Killed)	Harry
+133	133	15	Lachlan	Called Emergency Meeting	
+133	133	16	Josh	Was Voted Out	
+134	134	1	JJ	Rampaged	
+134	134	2	JJ	Killed (Killed)	Vik
+134	134	3	Randolph	Flashed	
+134	134	4	Randolph	Killed (Killed)	Tobi
+134	134	5	Josh	Reported Body Of	Tobi
+134	134	6	JJ	Guess Killed (Killed)	JJ
+134	134	7	Josh	Was Voted Out	
+134	134	8	Viz	Killed (Killed)	Ellum
+134	134	9	Lachlan	Reported Body Of	Ellum
+134	134	10	Randolph	Was Voted Out	
+134	134	11	Viz	Killed (Killed)	Lachlan
+134	134	12	Deji	Reported Body Of	Lachlan
+134	134	13	Viz	Was Voted Out	
+135	135	1	JJ	Called Emergency Meeting	
+135	135	2	Josh	Killed (Killed)	Deji
+135	135	3	Harry	Reported Body Of	Deji
+135	135	4	Josh	Killed (Killed)	Ellum
+135	135	5	Harry	Reported Body Of	Ellum
+135	135	6	Lachlan	Killed (Killed)	Randolph
+135	135	7	Josh	Killed (Killed)	JJ
+135	135	8	JME	Rampaged	
+135	135	9	JME	Killed (Killed)	Viz
+135	135	10	Vik	Reported Body Of	Randolph
+135	135	11	Lachlan	Killed (Killed)	JME
+135	135	12	Harry	Reported Body Of	JME
+135	135	13	Lachlan	Was Voted Out	
+135	135	14	Harry	Called Emergency Meeting	
+135	135	15	Josh	Was Voted Out	
+136	136	1	JJ	Rampaged	
+136	136	2	JJ	Killed (Killed)	Lazarbeam
+136	136	3	Randolph	Reported Body Of	Lazarbeam
+136	136	4	JJ	Was Voted Out	
+136	136	5	Harry	Killed (Killed)	JME
+136	136	6	Ellum	Reported Body Of	JME
+136	136	7	Deji	Was Voted Out	
+136	136	8	Ethan	Killed (Killed)	Viz
+136	136	9	Ellum	Reported Body Of	Viz
+136	136	10	Ethan	Was Voted Out	
+136	136	11	Randolph	Called Emergency Meeting	
+136	136	12	Randolph	Was Voted Out	
+136	136	13	Ellum	Called Emergency Meeting	
+136	136	14	Ellum	Was Voted Out	
+136	136	15	Harry	Killed (Killed)	Josh
+137	137	1	JJ	Called Emergency Meeting	
+137	137	2	Tobi	Killed (Killed)	Randolph
+137	137	3	Ellum	Killed (Killed)	Josh
+137	137	4	Ellum	Reported Body Of	Randolph
+137	137	5	Ellum	Was Voted Out	
+137	137	6	Tobi	Killed (Killed)	JME
+137	137	7	Deji	Reported Body Of	JME
+137	137	8	Tobi	Was Voted Out	
+137	137	9	Harry	Called Emergency Meeting	
+137	137	10	JJ	Was Voted Out	
+137	137	11	Lazarbeam	Killed (Killed)	Deji
+137	137	12	Viz	Reported Body Of	Deji
+137	137	13	Lazarbeam	Was Voted Out	
+138	138	1	Josh	Killed (Killed)	Lachlan
+138	138	2	Simon	Reported Body Of	Lachlan
+138	138	3	Harry	Killed (Killed)	Deji
+138	138	4	Simon	Called Emergency Meeting	
+138	138	5	Lazarbeam	Was Voted Out	
+138	138	6	Josh	Killed (Killed)	JJ
+138	138	7	Tobi	Killed (Killed)	Randolph
+138	138	8	Harry	Reported Body Of	JJ
+138	138	9	Harry	Was Voted Out	
+139	139	1	Deji	Killed (Killed)	Lazarbeam
+139	139	2	Deji	Killed (Killed)	JJ
+139	139	3	Josh	Reported Body Of	Lazarbeam
+139	139	4	Deji	Killed (Killed)	Tobi
+139	139	5	Lachlan	Killed (Killed)	Simon
+139	139	6	DannyAarons	Reported Body Of	Tobi
+139	139	7	Josh	Was Voted Out	
+139	139	8	Deji	Killed (Killed)	Harry
+139	139	9	Randolph	Reported Body Of	Harry
+139	139	10	Deji	Was Voted Out	
+139	139	11	Lachlan	Killed (Killed)	Randolph
+140	140	1	DannyAarons	Killed (Killed)	Tobi
+140	140	2	JJ	Killed (Killed)	Randolph
+140	140	3	JJ	Reported Body Of	Tobi
+140	140	4	DannyAarons	Was Voted Out	
+140	140	5	JJ	Killed (Killed)	Deji
+140	140	6	Lazarbeam	Reported Body Of	Deji
+140	140	7	JJ	Was Voted Out	
+141	141	1	DannyAarons	Planted Bomb	
+141	141	2	JJ	Killed (Killed)	Lazarbeam
+141	141	3	DannyAarons	Killed (Killed)	Tobi
+141	141	4	Josh	Called Emergency Meeting	
+141	141	5	DannyAarons	Planted Bomb	
+141	141	6	JJ	Killed (Killed)	Deji
+141	141	7	Josh	Reported Body Of	Deji
+141	141	8	DannyAarons	Planted Bomb	
+141	141	9	DannyAarons	Bombed (Killed)	JJ
+141	141	10	DannyAarons	Bombed (Killed)	DannyAarons
+142	142	1	Lachlan	Planted Bomb	
+142	142	2	Lachlan	Bombed (Killed)	Deji
+142	142	3	Lachlan	Bombed (Killed)	Randolph
+142	142	4	Lachlan	Bombed (Killed)	Lachlan
+142	142	5	JJ	Reported Body Of	Lachlan
+142	142	6	DannyAarons	Was Voted Out	
+142	142	7	Josh	Killed (Killed)	JJ
+142	142	8	Lazarbeam	Reported Body Of	JJ
+142	142	9	Josh	Was Voted Out	
+143	143	1	JJ	Called Emergency Meeting	
+143	143	2	Lachlan	Killed (Killed)	Harry
+143	143	3	JJ	Planted Bomb	
+143	143	4	JJ	Bombed (Killed)	DannyAarons
+143	143	5	Simon	Reported Body Of	DannyAarons
+143	143	6	Lazarbeam	Was Voted Out	
+143	143	7	JJ	Killed (Killed)	Tobi
+143	143	8	JJ	Planted Bomb	
+143	143	9	JJ	Bombed (Killed)	Lachlan
+143	143	10	Simon	Reported Body Of	Lachlan
+143	143	11	Deji	Was Voted Out	
+143	143	12	Randolph	Called Emergency Meeting	
+143	143	13	JJ	Planted Bomb	
+143	143	14	JJ	Bombed (Killed)	Randolph
+143	143	15	Josh	Reported Body Of	Randolph
+143	143	16	JJ	Was Voted Out	
+144	144	1	JJ	Killed (Killed)	Tobi
+144	144	2	Simon	Reported Body Of	Tobi
+144	144	3	JJ	Killed (Killed)	Josh
+144	144	4	DannyAarons	Planted Bomb	
+144	144	5	JJ	Killed (Killed)	Deji
+144	144	6	Harry	Reported Body Of	Josh
+144	144	7	JJ	Was Voted Out	
+144	144	8	DannyAarons	Planted Bomb	
+144	144	9	DannyAarons	Bombed (Killed)	Harry
+144	144	10	Lazarbeam	Reported Body Of	Harry
+144	144	11	Lachlan	Was Voted Out	
+144	144	12	Randolph	Called Emergency Meeting	
+144	144	13	DannyAarons	Planted Bomb	
+144	144	14	DannyAarons	Planted Bomb	
+144	144	15	Simon	Called Emergency Meeting	
+144	144	16	DannyAarons	Killed (Killed)	Simon
+144	144	17	Lazarbeam	Reported Body Of	Simon
+144	144	18	Lazarbeam	Was Voted Out	
+145	145	1	Ethan	Camouflaged	
+145	145	2	Lazarbeam	Killed (Killed)	DannyAarons
+145	145	3	Ethan	Killed (Killed)	Simon
+145	145	4	Viz	Reported Body Of	Simon
+145	145	5	Deji	Was Voted Out	
+145	145	6	Ethan	Camouflaged	
+145	145	7	Ethan	Killed (Killed)	Ellum
+145	145	8	Josh	Reported Body Of	Ellum
+145	145	9	Ethan	Was Voted Out	
+145	145	10	Vik	Called Emergency Meeting	
+145	145	11	Tobi	Called Emergency Meeting	
+145	145	12	Lazarbeam	Killed (Killed)	Vik
+145	145	13	Viz	Reported Body Of	Vik
+145	145	14	Lazarbeam	Was Voted Out	
+146	146	1	Viz	Camouflaged	
+146	146	2	Viz	Killed (Killed)	Lazarbeam
+146	146	3	Josh	Reported Body Of	Lazarbeam
+146	146	4	Josh	Was Voted Out	
+146	146	5	Viz	Camouflaged	
+146	146	6	Viz	Camouflaged	
+146	146	7	Ethan	Killed (Killed)	DannyAarons
+146	146	8	Simon	Reported Body Of	DannyAarons
+146	146	9	Simon	Was Voted Out	
+146	146	10	Ethan	Killed (Killed)	Tobi
+146	146	11	Viz	Camouflaged	
+146	146	12	Viz	Killed (Killed)	Vik
+147	147	1	DannyAarons	Killed (Killed)	Ethan
+147	147	2	Simon	Reported Body Of	Ethan
+147	147	3	Simon	Called Emergency Meeting	
+147	147	4	DannyAarons	Camouflaged	
+147	147	5	Deji	Killed (Killed)	Josh
+147	147	6	DannyAarons	Killed (Killed)	Viz
+147	147	7	DannyAarons	Called Emergency Meeting	
+147	147	8	DannyAarons	Was Voted Out	
+147	147	9	Deji	Killed (Killed)	Vik
+147	147	10	Tobi	Reported Body Of	Vik
+147	147	11	Deji	Was Voted Out	
+148	148	1	Tobi	Killed (Killed)	Viz
+148	148	2	DannyAarons	Killed (Killed)	Lazarbeam
+148	148	3	Ellum	Reported Body Of	Viz
+148	148	4	Vik	Was Voted Out	
+148	148	5	DannyAarons	Killed (Killed)	Ellum
+148	148	6	Ethan	Reported Body Of	Ellum
+148	148	7	Deji	Was Voted Out	
+148	148	8	Tobi	Killed (Killed)	Josh
+149	149	1	Ellum	Killed (Killed)	Vik
+149	149	2	Tobi	Reported Body Of	Vik
+149	149	3	Ellum	Was Voted Out	
+149	149	4	Josh	Killed (Killed)	Simon
+149	149	5	Josh	Killed (Killed)	Ethan
+149	149	6	DannyAarons	Reported Body Of	Ethan
+149	149	7	DannyAarons	Called Emergency Meeting	
+149	149	8	Josh	Was Voted Out	
+150	150	1	DannyAarons	Killed (Killed)	Vik
+150	150	2	Tobi	Reported Body Of	Vik
+150	150	3	DannyAarons	Killed (Killed)	Simon
+150	150	4	Viz	Killed (Killed)	Ellum
+150	150	5	DannyAarons	Killed (Killed)	Ethan
+150	150	6	Tobi	Reported Body Of	Ellum
+150	150	7	Deji	Was Voted Out	
+150	150	8	DannyAarons	Killed (Killed)	Josh
+151	151	1	Josh	Killed (Killed)	Tobi
+151	151	2	Simon	Reported Body Of	Tobi
+151	151	3	Josh	Killed (Killed)	Ellum
+151	151	4	Viz	Killed (Killed)	Lazarbeam
+151	151	5	Deji	Reported Body Of	Lazarbeam
+151	151	6	Viz	Was Voted Out	
+151	151	7	Ethan	Called Emergency Meeting	
+151	151	8	Josh	Killed (Killed)	Simon
+151	151	9	Vik	Reported Body Of	Simon
+151	151	10	Josh	Was Voted Out	
+152	152	1	DannyAarons	Killed (Killed)	Lachlan
+152	152	2	Lazarbeam	Reported Body Of	Lachlan
+152	152	3	Lazarbeam	Assassinated (Killed)	Vik
+152	152	4	Simon	Reported Body Of	Vik
+152	152	5	Lazarbeam	Assassinated (Killed)	Simon
+152	152	6	Ethan	Reported Body Of	Simon
+152	152	7	Deji	Was Voted Out	
+152	152	8	DannyAarons	Killed (Killed)	Callux
+152	152	9	Lazarbeam	Assassinated (Killed)	Ethan
+153	153	1	Lazarbeam	Assassinated (Killed)	Ethan
+153	153	2	Vik	Killed (Killed)	DannyAarons
+153	153	3	Simon	Reported Body Of	DannyAarons
+153	153	4	Lazarbeam	Assassinated (Killed)	Simon
+153	153	5	Josh	Reported Body Of	Simon
+153	153	6	Lazarbeam	Assassinated (Killed)	Callux
+153	153	7	Lachlan	Reported Body Of	Callux
+153	153	8	Deji	Was Voted Out	
+153	153	9	Lazarbeam	Killed (Killed)	Lachlan
+154	154	1	Tobi	Assassinated (Killed)	Vik
+154	154	2	Simon	Reported Body Of	Vik
+154	154	3	Simon	Was Voted Out	
+154	154	4	Lazarbeam	Called Emergency Meeting	
+154	154	5	Lachlan	Was Voted Out	
+154	154	6	Tobi	Killed (Killed)	Lazarbeam
+154	154	7	Callux	Reported Body Of	Lazarbeam
+154	154	8	Tobi	Was Voted Out	
+155	155	1	Josh	Bit (Killed)	Deji
+155	155	2	Tobi	Reported Body Of	Deji
+155	155	3	DannyAarons	Was Voted Out	
+155	155	4	Josh	Bit (Killed)	Callux
+155	155	5	Lachlan	Reported Body Of	Callux
+155	155	6	Josh	Bit (Killed)	Lachlan
+155	155	7	Tobi	Killed (Killed)	Lazarbeam
+155	155	8	Ethan	Reported Body Of	Lazarbeam
+155	155	9	Tobi	Was Voted Out	
+155	155	10	Josh	Bit (Killed)	Ethan
+155	155	11	Simon	Called Emergency Meeting	
+155	155	12	Josh	Was Voted Out	
+156	156	1	Ethan	Called Emergency Meeting	
+156	156	2	Callux	Killed (Killed)	Lachlan
+156	156	3	Simon	Bit (Killed)	DannyAarons
+156	156	4	Callux	Killed (Killed)	Ethan
+156	156	5	Tobi	Reported Body Of	DannyAarons
+156	156	6	Callux	Killed (Killed)	Deji
+156	156	7	Vik	Reported Body Of	Deji
+156	156	8	Callux	Was Voted Out	
+156	156	9	Vik	Called Emergency Meeting	
+156	156	10	Simon	Bit (Killed)	Lazarbeam
+156	156	11	Josh	Reported Body Of	Lazarbeam
+156	156	12	Simon	Bit (Killed)	Vik
+156	156	13	Tobi	Reported Body Of	Vik
+156	156	14	Josh	Was Voted Out	
+157	157	1	Simon	Killed (Killed)	Tobi
+157	157	2	Vik	Reported Body Of	Tobi
+157	157	3	Simon	Killed (Killed)	Josh
+157	157	4	DannyAarons	Reported Body Of	Josh
+157	157	5	Simon	Was Voted Out	
+157	157	6	Lachlan	Bit (Killed)	Ethan
+157	157	7	Vik	Called Emergency Meeting	
+157	157	8	Vik	Was Voted Out	
+157	157	9	Callux	Called Emergency Meeting	
+157	157	10	Lazarbeam	Was Voted Out	
+157	157	11	Lachlan	Bit (Killed)	Callux
+157	157	12	Lachlan	Killed (Killed)	Deji
+158	158	1	Lazarbeam	Morphed Into	DannyAarons
+158	158	2	Lazarbeam	Killed (Killed)	Ginge
+158	158	3	DannyAarons	Reported Body Of	Ginge
+158	158	4	Tobi	Camouflaged	
+158	158	5	Tobi	Killed (Killed)	DannyAarons
+158	158	6	Randolph	Was Voted Out	
+159	159	1	Simon	Morphed Into	Tobi
+159	159	2	Simon	Killed (Killed)	Harry
+159	159	3	Lazarbeam	Camouflaged	
+159	159	4	DannyAarons	Reported Body Of	Harry
+159	159	5	Tobi	Was Voted Out	
+159	159	6	Lazarbeam	Camouflaged	
+159	159	7	Simon	Morphed Into	Ethan
+159	159	8	Simon	Killed (Killed)	Ginge
+159	159	9	Lazarbeam	Camouflaged	
+159	159	10	Deji	Reported Body Of	Ginge
+159	159	11	Lazarbeam	Camouflaged	
+159	159	12	Lazarbeam	Camouflaged	
+159	159	13	Lazarbeam	Killed (Killed)	Vik
+159	159	14	Ethan	Reported Body Of	Vik
+159	159	15	DannyAarons	Was Voted Out	
+159	159	16	Simon	Killed (Killed)	Randolph
+160	160	1	Deji	Killed (Killed)	DannyAarons
+160	160	2	Deji	Camouflaged	
+160	160	3	Vik	Killed (Killed)	Randolph
+160	160	4	Ethan	Reported Body Of	Randolph
+160	160	5	Lazarbeam	Was Voted Out	
+160	160	6	Deji	Killed (Killed)	Tobi
+160	160	7	Deji	Camouflaged	
+160	160	8	Simon	Called Emergency Meeting	
+160	160	9	Deji	Was Voted Out	
+160	160	10	Vik	Morphed Into	Simon
+160	160	11	Ginge	Called Emergency Meeting	
+160	160	12	Vik	Was Voted Out	
+161	161	1	Deji	Killed (Killed)	Randolph
+161	161	2	Deji	Morphed Into	Lazarbeam
+161	161	3	Lazarbeam	Reported Body Of	Randolph
+161	161	4	Deji	Killed (Killed)	Lazarbeam
+161	161	5	Ginge	Camouflaged	
+161	161	6	Ginge	Killed (Killed)	Tobi
+161	161	7	Harry	Reported Body Of	Tobi
+161	161	8	Deji	Was Voted Out	
+161	161	9	DannyAarons	Called Emergency Meeting	
+161	161	10	Ginge	Was Voted Out	
+162	162	1	DannyAarons	Killed (Killed)	Simon
+162	162	2	Tobi	Reported Body Of	Simon
+162	162	3	Ginge	Was Voted Out	
+162	162	4	Deji	Cursed	Vik
+162	162	5	Deji	Curse Killed (Killed)	Harry
+162	162	6	Vik	Reported Body Of	Harry
+162	162	7	DannyAarons	Killed (Killed)	Randolph
+162	162	8	Lazarbeam	Reported Body Of	Randolph
+162	162	9	Tobi	Was Voted Out	
+162	162	10	Vik	Called Emergency Meeting	
+162	162	11	DannyAarons	Killed (Killed)	Ethan
+163	163	1	Randolph	Cursed	Deji
+163	163	2	Harry	Killed (Killed)	Simon
+163	163	3	Randolph	Curse Killed (Killed)	Lazarbeam
+163	163	4	Ginge	Reported Body Of	Simon
+163	163	5	Randolph	Cursed	Ethan
+163	163	6	Harry	Killed (Killed)	Tobi
+163	163	7	Randolph	Reported Body Of	Tobi
+163	163	8	Harry	Killed (Killed)	Ethan
+163	163	9	Randolph	Killed (Killed)	DannyAarons
+163	163	10	Deji	Reported Body Of	DannyAarons
+163	163	11	Harry	Was Voted Out	
+163	163	12	Randolph	Killed (Killed)	Vik
+163	163	13	Ginge	Called Emergency Meeting	
+163	163	14	Randolph	Was Voted Out	
+164	164	1	Ethan	Cursed	DannyAarons
+164	164	2	Randolph	Killed (Killed)	Harry
+164	164	3	Ethan	Killed (Killed)	DannyAarons
+164	164	4	Deji	Reported Body Of	DannyAarons
+164	164	5	Vik	Was Voted Out	
+164	164	6	Deji	Called Emergency Meeting	
+164	164	7	Ethan	Cursed	Ginge
+164	164	8	Ethan	Curse Killed (Killed)	Simon
+164	164	9	Ginge	Reported Body Of	Simon
+164	164	10	Ethan	Was Voted Out	
+164	164	11	Randolph	Killed (Killed)	Ginge
+164	164	12	Randolph	Reported Body Of	Ginge
+164	164	13	Randolph	Was Voted Out	
+165	165	1	Simon	Killed (Killed)	Josh
+165	165	2	Randolph	Killed (Killed)	Viz
+165	165	3	Randolph	Killed (Killed)	JJ
+165	165	4	Ethan	Reported Body Of	JJ
+165	165	5	Vik	Was Voted Out	
+165	165	6	Simon	Killed (Killed)	Ethan
+165	165	7	Randolph	Killed (Killed)	Ginge
+166	166	1	Deji	Killed (Killed)	JJ
+166	166	2	Simon	Reported Body Of	JJ
+166	166	3	Deji	Was Voted Out	
+166	166	4	Vik	Killed (Killed)	Simon
+166	166	5	Vik	Killed (Killed)	Josh
+166	166	6	Vik	Killed (Killed)	Ethan
+166	166	7	Viz	Reported Body Of	Ethan
+166	166	8	Viz	Was Voted Out	
+166	166	9	Vik	Killed (Killed)	Randolph
+166	166	10	Vik	Killed (Killed)	Harry
+167	167	1	JJ	Killed (Killed)	Viz
+167	167	2	Simon	Killed (Killed)	Josh
+167	167	3	Randolph	Reported Body Of	Josh
+167	167	4	Simon	Called Emergency Meeting	
+167	167	5	Ginge	Was Voted Out	
+167	167	6	JJ	Killed (Killed)	Deji
+167	167	7	JJ	Killed (Killed)	Vik
+167	167	8	Simon	Killed (Killed)	Ethan
+168	168	1	Harry	Killed (Killed)	Josh
+168	168	2	Ginge	Reported Body Of	Josh
+168	168	3	Randolph	Killed (Killed)	Simon
+168	168	4	Harry	Killed (Killed)	Ginge
+168	168	5	JJ	Reported Body Of	Ginge
+168	168	6	Harry	Killed (Killed)	Deji
+168	168	7	Harry	Reported Body Of	Deji
+168	168	8	Harry	Was Voted Out	
+168	168	9	Randolph	Killed (Killed)	Viz
+168	168	10	Randolph	Reported Body Of	Viz
+168	168	11	Ethan	Called Emergency Meeting	
+168	168	12	Randolph	Called Emergency Meeting	
+168	168	13	Randolph	Killed (Killed)	Ethan
+168	168	14	Vik	Reported Body Of	Ethan
+168	168	15	Randolph	Was Voted Out	
+169	169	1	Ginge	Placed Camera	
+169	169	2	Deji	Placed Portal	
+169	169	3	JJ	Bit (Killed)	Deji
+169	169	4	Simon	Reported Body Of	Deji
+169	169	5	Ginge	Placed Camera	
+169	169	6	Josh	Called Emergency Meeting	
+169	169	7	Ginge	Placed Camera	
+169	169	8	JJ	Bit (Killed)	Viz
+169	169	9	JJ	Reported Body Of	Viz
+169	169	10	Harry	Killed (Killed)	Ethan
+169	169	11	JJ	Bit (Killed)	Ginge
+169	169	12	Vik	Reported Body Of	Ginge
+169	169	13	Josh	Was Voted Out	
+169	169	14	Simon	Called Emergency Meeting	
+169	169	15	Vik	Was Voted Out	
+170	170	1	Deji	Called Emergency Meeting	
+170	170	2	Deji	Was Voted Out	
+170	170	3	Harry	Medic Shielded	Vik
+170	170	4	Josh	Killed (Killed)	Ginge
+170	170	5	Josh	Camouflaged	
+170	170	6	Josh	Killed (Killed)	Ethan
+170	170	7	JJ	Placed Camera	
+170	170	8	Randolph	Placed Portal	
+170	170	9	Josh	Camouflaged	
+170	170	10	Josh	Killed (Killed)	JJ
+170	170	11	Randolph	Reported Body Of	JJ
+170	170	12	Viz	Was Voted Out	
+170	170	13	Vik	Called Emergency Meeting	
+170	170	14	Simon	Was Voted Out	
+170	170	15	Harry	Called Emergency Meeting	
+170	170	16	Josh	Camouflaged	
+170	170	17	Josh	Killed (Killed)	Randolph
+170	170	18	Harry	Reported Body Of	Randolph
+170	170	19	Harry	Rage Quit	
+171	171	1	Ethan	Killed (Killed)	Ethan
+171	171	2	Simon	Reported Body Of	Ethan
+171	171	3	Viz	Placed Portal	
+171	171	4	JJ	Erased	Josh
+171	171	5	Harry	Placed Camera	
+171	171	6	JJ	Erased	Harry
+171	171	7	Vik	Killed (Killed)	Randolph
+171	171	8	Ginge	Reported Body Of	Randolph
+171	171	9	JJ	Killed (Killed)	Viz
+171	171	10	Simon	Reported Body Of	Viz
+171	171	11	JJ	Killed (Killed)	Simon
+171	171	12	Vik	Killed (Killed)	Deji
+171	171	13	Harry	Reported Body Of	Simon
+171	171	14	JJ	Was Voted Out	
+171	171	15	Vik	Killed (Killed)	Harry
+171	171	16	Josh	Killed (Killed)	Ginge
+172	172	1	Josh	Killed (Killed)	Ellum
+172	172	2	JME	Reported Body Of	Ellum
+172	172	3	Josh	Was Voted Out	
+172	172	4	JME	Planted Bomb	
+172	172	5	Tobi	Defused Bomb	
+172	172	6	Tobi	Called Emergency Meeting	
+172	172	7	JJ	Called Emergency Meeting	
+172	172	8	JME	Killed (Killed)	PieFace
+172	172	9	Lachlan	Called Emergency Meeting	
+172	172	10	JME	Killed (Killed)	Deji
+172	172	11	JJ	Reported Body Of	Deji
+172	172	12	JME	Killed (Killed)	JJ
+172	172	13	JME	Killed (Killed)	Harry
+172	172	14	Tobi	Reported Body Of	Harry
+172	172	15	JME	Was Voted Out	
+173	173	1	JME	Killed (Killed)	Josh
+173	173	2	PieFace	Reported Body Of	Josh
+173	173	3	JME	Killed (Killed)	Lachlan
+173	173	4	Harry	Killed (Killed)	JJ
+173	173	5	JME	Killed (Killed)	Deji
+173	173	6	PieFace	Reported Body Of	Deji
+173	173	7	Harry	Was Voted Out	
+173	173	8	JME	Killed (Killed)	Ellum
+173	173	9	Tobi	Called Emergency Meeting	
+173	173	10	PieFace	Called Emergency Meeting	
+173	173	11	JME	Called Emergency Meeting	
+173	173	12	PieFace	Was Voted Out	
+173	173	13	JME	Killed (Killed)	Ethan
+174	174	1	JME	Killed (Killed)	Ellum
+174	174	2	Tobi	Reported Body Of	Ellum
+174	174	3	JJ	Was Voted Out	
+174	174	4	JME	Killed (Killed)	Ethan
+174	174	5	Josh	Reported Body Of	Ethan
+174	174	6	JME	Was Voted Out	
+174	174	7	Harry	Killed (Killed)	PieFace
+174	174	8	Harry	Reported Body Of	PieFace
+174	174	9	Tobi	Was Voted Out	
+174	174	10	Harry	Killed (Killed)	Deji
+174	174	11	Deji	Called Emergency Meeting	
+174	174	12	Josh	Was Voted Out	
+175	175	1	Ethan	Killed (Killed)	Lachlan
+175	175	2	Deji	Hand Cuffed	JJ
+175	175	3	JME	Called Emergency Meeting	
+175	175	4	Deji	Hand Cuffed	JJ
+175	175	5	Ethan	Planted Bomb	
+175	175	6	Ethan	Bombed (Killed)	Josh
+175	175	7	Ellum	Reported Body Of	Josh
+175	175	8	Ethan	Planted Bomb	
+175	175	9	PieFace	Called Emergency Meeting	
+175	175	10	Ethan	Was Voted Out	
+175	175	11	JJ	Morphed Into	Tobi
+175	175	12	Tobi	Called Emergency Meeting	
+175	175	13	JJ	Was Voted Out	
+176	176	1	Deji	Morphed Into	Tobi
+176	176	2	Deji	Killed (Killed)	JME
+176	176	3	Deji	Reported Body Of	JME
+176	176	4	Ellum	Was Voted Out	
+176	176	5	Ethan	Hand Cuffed	JJ
+176	176	6	JJ	Planted Bomb	
+176	176	7	Ethan	Hand Cuffed	Deji
+176	176	8	Josh	Called Emergency Meeting	
+176	176	9	Tobi	Was Voted Out	
+177	177	1	Tobi	Morphed Into	Deji
+177	177	2	Tobi	Killed (Killed)	PieFace
+177	177	3	JJ	Reported Body Of	PieFace
+177	177	4	Harry	Hand Cuffed	Tobi
+177	177	5	Tobi	Morphed Into	Ellum
+177	177	6	Tobi	Killed (Killed)	Josh
+177	177	7	Ethan	Reported Body Of	Josh
+177	177	8	Tobi	Was Voted Out	
+177	177	9	JME	Killed (Killed)	Ethan
+177	177	10	Harry	Reported Body Of	Ethan
+177	177	11	Deji	Called Emergency Meeting	
+177	177	12	Deji	Was Voted Out	
+177	177	13	JME	Planted Bomb	
+177	177	14	Ellum	Defused Bomb	
+177	177	15	JME	Killed (Killed)	Harry
+177	177	16	Ellum	Reported Body Of	Harry
+177	177	17	JME	Was Voted Out	
+178	178	1	Deji	Killed (Killed)	JJ
+178	178	2	JME	Reported Body Of	JJ
+178	178	3	Tobi	Hand Cuffed	Deji
+178	178	4	Deji	Morphed Into	Harry
+178	178	5	JME	Called Emergency Meeting	
+178	178	6	Tobi	Hand Cuffed	PieFace
+178	178	7	Josh	Killed (Killed)	Josh
+178	178	8	Tobi	Hand Cuffed	Ethan
+178	178	9	PieFace	Reported Body Of	Josh
+178	178	10	Ellum	Was Voted Out	
+178	178	11	JME	Planted Bomb	
+178	178	12	JME	Killed (Killed)	Ethan
+178	178	13	Deji	Killed (Killed)	PieFace
+179	179	1	Deji	Killed (Killed)	Deji
+179	179	2	Ellum	Planted Bomb	
+179	179	3	PieFace	Reported Body Of	Deji
+179	179	4	Ellum	Planted Bomb	
+179	179	5	Ellum	Bombed (Killed)	Josh
+179	179	6	Ellum	Bombed (Killed)	JJ
+179	179	7	Ellum	Bombed (Killed)	PieFace
+179	179	8	Ellum	Bombed (Killed)	Ethan
+179	179	9	Ellum	Bombed (Killed)	JME
+179	179	10	Ellum	Bombed (Killed)	Harry
+179	179	11	Ellum	Bombed (Killed)	Tobi
+179	179	12	Ellum	Bombed (Killed)	Ellum
+180	180	1	JJ	Called Emergency Meeting	
+180	180	2	Harry	Killed (Killed)	Josh
+180	180	3	Harry	Cleaned	Josh
+180	180	4	Deji	Called Emergency Meeting	
+180	180	5	Harry	Killed (Killed)	Simon
+180	180	6	Viz	Reported Body Of	Simon
+180	180	7	Ethan	Morphed Into	Viz
+180	180	8	Ethan	Morphed Into	Viz
+180	180	9	Harry	Killed (Killed)	Vik
+180	180	10	Tobi	Called Emergency Meeting	
+180	180	11	Harry	Killed (Killed)	Deji
+180	180	12	Harry	Reported Body Of	Deji
+180	180	13	Harry	Killed (Killed)	JJ
+180	180	14	Harry	Reported Body Of	JJ
+180	180	15	Harry	Was Voted Out	
+180	180	16		Tasks Completed	
+181	181	1	JJ	Called Emergency Meeting	
+181	181	2	JJ	Was Voted Out	
+181	181	3	Deji	Killed (Killed)	Vik
+181	181	4	Tobi	Killed (Killed)	Josh
+181	181	5	Tobi	Killed (Killed)	Simon
+181	181	6	Deji	Killed (Killed)	Viz
+181	181	7	Ethan	Reported Body Of	Josh
+181	181	8	WillNE	Was Voted Out	
+182	182	1	JJ	Called Emergency Meeting	
+182	182	2	Deji	Killed (Killed)	Vik
+182	182	3	Simon	Reported Body Of	Vik
+182	182	4	WillNE	Was Voted Out	
+182	182	5	Tobi	Morphed Into	Harry
+182	182	6	Tobi	Killed (Killed)	Viz
+182	182	7	Deji	Killed (Killed)	Harry
+182	182	8	Simon	Reported Body Of	Harry
+182	182	9	Deji	Was Voted Out	
+182	182	10	Tobi	Morphed Into	Josh
+182	182	11	Tobi	Killed (Killed)	Ethan
+182	182	12	Simon	Reported Body Of	Ethan
+182	182	13	Simon	Was Voted Out	
+182	182	14	Josh	Called Emergency Meeting	
+182	182	15	Tobi	Was Voted Out	
+183	183	1	Vik	Cast Spell On	Simon
+183	183	2	Josh	Cursed	Vik
+183	183	3	JJ	Placed Portal	
+183	183	4	Vik	Cast Spell On	Viz
+183	183	5	Josh	Curse Killed (Killed)	Tobi
+183	183	6	Vik	Killed (Killed)	Ethan
+183	183	7	Harry	Called Emergency Meeting	
+183	183	8	JJ	Was Voted Out	
+183	183	9	Vik	Spell Killed (Killed)	Simon
+183	183	10	Vik	Spell Killed (Killed)	Viz
+183	183	11	Vik	Killed (Killed)	Harry
+183	183	12	Josh	Reported Body Of	Harry
+183	183	13	WillNE	Was Voted Out	
+184	184	1	Viz	Placed Portal	
+184	184	2	Josh	Cursed	Simon
+184	184	3	JJ	Cast Spell On	Viz
+184	184	4	Vik	Called Emergency Meeting	
+184	184	5	Deji	Was Voted Out	
+184	184	6	JJ	Spell Killed (Killed)	Viz
+184	184	7	Josh	Cursed	Tobi
+184	184	8	Josh	Curse Killed (Killed)	Ginge
+184	184	9	Tobi	Reported Body Of	Ginge
+184	184	10	Vik	Was Voted Out	
+184	184	11	JJ	Called Emergency Meeting	
+184	184	12	Josh	Cursed	Simon
+184	184	13	Josh	Curse Killed (Killed)	WillNE
+184	184	14	Simon	Reported Body Of	WillNE
+184	184	15	Harry	Was Voted Out	
+184	184	16	Josh	Killed (Killed)	Ethan
+185	185	1	Viz	Cursed	JJ
+185	185	2	Harry	Placed Portal	
+185	185	3	Josh	Called Emergency Meeting	
+185	185	4	Viz	Cursed	Deji
+185	185	5	Ethan	Cast Spell On	Simon
+185	185	6	Viz	Curse Killed (Killed)	Ethan
+185	185	7	Deji	Reported Body Of	Ethan
+185	185	8	Simon	Called Emergency Meeting	
+185	185	9	Viz	Cursed	Josh
+185	185	10	Viz	Curse Killed (Killed)	Tobi
+185	185	11	Josh	Reported Body Of	Tobi
+185	185	12	Josh	Was Voted Out	
+185	185	13	Deji	Called Emergency Meeting	
+185	185	14	Viz	Killed (Killed)	Vik
+185	185	15	Viz	Reported Body Of	Vik
+185	185	16	Viz	Cursed	Deji
+185	185	17	Viz	Curse Killed (Killed)	JJ
+185	185	18	Harry	Reported Body Of	JJ
+185	185	19		Tasks Completed	
+186	186	1	JJ	Called Emergency Meeting	
+186	186	2	WillNE	Placed Portal	
+186	186	3	Josh	Cast Spell On	JJ
+186	186	4	Simon	Called Emergency Meeting	
+186	186	5	Josh	Was Voted Out	
+186	186	6	Deji	Cursed	Ginge
+186	186	7	Deji	Curse Killed (Killed)	Tobi
+186	186	8	Ginge	Reported Body Of	Tobi
+186	186	9	Deji	Killed (Killed)	Harry
+186	186	10	JJ	Reported Body Of	Harry
+186	186	11	Deji	Was Voted Out	
+187	187	1	Ethan	Killed (Killed)	Lachlan
+187	187	2	JJ	Cleaned	Lachlan
+187	187	3	Josh	Called Emergency Meeting	
+187	187	4	Ethan	Killed (Killed)	Simon
+187	187	5	JJ	Cleaned	Simon
+187	187	6	Vik	Called Emergency Meeting	
+187	187	7	ChrisMD	Was Voted Out	
+187	187	8	Ethan	Killed (Killed)	DannyAarons
+188	188	1	Simon	Killed (Killed)	ChrisMD
+188	188	2	Simon	Killed (Killed)	JJ
+188	188	3	Vik	Cleaned	JJ
+188	188	4	Simon	Killed (Killed)	Ethan
+188	188	5	Lachlan	Called Emergency Meeting	
+188	188	6	Vik	Was Voted Out	
+188	188	7	JJ	Disconnected	
+188	188	8	Simon	Killed (Killed)	Lazarbeam
+188	188	9	Lachlan	Reported Body Of	Lazarbeam
+188	188	10	Simon	Killed (Killed)	Harry
+189	189	1	Ethan	Called Emergency Meeting	
+189	189	2	DannyAarons	Was Voted Out	
+189	189	3	JJ	Killed (Killed)	Harry
+189	189	4	Ethan	Reported Body Of	Harry
+189	189	5	JJ	Was Voted Out	
+189	189	6	Lazarbeam	Killed (Killed)	Vik
+189	189	7	Ethan	Reported Body Of	Vik
+189	189	8	Lazarbeam	Was Voted Out	
+190	190	1	Ethan	Killed (Killed)	Harry
+190	190	2	Lazarbeam	Cleaned	Harry
+190	190	3	Ethan	Killed (Killed)	DannyAarons
+190	190	4	Lazarbeam	Cleaned	DannyAarons
+190	190	5	Lazarbeam	Called Emergency Meeting	
+190	190	6	Vik	Called Emergency Meeting	
+190	190	7	Ethan	Killed (Killed)	Lachlan
+190	190	8	Lazarbeam	Cleaned	Lachlan
+190	190	9	JJ	Called Emergency Meeting	
+190	190	10	Vik	Was Voted Out	
+191	191	1	DannyAarons	Killed (Killed)	Lazarbeam
+191	191	2	Simon	Killed (Killed)	Harry
+191	191	3	JJ	Reported Body Of	Lazarbeam
+191	191	4	Simon	Was Voted Out	
+191	191	5	DannyAarons	Called Emergency Meeting	
+191	191	6	DannyAarons	Killed (Killed)	Ethan
+191	191	7	ChrisMD	Called Emergency Meeting	
+191	191	8	JJ	Called Emergency Meeting	
+191	191	9	DannyAarons	Killed (Killed)	Josh
+191	191	10	DannyAarons	Reported Body Of	Josh
+191	191	11	DannyAarons	Killed (Killed)	ChrisMD
+191	191	12	JJ	Reported Body Of	ChrisMD
+191	191	13	JJ	Was Voted Out	
+191	191	14	DannyAarons	Killed (Killed)	Lachlan
+192	192	1	Vik	Killed (Killed)	Simon
+192	192	2	Josh	Reported Body Of	Simon
+192	192	3	JJ	Was Voted Out	
+192	192	4	Lazarbeam	Killed (Killed)	Harry
+192	192	5	DannyAarons	Reported Body Of	Harry
+192	192	6	DannyAarons	Was Voted Out	
+192	192	7	ChrisMD	Called Emergency Meeting	
+192	192	8	Lazarbeam	Was Voted Out	
+192	192	9	Vik	Killed (Killed)	Ethan
+192	192	10	Vik	Killed (Killed)	Josh
+192	192	11	Vik	Killed (Killed)	Lachlan
+193	193	1	Simon	Killed (Killed)	Josh
+193	193	2	Vik	Reported Body Of	Josh
+193	193	3	Simon	Killed (Killed)	JJ
+193	193	4	DannyAarons	Reported Body Of	JJ
+193	193	5	DannyAarons	Called Emergency Meeting	
+193	193	6	ChrisMD	Was Voted Out	
+193	193	7	Lachlan	Killed (Killed)	Ethan
+193	193	8	Harry	Reported Body Of	Ethan
+193	193	9	Simon	Killed (Killed)	DannyAarons
+193	193	10	Lachlan	Reported Body Of	DannyAarons
+193	193	11	Simon	Was Voted Out	
+193	193	12	Harry	Called Emergency Meeting	
+193	193	13	Lachlan	Killed (Killed)	Lazarbeam
+193	193	14	Vik	Reported Body Of	Lazarbeam
+193	193	15	Lachlan	Was Voted Out	
+194	194	1	Harry	Killed (Killed)	Simon
+194	194	2	Josh	Called Emergency Meeting	
+194	194	3	Harry	Killed (Killed)	Ethan
+194	194	4	Lazarbeam	Killed (Killed)	Lachlan
+194	194	5	Vik	Reported Body Of	Lachlan
+194	194	6	Harry	Killed (Killed)	Josh
+194	194	7	Harry	Killed (Killed)	ChrisMD
+194	194	8	Lazarbeam	Killed (Killed)	Vik
+195	195	1	JJ	Called Emergency Meeting	
+195	195	2	DannyAarons	Killed (Killed)	Simon
+195	195	3	Josh	Reported Body Of	Simon
+195	195	4	Deji	Was Voted Out	
+195	195	5	Vik	Killed (Killed)	Josh
+195	195	6	DannyAarons	Killed (Killed)	Lazarbeam
+195	195	7	Lachlan	Reported Body Of	Josh
+195	195	8	Vik	Was Voted Out	
+195	195	9	DannyAarons	Killed (Killed)	Ethan
+195	195	10	JJ	Reported Body Of	Ethan
+195	195	11	DannyAarons	Was Voted Out	
+196	196	1	DannyAarons	Killed (Killed)	Harry
+196	196	2	Josh	Reported Body Of	Harry
+196	196	3	DannyAarons	Killed (Killed)	Ethan
+196	196	4	Simon	Reported Body Of	Ethan
+196	196	5	Vik	Killed (Killed)	Simon
+196	196	6	JJ	Reported Body Of	Simon
+196	196	7	DannyAarons	Killed (Killed)	Lachlan
+196	196	8	Vik	Killed (Killed)	Josh
+196	196	9	Lazarbeam	Reported Body Of	Josh
+196	196	10	Lazarbeam	Was Voted Out	
+197	197	1	Simon	Called Emergency Meeting	
+197	197	2	Ethan	Killed (Killed)	Vik
+197	197	3	Harry	Killed (Killed)	Lachlan
+197	197	4	Ethan	Killed (Killed)	Lazarbeam
+197	197	5	Harry	Killed (Killed)	DannyAarons
+197	197	6	Josh	Reported Body Of	Vik
+197	197	7	Ethan	Was Voted Out	
+197	197	8	Deji	Called Emergency Meeting	
+197	197	9	Harry	Was Voted Out	
+198	198	1	Simon	Called Emergency Meeting	
+198	198	2	Deji	Disconnected	
+198	198	3	Ethan	Killed (Killed)	Harry
+198	198	4	DannyAarons	Called Emergency Meeting	
+198	198	5	JJ	Called Emergency Meeting	
+198	198	6	Ethan	Was Voted Out	
+199	199	1	DannyAarons	Killed (Killed)	Lazarbeam
+199	199	2	Josh	Reported Body Of	Lazarbeam
+199	199	3	DannyAarons	Killed (Killed)	Ethan
+199	199	4	DannyAarons	Reported Body Of	Ethan
+199	199	5	Josh	Was Voted Out	
+199	199	6	DannyAarons	Killed (Killed)	JJ
+199	199	7	DannyAarons	Killed (Killed)	Harry
+199	199	8	Simon	Reported Body Of	JJ
+199	199	9	Simon	Was Voted Out	
+199	199	10	Vik	Called Emergency Meeting	
+199	199	11	Deji	Was Voted Out	
+199	199	12	DannyAarons	Killed (Killed)	Lachlan
+200	200	1	Harry	Planted Bomb	
+200	200	2	JJ	Killed (Killed)	Josh
+200	200	3	Deji	Called Emergency Meeting	
+200	200	4	Harry	Killed (Killed)	Lachlan
+200	200	5	Harry	Planted Bomb	
+200	200	6	Lazarbeam	Reported Body Of	Lachlan
+200	200	7	Harry	Was Voted Out	
+200	200	8	JJ	Assassinated (Killed)	Deji
+200	200	9	Simon	Ate	Deji
+200	200	10	JJ	Assassinated (Killed)	Lazarbeam
+200	200	11	Simon	Ate	Lazarbeam
+200	200	12	JJ	Called Emergency Meeting	
+200	200	13	JJ	Killed (Killed)	DannyAarons
+200	200	14	Simon	Ate	DannyAarons
+200	200	15	Vik	Called Emergency Meeting	
+200	200	16	JJ	Killed (Killed)	Ethan
+200	200	17	Vik	Reported Body Of	Ethan
+200	200	18	Vik	Rage Quit	
+201	201	1	Deji	Planted Bomb	
+201	201	2	Deji	Killed (Killed)	Harry
+201	201	3	Simon	Ate	Harry
+201	201	4	Deji	Bombed (Killed)	Lachlan
+201	201	5	Vik	Reported Body Of	Lachlan
+201	201	6	Deji	Planted Bomb	
+201	201	7	Deji	Killed (Killed)	DannyAarons
+201	201	8	Lazarbeam	Reported Body Of	DannyAarons
+201	201	9	Deji	Planted Bomb	
+201	201	10	Deji	Killed (Killed)	JJ
+201	201	11	Lazarbeam	Reported Body Of	JJ
+201	201	12	Deji	Was Voted Out	
+202	202	1	Deji	Called Emergency Meeting	
+202	202	2	Simon	Killed (Killed)	Simon
+202	202	3	DannyAarons	Reported Body Of	Simon
+202	202	4	Deji	Was Voted Out	
+202	202	5	Josh	Planted Bomb	
+202	202	6	Josh	Bombed (Killed)	Harry
+202	202	7	DannyAarons	Reported Body Of	Harry
+202	202	8	Ethan	Assassinated (Killed)	JJ
+202	202	9	Lachlan	Ate	JJ
+202	202	10	Lazarbeam	Called Emergency Meeting	
+202	202	11	Ethan	Was Voted Out	
+202	202	12	Josh	Planted Bomb	
+202	202	13	Vik	Called Emergency Meeting	
+202	202	14	Josh	Planted Bomb	
+202	202	15	Josh	Killed (Killed)	Vik
+202	202	16	Lachlan	Reported Body Of	Vik
+202	202	17	Josh	Was Voted Out	
+203	203	1	Randolph	Killed (Killed)	Josh
+203	203	2	Viz	Ate	Josh
+203	203	3	Simon	Killed (Killed)	Vik
+203	203	4	Viz	Ate	Vik
+203	203	5	Randolph	Killed (Killed)	JJ
+203	203	6	Harry	Reported Body Of	JJ
+203	203	7	Simon	Killed (Killed)	Viz
+203	203	8	Randolph	Reported Body Of	Viz
+203	203	9	Deji	Was Voted Out	
+203	203	10	Simon	Killed (Killed)	Lazarbeam
+204	204	1	Viz	Killed (Killed)	Randolph
+204	204	2	Lazarbeam	Reported Body Of	Randolph
+204	204	3	Lazarbeam	Called Emergency Meeting	
+204	204	4	JJ	Was Voted Out	
+204	204	5	Ethan	Called Emergency Meeting	
+204	204	6	Harry	Was Voted Out	
+204	204	7	Viz	Killed (Killed)	Simon
+204	204	8	Josh	Called Emergency Meeting	
+204	204	9	Josh	Was Voted Out	
+204	204	10	Viz	Killed (Killed)	Deji
+205	205	1	Lazarbeam	Killed (Killed)	Viz
+205	205	2	JJ	Killed (Killed)	Harry
+205	205	3	Randolph	Reported Body Of	Viz
+205	205	4	Randolph	Was Voted Out	
+205	205	5	JJ	Killed (Killed)	Vik
+205	205	6	Simon	Ate	Vik
+205	205	7	JJ	Killed (Killed)	Simon
+205	205	8	Deji	Reported Body Of	Simon
+205	205	9	Deji	Was Voted Out	
+206	206	1	Ethan	Killed (Killed)	Lazarbeam
+206	206	2	Viz	Ate	Lazarbeam
+206	206	3	Harry	Killed (Killed)	Vik
+206	206	4	Ethan	Killed (Killed)	JJ
+206	206	5	Viz	Ate	Vik
+206	206	6	Viz	Ate	JJ
+206	206	7	Harry	Killed (Killed)	Deji
+206	206	8	Viz	Ate	Deji
+207	207	1	JJ	Morphed Into	Deji
+207	207	2	Randolph	Killed (Killed)	Josh
+207	207	3	Randolph	Called Emergency Meeting	
+207	207	4	JJ	Morphed Into	Ethan
+207	207	5	JJ	Killed (Killed)	Vik
+207	207	6	Simon	Reported Body Of	Vik
+207	207	7	Randolph	Killed (Killed)	Viz
+207	207	8	Ethan	Reported Body Of	Viz
+207	207	9	JJ	Morphed Into	Deji
+207	207	10	JJ	Killed (Killed)	Lazarbeam
+207	207	11	Deji	Reported Body Of	Lazarbeam
+207	207	12	JJ	Was Voted Out	
+207	207	13	Deji	Called Emergency Meeting	
+207	207	14	Harry	Time Shielded	
+207	207	15	Randolph	Killed (Killed)	Ethan
+207	207	16	Simon	Reported Body Of	Ethan
+207	207	17	Harry	Time Shielded	
+207	207	18		Time Reversed	
+207	207	19	Randolph	Killed (Killed)	Harry
+207	207	20	Simon	Reported Body Of	Harry
+207	207	21	Randolph	Was Voted Out	
+208	208	1	Deji	Killed (Killed)	JJ
+208	208	2	Deji	Killed (Killed)	Vik
+208	208	3	Lazarbeam	Reported Body Of	JJ
+208	208	4	Deji	Killed (Killed)	Simon
+208	208	5	Randolph	Reported Body Of	Simon
+208	208	6	Deji	Was Voted Out	
+208	208	7	Josh	Killed (Killed)	Viz
+208	208	8	Lazarbeam	Reported Body Of	Viz
+208	208	9	Josh	Was Voted Out	
+209	209	1	Viz	Called Emergency Meeting	
+209	209	2	Deji	Time Shielded	
+209	209	3		Time Reversed	
+209	209	4	Randolph	Killed (Killed)	Lazarbeam
+209	209	5	Deji	Called Emergency Meeting	
+209	209	6	JJ	Was Voted Out	
+209	209	7	Randolph	Morphed Into	Ethan
+209	209	8	Randolph	Killed (Killed)	Viz
+209	209	9	Josh	Reported Body Of	Viz
+209	209	10	Harry	Was Voted Out	
+210	210	1	JJ	Called Emergency Meeting	
+210	210	2	Vik	Time Shielded	
+210	210	3		Time Reversed	
+210	210	4	Harry	Called Emergency Meeting	
+210	210	5	Vik	Time Shielded	
+210	210	6		Time Reversed	
+210	210	7	Ethan	Killed (Killed)	Vik
+210	210	8	Simon	Reported Body Of	Vik
+210	210	9	Ethan	Was Voted Out	
+210	210	10	Lazarbeam	Morphed Into	Deji
+210	210	11	Lazarbeam	Killed (Killed)	Viz
+210	210	12	Josh	Reported Body Of	Deji
+210	210	13	Deji	Was Voted Out	
+210	210	14	Lazarbeam	Morphed Into	Simon
+210	210	15	Lazarbeam	Killed (Killed)	Randolph
+210	210	16		Crisis	
+211	211	1	Ethan	Killed (Killed)	Simon
+211	211	2	Deji	Called Emergency Meeting	
+211	211	3	Ethan	Killed (Killed)	Deji
+211	211	4	Viz	Morphed Into	Randolph
+211	211	5	Harry	Reported Body Of	Deji
+211	211	6	Ethan	Killed (Killed)	Harry
+211	211	7	Vik	Reported Body Of	Harry
+211	211	8	Ethan	Killed (Killed)	JJ
+211	211	9	Lazarbeam	Reported Body Of	JJ
+211	211	10	Ethan	Was Voted Out	
+211	211	11	Viz	Morphed Into	Josh
+211	211	12	Viz	Killed (Killed)	Lazarbeam
+211	211	13	Vik	Reported Body Of	Lazarbeam
+211	211	14	Josh	Was Voted Out	
+211	211	15	Viz	Killed (Killed)	Randolph
+212	212	1	JJ	Killed (Killed)	Josh
+212	212	2	JJ	Killed (Killed)	Harry
+212	212	3	Viz	Reported Body Of	Harry
+212	212	4	Viz	Time Shielded	
+212	212	5		Time Reversed	
+212	212	6	Deji	Killed (Killed)	Viz
+212	212	7	Simon	Reported Body Of	Viz
+212	212	8	JJ	Killed (Killed)	Vik
+212	212	9	Randolph	Reported Body Of	Vik
+212	212	10	JJ	Killed (Killed)	Ethan
+212	212	11	Simon	Called Emergency Meeting	
+212	212	12	Deji	Was Voted Out	
+212	212	13	Lazarbeam	Called Emergency Meeting	
+212	212	14	JJ	Was Voted Out	
+213	213	1	JJ	Killed (Killed)	Tobi
+213	213	2	Deji	Reported Body Of	Tobi
+213	213	3	JJ	Killed (Killed)	MaxFosh
+213	213	4	Deji	Reported Body Of	MaxFosh
+213	213	5	JJ	Killed (Killed)	Harry
+213	213	6	JJ	Killed (Killed)	Vik
+213	213	7	Simon	Reported Body Of	Vik
+213	213	8	JJ	Was Voted Out	
+213	213	9	JME	Killed (Killed)	Josh
+213	213	10	DannyAarons	Reported Body Of	Josh
+213	213	11	JME	Was Voted Out	
+214	214	1	Josh	Killed (Killed)	JJ
+214	214	2	Deji	Reported Body Of	JJ
+214	214	3	Vik	Killed (Killed)	MaxFosh
+214	214	4	Deji	Reported Body Of	MaxFosh
+214	214	5	Vik	Killed (Killed)	Simon
+214	214	6	Deji	Reported Body Of	Simon
+214	214	7	Deji	Was Voted Out	
+214	214	8	Josh	Killed (Killed)	Harry
+214	214	9	Vik	Killed (Killed)	JME
+215	215	1	Simon	Killed (Killed)	Deji
+215	215	2	JJ	Reported Body Of	Deji
+215	215	3	MaxFosh	Killed (Killed)	Vik
+215	215	4	MaxFosh	Reported Body Of	Vik
+215	215	5	MaxFosh	Killed (Killed)	Harry
+215	215	6	Tobi	Reported Body Of	Harry
+215	215	7	JJ	Was Voted Out	
+215	215	8	MaxFosh	Killed (Killed)	JME
+215	215	9	Tobi	Reported Body Of	JME
+215	215	10	Simon	Killed (Killed)	Tobi
+216	216	1	Deji	Killed (Killed)	Simon
+216	216	2	JJ	Reported Body Of	Simon
+216	216	3	JME	Killed (Killed)	Tobi
+216	216	4	Deji	Cleaned	Tobi
+216	216	5	JME	Called Emergency Meeting	
+216	216	6	Deji	Killed (Killed)	JJ
+216	216	7	Josh	Called Emergency Meeting	
+216	216	8	Deji	Was Voted Out	
+216	216	9	JME	Killed (Killed)	Josh
+216	216	10	DannyAarons	Reported Body Of	Josh
+216	216	11	JME	Killed (Killed)	Harry
+216	216	12	MaxFosh	Called Emergency Meeting	
+216	216	13	JME	Was Voted Out	
+217	217	1	JJ	Called Emergency Meeting	
+217	217	2	Deji	Killed (Killed)	Vik
+217	217	3	Simon	Cleaned	Vik
+217	217	4	Deji	Killed (Killed)	Tobi
+217	217	5	Simon	Cleaned	Tobi
+217	217	6	MaxFosh	Called Emergency Meeting	
+217	217	7	Deji	Killed (Killed)	Harry
+217	217	8	Simon	Cleaned	Harry
+217	217	9	JME	Called Emergency Meeting	
+217	217	10	Deji	Killed (Killed)	MaxFosh
+217	217	11	Simon	Cleaned	MaxFosh
+217	217	12	Deji	Killed (Killed)	Josh
+217	217	13	Simon	Cleaned	Josh
+217	217	14	Deji	Killed (Killed)	JME
+218	218	1	MaxFosh	Killed (Killed)	Deji
+218	218	2	JME	Cleaned	Deji
+218	218	3	MaxFosh	Killed (Killed)	Vik
+218	218	4	Simon	Reported Body Of	Vik
+218	218	5	MaxFosh	Was Voted Out	
+218	218	6	JJ	Called Emergency Meeting	
+218	218	7	Tobi	Called Emergency Meeting	
+218	218	8	Tobi	Was Voted Out	
+218	218	9	JME	Killed (Killed)	JJ
+218	218	10	Simon	Reported Body Of	JJ
+218	218	11	JME	Was Voted Out	
+219	219	1	Deji	Medic Shielded	Ethan
+219	219	2	Ethan	Killed (Killed)	JJ
+219	219	3	Ginge	Called Emergency Meeting	
+219	219	4	Josh	Killed (Killed)	Harry
+219	219	5	Ginge	Reported Body Of	Harry
+219	219	6	Ethan	Killed (Killed)	Vik
+219	219	7	Josh	Killed (Killed)	Tobi
+219	219	8	Ethan	Reported Body Of	Vik
+219	219	9	Deji	Was Voted Out	
+219	219	10	Ethan	Killed (Killed)	Ginge
+220	220	1	Ginge	Killed (Killed)	JJ
+220	220	2	Jynxzi	Reported Body Of	JJ
+220	220	3	Deji	Was Voted Out	
+220	220	4	Ginge	Killed (Killed)	Vik
+220	220	5	Ginge	Reported Body Of	Vik
+220	220	6	Harry	Killed (Killed)	Ginge
+220	220	7	Harry	Reported Body Of	Ginge
+220	220	8	Tobi	Killed (Killed)	Jynxzi
+220	220	9	Josh	Reported Body Of	Jynxzi
+220	220	10	Tobi	Killed (Killed)	Lazarbeam
+220	220	11	Harry	Killed (Killed)	Harry
+220	220	12	Ethan	Reported Body Of	Harry
+220	220	13	Tobi	Was Voted Out	
+221	221	1	Ginge	Medic Shielded	Vik
+221	221	2	Deji	Killed (Killed)	Ginge
+221	221	3	Vik	Morphed Into	Jynxzi
+221	221	4	Vik	Killed (Killed)	Jynxzi
+221	221	5	Deji	Killed (Killed)	Harry
+221	221	6	Josh	Reported Body Of	Jynxzi
+221	221	7	Vik	Killed (Killed)	Josh
+221	221	8	JJ	Reported Body Of	Josh
+221	221	9	Ethan	Was Voted Out	
+221	221	10	Deji	Killed (Killed)	Tobi
+222	222	1	JJ	Killed (Killed)	JJ
+222	222	2	Josh	Reported Body Of	JJ
+222	222	3	Ethan	Killed (Killed)	Deji
+222	222	4		Lover Killed (Killed)	Josh
+222	222	5	Lazarbeam	Killed (Killed)	Tobi
+222	222	6	Vik	Reported Body Of	Tobi
+222	222	7	Harry	Called Emergency Meeting	
+222	222	8	Vik	Guess Killed (Killed)	Vik
+222	222	9	Lazarbeam	Killed (Killed)	Jynxzi
+222	222	10	Harry	Reported Body Of	Jynxzi
+222	222	11	Ethan	Killed (Killed)	Harry
+222	222	12	Ginge	Killed (Killed)	Ethan
+222	222	13	Lazarbeam	Reported Body Of	Harry
+222	222	14	Lazarbeam	Killed (Killed)	Ginge
+223	223	1	Deji	Placed Portal	
+223	223	2	Tobi	Camouflaged	
+223	223	3	Tobi	Killed (Killed)	Deji
+223	223	4	JJ	Doused	Ginge
+223	223	5	Harry	Killed (Killed)	Josh
+223	223	6		Lover Killed (Killed)	Ethan
+223	223	7	Jynxzi	Ate	Deji
+223	223	8	Lazarbeam	Called Emergency Meeting	
+223	223	9	JJ	Doused	Harry
+223	223	10	Tobi	Camouflaged	
+223	223	11	Tobi	Killed (Killed)	Lazarbeam
+223	223	12	Ginge	Reported Body Of	Lazarbeam
+223	223	13	Tobi	Was Voted Out	
+223	223	14	Harry	Killed (Killed)	Vik
+223	223	15	JJ	Doused	Jynxzi
+223	223	16	Harry	Reported Body Of	Vik
+223	223	17	JJ	Ignited (Killed)	Harry
+223	223	18	JJ	Ignited (Killed)	Ginge
+223	223	19	JJ	Ignited (Killed)	Jynxzi
+224	224	1	Deji	Called Emergency Meeting	
+224	224	2	Ginge	Erased	Lazarbeam
+224	224	3	Jynxzi	Killed (Killed)	Deji
+224	224	4	Jynxzi	Reported Body Of	Deji
+224	224	5	Ginge	Killed (Killed)	Jynxzi
+224	224	6	Vik	Ate	Jynxzi
+224	224	7	Ginge	Killed (Killed)	Ethan
+224	224	8	Vik	Ate	Ethan
+224	224	9	Ginge	Killed (Killed)	Josh
+224	224	10	Vik	Ate	Josh
+224	224	11	JJ	Called Emergency Meeting	
+224	224	12	Ginge	Was Voted Out	
+224	224	13	Tobi	Killed (Killed)	Lazarbeam
+224	224	14	Vik	Reported Body Of	Lazarbeam
+224	224	15	Tobi	Killed (Killed)	Harry
+224	224	16		Lover Killed (Killed)	JJ
+225	225	1	JJ	Killed (Killed)	Deji
+225	225	2	Jynxzi	Reported Body Of	Deji
+225	225	3	JJ	Killed (Killed)	Ginge
+225	225	4	Jynxzi	Reported Body Of	Ginge
+225	225	5	JJ	Was Voted Out	
+225	225	6		Lover Killed (Killed)	Tobi
+225	225	7	Lazarbeam	Called Emergency Meeting	
+225	225	8	Ethan	Killed (Killed)	Josh
+225	225	9	Lazarbeam	Reported Body Of	Josh
+225	225	10	Ethan	Was Voted Out	
+225	225	11	Jynxzi	Killed (Killed)	Vik
+225	225	12	Vik	Called Emergency Meeting	
+225	225	13	Jynxzi	Was Voted Out	
+226	226	1	Ethan	Radiated	
+226	226	2	JJ	Killed (Killed)	Simon
+226	226	3	Tobi	Killed (Killed)	Harry
+226	226	4	Randolph	Reported Body Of	Harry
+226	226	5	Ethan	Radiated	
+226	226	6	JJ	Killed (Killed)	Josh
+226	226	7	JJ	Called Emergency Meeting	
+226	226	8	JJ	Killed (Killed)	Ethan
+226	226	9	Randolph	Reported Body Of	Ethan
+226	226	10	JJ	Was Voted Out	
+226	226	11	DannyAarons	Called Emergency Meeting	
+226	226	12	Tobi	Killed (Killed)	DannyAarons
+226	226	13	Lazarbeam	Reported Body Of	DannyAarons
+226	226	14	Tobi	Killed (Killed)	Randolph
+226	226	15	Lazarbeam	Called Emergency Meeting	
+226	226	16	Tobi	Was Voted Out	
+227	227	1	Simon	Radiated	
+227	227	2	DannyAarons	Killed (Killed)	JJ
+227	227	3	Simon	Radiated	
+227	227	4	Harry	Reported Body Of	JJ
+227	227	5	Tobi	Guess Killed (Killed)	Simon
+227	227	6	Tobi	Was Voted Out	
+227	227	7	DannyAarons	Killed (Killed)	Randolph
+227	227	8	Lazarbeam	Called Emergency Meeting	
+227	227	9	DannyAarons	Was Voted Out	
+228	228	1	JJ	Radiated	
+228	228	2	Tobi	Killed (Killed)	Ethan
+228	228	3	Josh	Killed (Killed)	DannyAarons
+228	228	4	Simon	Reported Body Of	DannyAarons
+228	228	5	JJ	Radiated	
+228	228	6	Josh	Killed (Killed)	Randolph
+228	228	7	Harry	Reported Body Of	Randolph
+228	228	8	Josh	Guess Killed (Killed)	JJ
+228	228	9	Josh	Was Voted Out	
+228	228	10	Tobi	Killed (Killed)	Lazarbeam
+228	228	11	Simon	Reported Body Of	Lazarbeam
+228	228	12	Tobi	Was Voted Out	
+229	229	1	JJ	Killed (Killed)	Ethan
+229	229	2	Randolph	Radiated	
+229	229	3	JJ	Killed (Killed)	Randolph
+229	229	4	Lazarbeam	Killed (Killed)	DannyAarons
+229	229	5	Simon	Reported Body Of	Randolph
+229	229	6	DannyAarons	Disconnected	
+229	229	7	JJ	Killed (Killed)	Joe Weller
+229	229	8	Lazarbeam	Killed (Killed)	Harry
+229	229	9	Josh	Reported Body Of	Joe Weller
+229	229	10	JJ	Was Voted Out	
+229	229	11	Simon	Called Emergency Meeting	
+229	229	12	Lazarbeam	Killed (Killed)	Simon
+229	229	13	Lazarbeam	Reported Body Of	Simon
+229	229	14	Josh	Was Voted Out	
+229	229	15	Tobi	Rage Quit	
+230	230	1	JJ	Killed (Killed)	Ethan
+230	230	2	Harry	Killed (Killed)	Simon
+230	230	3	Randolph	Killed (Killed)	Viz
+230	230	4	Tobi	Reported Body Of	Simon
+230	230	5	Harry	Was Voted Out	
+230	230	6	JJ	Killed (Killed)	Tobi
+230	230	7	Randolph	Reported Body Of	Tobi
+230	230	8	Randolph	Was Voted Out	
+230	230	9	JJ	Killed (Killed)	Joe Weller
+230	230	10	Josh	Called Emergency Meeting	
+230	230	11	JJ	Was Voted Out	
+231	231	1	Harry	Killed (Killed)	Randolph
+231	231	2	Simon	Reported Body Of	Randolph
+231	231	3	Tobi	Killed (Killed)	JJ
+231	231	4	Tobi	Camouflaged	
+231	231	5	Harry	Killed (Killed)	Lazarbeam
+231	231	6	Simon	Reported Body Of	Lazarbeam
+231	231	7	Harry	Was Voted Out	
+231	231	8	Viz	Called Emergency Meeting	
+231	231	9	Tobi	Killed (Killed)	Joe Weller
+231	231	10	Simon	Reported Body Of	Joe Weller
+231	231	11	Tobi	Camouflaged	
+231	231	12	Tobi	Killed (Killed)	Viz
+231	231	13	Simon	Reported Body Of	Viz
+231	231	14	Tobi	Was Voted Out	
+232	232	1	Simon	Killed (Killed)	Josh
+232	232	2	Joe Weller	Killed (Killed)	Simon
+232	232	3	Tobi	Killed (Killed)	Viz
+232	232	4	Lazarbeam	Reported Body Of	Viz
+232	232	5	JJ	Was Voted Out	
+232	232	6	Tobi	Killed (Killed)	Randolph
+232	232	7	Joe Weller	Killed (Killed)	Lazarbeam
+233	233	1	Randolph	Killed (Killed)	Harry
+233	233	2	Ethan	Killed (Killed)	Simon
+233	233	3	Randolph	Camouflaged	
+233	233	4	Randolph	Killed (Killed)	Viz
+233	233	5	Tobi	Reported Body Of	Viz
+233	233	6	Randolph	Camouflaged	
+233	233	7	Randolph	Killed (Killed)	Tobi
+233	233	8	Ethan	Killed (Killed)	JJ
+233	233	9	Josh	Reported Body Of	Tobi
+233	233	10	Randolph	Was Voted Out	
+233	233	11	Ethan	Killed (Killed)	Lazarbeam
+233	233	12	Joe Weller	Reported Body Of	Lazarbeam
+233	233	13	Ethan	Was Voted Out	
+234	234	1	JJ	Killed (Killed)	Josh
+234	234	2	Ethan	Reported Body Of	Josh
+234	234	3	JJ	Killed (Killed)	Viz
+234	234	4	PieFace	Killed (Killed)	Simon
+234	234	5	Vik	Reported Body Of	Simon
+234	234	6	PieFace	Killed (Killed)	Vik
+234	234	7	PieFace	Shapeshifted Into	Ethan
+234	234	8	JJ	Reported Body Of	Vik
+234	234	9	PieFace	Was Voted Out	
+234	234	10	JJ	Killed (Killed)	Harry
+234	234	11	Tobi	Called Emergency Meeting	
+234	234	12	JJ	Killed (Killed)	Lachlan
+234	234	13	JJ	Killed (Killed)	Ethan
+235	235	1	Harry	Killed (Killed)	Josh
+235	235	2	Tobi	Reported Body Of	Josh
+235	235	3	Viz	Disconnected	
+235	235	4	PieFace	Disconnected	
+235	235	5	Harry	Killed (Killed)	Simon
+235	235	6	Ethan	Reported Body Of	Simon
+235	235	7	Harry	Killed (Killed)	Ethan
+235	235	8	Lachlan	Reported Body Of	Ethan
+235	235	9	Josh	Protected	Vik
+235	235	10	JJ	Called Emergency Meeting	
+235	235	11	Tobi	Was Voted Out	
+235	235	12	Vik	Called Emergency Meeting	
+235	235	13	Harry	Killed (Killed)	Vik
+235	235	14	Harry	Reported Body Of	Vik
+235	235	15	JJ	Was Voted Out	
+236	236	1	Simon	Killed (Killed)	Viz
+236	236	2	JJ	Shapeshifted Into	Vik
+236	236	3	Harry	Reported Body Of	Viz
+236	236	4	JJ	Shapeshifted Into	Vik
+236	236	5	JJ	Killed (Killed)	PieFace
+236	236	6	Lachlan	Reported Body Of	PieFace
+236	236	7	JJ	Shapeshifted Into	Ethan
+236	236	8	JJ	Killed (Killed)	Josh
+236	236	9	Lachlan	Reported Body Of	Josh
+236	236	10	JJ	Shapeshifted Into	Vik
+236	236	11	Simon	Killed (Killed)	Lachlan
+236	236	12	JJ	Killed (Killed)	Ethan
+236	236	13	Tobi	Reported Body Of	Ethan
+236	236	14	Tobi	Was Voted Out	
+237	237	1	Lachlan	Killed (Killed)	Josh
+237	237	2	Lachlan	Vanished	
+237	237	3	PieFace	Reported Body Of	Josh
+237	237	4	Lachlan	Killed (Killed)	Tobi
+237	237	5	Lachlan	Vanished	
+237	237	6	Simon	Reported Body Of	Tobi
+237	237	7	JJ	Killed (Killed)	Viz
+237	237	8	Simon	Reported Body Of	Viz
+237	237	9	Josh	Protected	Simon
+237	237	10	Lachlan	Killed (Killed)	Simon
+237	237	11	Lachlan	Vanished	
+237	237	12	Ethan	Reported Body Of	Simon
+237	237	13	Lachlan	Was Voted Out	
+237	237	14	Vik	Called Emergency Meeting	
+237	237	15	JJ	Was Voted Out	
+238	238	1	PieFace	Killed (Killed)	Simon
+238	238	2	Josh	Reported Body Of	Simon
+238	238	3	JJ	Killed (Killed)	Ethan
+238	238	4	Vik	Reported Body Of	Ethan
+238	238	5	JJ	Was Voted Out	
+238	238	6	PieFace	Killed (Killed)	Harry
+238	238	7	Vik	Reported Body Of	Harry
+238	238	8	PieFace	Was Voted Out	
+239	239	1	Ethan	Killed (Killed)	Vik
+239	239	2	Tobi	Reported Body Of	Vik
+239	239	3	PieFace	Killed (Killed)	Josh
+239	239	4	PieFace	Reported Body Of	Josh
+239	239	5	Simon	Was Voted Out	
+239	239	6	JJ	Called Emergency Meeting	
+239	239	7	Ethan	Vanished	
+239	239	8	PieFace	Killed (Killed)	JJ
+239	239	9	Ethan	Killed (Killed)	Lachlan
+239	239	10	Viz	Reported Body Of	Lachlan
+239	239	11	Ethan	Was Voted Out	
+239	239	12	Vik	Protected	Tobi
+239	239	13	Harry	Called Emergency Meeting	
+239	239	14	PieFace	Killed (Killed)	Viz
+239	239	15	Tobi	Reported Body Of	Viz
+239	239	16	PieFace	Was Voted Out	
+240	240	1	JJ	Killed (Killed)	Ethan
+240	240	2	Randolph	Killed (Killed)	Tobi
+240	240	3	DannyAarons	Reported Body Of	Tobi
+240	240	4	Randolph	Was Voted Out	
+240	240	5	JJ	Killed (Killed)	Viz
+240	240	6	DannyAarons	Reported Body Of	Viz
+240	240	7	JJ	Was Voted Out	
+241	241	1	Lazarbeam	Killed (Killed)	Josh
+241	241	2	Simon	Reported Body Of	Josh
+241	241	3	Ethan	Called Emergency Meeting	
+241	241	4	Simon	Was Voted Out	
+242	242	1	Simon	Killed (Killed)	Ethan
+242	242	2	Randolph	Reported Body Of	Ethan
+242	242	3	Simon	Killed (Killed)	Josh
+242	242	4	Viz	Killed (Killed)	Harry
+242	242	5	Randolph	Reported Body Of	Josh
+242	242	6	Lazarbeam	Was Voted Out	
+242	242	7	Simon	Killed (Killed)	Tobi
+242	242	8	Viz	Killed (Killed)	DannyAarons
+243	243	1	Lazarbeam	Killed (Killed)	Harry
+243	243	2	Randolph	Reported Body Of	Harry
+243	243	3	Randolph	Was Voted Out	
+243	243	4	JJ	Killed (Killed)	Viz
+243	243	5	Josh	Reported Body Of	Viz
+243	243	6	Lazarbeam	Killed (Killed)	Simon
+243	243	7	Tobi	Reported Body Of	Simon
+243	243	8	Lazarbeam	Was Voted Out	
+243	243	9	JJ	Killed (Killed)	Ethan
+243	243	10	DannyAarons	Reported Body Of	Ethan
+243	243	11	Tobi	Called Emergency Meeting	
+243	243	12	Josh	Called Emergency Meeting	
+243	243	13	JJ	Killed (Killed)	Tobi
+243	243	14	DannyAarons	Reported Body Of	Tobi
+243	243	15	Josh	Was Voted Out	
+244	244	1	DannyAarons	Time Reversed	
+244	244	2	JJ	Blackmailed	Simon
+244	244	3	Randolph	Infected	DannyAarons
+244	244	4	Harry	Flashed	
+244	244	5	Viz	Veteran Killed (Killed)	Harry
+244	244	6	Simon	Reported Body Of	Harry
+244	244	7	JJ	Blackmailed	Simon
+244	244	8	Randolph	Infected	Ethan
+244	244	9	Randolph	Infected	Viz
+244	244	10	DannyAarons	Time Shielded	
+244	244	11	DannyAarons	Time Reversed	
+244	244	12	Randolph	Infected	Josh
+244	244	13	Randolph	Smite (Killed)	DannyAarons
+244	244	14	Josh	Reported Body Of	DannyAarons
+244	244	15	Lazarbeam	Guess Killed (Killed)	Josh
+244	244	16	Lazarbeam	Guess Killed (Killed)	Ethan
+244	244	17	Simon	Called Emergency Meeting	
+244	244	18	Randolph	Was Voted Out	
+244	244	19	JJ	Blackmailed	Simon
+244	244	20	Lazarbeam	Called Emergency Meeting	
+244	244	21	Lazarbeam	Guess Killed (Killed)	JJ
+245	245	1	DannyAarons	Cursed	Randolph
+245	245	2	JJ	Devoured	Viz
+245	245	3	JJ	Devoured	Randolph
+245	245	4	JJ	Devoured	Tobi
+245	245	5	JJ	Devoured	DannyAarons
+245	245	6	Lazarbeam	Called Emergency Meeting	
+245	245	7	JJ	Pelican Killed (Killed)	Viz
+245	245	8	JJ	Pelican Killed (Killed)	Randolph
+245	245	9	JJ	Pelican Killed (Killed)	Tobi
+245	245	10	JJ	Pelican Killed (Killed)	DannyAarons
+245	245	11	JJ	Devoured	Simon
+245	245	12	JJ	Devoured	Lachlan
+245	245	13	Josh	Called Emergency Meeting	
+245	245	14	JJ	Pelican Killed (Killed)	Simon
+245	245	15	JJ	Pelican Killed (Killed)	Lachlan
+245	245	16	JJ	Devoured	Josh
+245	245	17	JJ	Devoured	Harry
+245	245	18	JJ	Pelican Killed (Killed)	Josh
+245	245	19	JJ	Pelican Killed (Killed)	Harry
+246	246	1	Lazarbeam	Vampire Lights	
+246	246	2	Simon	Rampaged	
+246	246	3	Simon	Killed (Killed)	Lachlan
+246	246	4	Simon	Killed (Killed)	Tobi
+246	246	5	Harry	Reported Body Of	Tobi
+246	246	6	Lazarbeam	Killed (Killed)	JJ
+246	246	7	Simon	Killed (Killed)	Viz
+246	246	8	Simon	Reported Body Of	Viz
+246	246	9	DannyAarons	Was Voted Out	
+247	247	1	Randolph	Astral	
+247	247	2	Randolph	Killed (Killed)	Randolph
+247	247	3	Viz	Killed (Killed)	JJ
+247	247	4	Tobi	Rampaged	
+247	247	5	Tobi	Killed (Killed)	Viz
+247	247	6	DannyAarons	Reported Body Of	Viz
+247	247	7	Tobi	Killed (Killed)	Lachlan
+247	247	8	Josh	Reported Body Of	Lachlan
+247	247	9	DannyAarons	Guess Killed (Killed)	Josh
+247	247	10	Tobi	Was Voted Out	
+248	248	1	Vik	Killed (Killed)	ArthurTV
+248	248	2	Lazarbeam	Killed (Killed)	Deji
+248	248	3	Simon	Reported Body Of	Deji
+248	248	4	Lazarbeam	Was Voted Out	
+248	248	5	Vik	Killed (Killed)	Simon
+248	248	6	Ethan	Reported Body Of	Simon
+248	248	7	Tobi	Killed (Killed)	Vik
+249	249	1	Tobi	Killed (Killed)	Simon
+249	249	2	Harry	Killed (Killed)	ArthurTV
+249	249	3	Tobi	Killed (Killed)	George Clarkey
+249	249	4	Calfreezy	Reported Body Of	George Clarkey
+249	249	5	Tobi	Guess Killed (Killed)	Lazarbeam
+249	249	6	Deji	Was Voted Out	
+250	250	1	Simon	Killed (Killed)	Tobi
+250	250	2	Lazarbeam	Killed (Killed)	Simon
+250	250	3	Lazarbeam	Reported Body Of	Simon
+250	250	4	Calfreezy	Called Emergency Meeting	
+250	250	5	Harry	Killed (Killed)	Calfreezy
+250	250	6	Lazarbeam	Killed (Killed)	Lazarbeam
+250	250	7	Harry	Reported Body Of	Lazarbeam
+250	250	8	ArthurTV	Called Emergency Meeting	
+250	250	9	Ethan	Was Voted Out	
+251	251	1	Harry	Called Emergency Meeting	
+251	251	2	ArthurTV	Guess Killed (Killed)	Vik
+251	251	3	Deji	Called Emergency Meeting	
+251	251	4	Simon	Called Emergency Meeting	
+251	251	5	Simon	Was Voted Out	
+252	252	1	Ethan	Killed (Killed)	Vik
+252	252	2	Simon	Reported Body Of	Vik
+252	252	3	Ethan	Guess Killed (Killed)	Ethan
+252	252	4	Calfreezy	Was Voted Out	
+252	252	5	Tobi	Killed (Killed)	George Clarkey
+252	252	6	Harry	Reported Body Of	George Clarkey
+252	252	7	Simon	Called Emergency Meeting	
+252	252	8	Simon	Was Voted Out	
+253	253	1	Vik	Called Emergency Meeting	
+253	253	2	Deji	Called Emergency Meeting	
+253	253	3	Vik	Killed (Killed)	Calfreezy
+253	253	4	Harry	Reported Body Of	Calfreezy
+253	253	5	Vik	Guess Killed (Killed)	Vik
+253	253	6	Lazarbeam	Was Voted Out	
+253	253	7	Ethan	Killed (Killed)	Ethan
+253	253	8	Simon	Reported Body Of	Ethan
+253	253	9	Simon	Was Voted Out	
+254	254	1	George Clarkey	Killed (Killed)	Lazarbeam
+254	254	2	Calfreezy	Killed (Killed)	ArthurTV
+254	254	3	Harry	Reported Body Of	ArthurTV
+254	254	4	Calfreezy	Killed (Killed)	Simon
+254	254	5	Calfreezy	Reported Body Of	Simon
+254	254	6	Calfreezy	Killed (Killed)	Tobi
+254	254	7	George Clarkey	Killed (Killed)	Ethan
+254	254	8	Harry	Reported Body Of	Tobi
+254	254	9	Deji	Was Voted Out	
+255	255	1	Tobi	Killed (Killed)	ArthurTV
+255	255	2	Tobi	Morphed Into	ArthurTV
+255	255	3	Simon	Reported Body Of	ArthurTV
+255	255	4	George Clarkey	Killed (Killed)	Ethan
+255	255	5	Deji	Called Emergency Meeting	
+255	255	6	Simon	Snitched	
+255	255	7	George Clarkey	Killed (Killed)	Lazarbeam
+255	255	8	Tobi	Was Voted Out	
+255	255	9	Vik	Called Emergency Meeting	
+255	255	10	George Clarkey	Guess Killed (Killed)	George Clarkey
+256	256	1	Vik	Swooped	
+256	256	2	Vik	Killed (Killed)	Simon
+256	256	3	Lazarbeam	Killed (Killed)	Ethan
+256	256	4	Lazarbeam	Morphed Into	Simon
+256	256	5	Tobi	Reported Body Of	Ethan
+256	256	6	Viz	Was Voted Out	
+256	256	7	Vik	Swooped	
+256	256	8	Vik	Killed (Killed)	Deji
+256	256	9	George Clarkey	Reported Body Of	Deji
+256	256	10	Tobi	Called Emergency Meeting	
+256	256	11	Vik	Guess Killed (Killed)	Harry
+256	256	12	Vik	Was Voted Out	
+256	256	13	Lazarbeam	Morphed Into	Tobi
+256	256	14	Lazarbeam	Killed (Killed)	George Clarkey
+256	256	15	ArthurTV	Called Emergency Meeting	
+256	256	16	Lazarbeam	Was Voted Out	
+257	257	1	Tobi	Killed (Killed)	Vik
+257	257	2	George Clarkey	Morphed Into	Harry
+257	257	3	George Clarkey	Reported Body Of	Vik
+257	257	4	George Clarkey	Was Voted Out	
+257	257	5	ArthurTV	Called Emergency Meeting	
+257	257	6	Tobi	Swooped	
+257	257	7	Tobi	Killed (Killed)	Deji
+257	257	8	Simon	Reported Body Of	Deji
+257	257	9	Tobi	Swooped	
+257	257	10	Tobi	Killed (Killed)	Ethan
+257	257	11	ArthurTV	Reported Body Of	Ethan
+257	257	12	Tobi	Killed (Killed)	Lazarbeam
+257	257	13	Tobi	Reported Body Of	Lazarbeam
+257	257	14	Tobi	Was Voted Out	
+258	258	1	ArthurTV	Killed (Killed)	George Clarkey
+258	258	2	Tobi	Killed (Killed)	Deji
+258	258	3	Simon	Reported Body Of	Deji
+258	258	4	ArthurTV	Killed (Killed)	Vik
+258	258	5	Simon	Reported Body Of	Vik
+258	258	6	Ethan	Called Emergency Meeting	
+258	258	7	Tobi	Morphed Into	Harry
+258	258	8	Tobi	Killed (Killed)	Lazarbeam
+258	258	9	Harry	Called Emergency Meeting	
+258	258	10	Harry	Snitched	
+258	258	11	Tobi	Killed (Killed)	Harry
+258	258	12	Ethan	Reported Body Of	Harry
+258	258	13	Tobi	Guess Killed (Killed)	Tobi
+258	258	14	ArthurTV	Killed (Killed)	Viz
+258	258	15	ArthurTV	Swooped	
+258	258	16	Simon	Called Emergency Meeting	
+258	258	17	ArthurTV	Was Voted Out	
+259	259	1	Viz	Swooped	
+259	259	2	Lazarbeam	Morphed Into	ArthurTV
+259	259	3	Lazarbeam	Killed (Killed)	Vik
+259	259	4	Tobi	Reported Body Of	Vik
+259	259	5	Viz	Swooped	
+259	259	6	Viz	Killed (Killed)	ArthurTV
+259	259	7	George Clarkey	Reported Body Of	ArthurTV
+259	259	8	Lazarbeam	Guess Killed (Killed)	Deji
+259	259	9	Viz	Was Voted Out	
+259	259	10	Lazarbeam	Killed (Killed)	Harry
+259	259	11	Lazarbeam	Morphed Into	George Clarkey
+259	259	12	Ethan	Reported Body Of	Harry
+259	259	13	George Clarkey	Guess Killed (Killed)	George Clarkey
+259	259	14	Lazarbeam	Morphed Into	Tobi
+259	259	15	Lazarbeam	Killed (Killed)	Ethan
+259	259	16	Tobi	Reported Body Of	Ethan
+259	259	17	Lazarbeam	Was Voted Out	
+260	260	1	Ethan	Killed (Killed)	Tobi
+260	260	2	Vik	Reported Body Of	Tobi
+260	260	3	Vik	Was Voted Out	
+260	260	4	Ethan	Killed (Killed)	Ciaran
+260	260	5	Simon	Reported Body Of	Ciaran
+260	260	6	Viz	Called Emergency Meeting	
+260	260	7	Josh	Killed (Killed)	Simon
+260	260	8	Ethan	Swooped	
+260	260	9	Ethan	Killed (Killed)	JJ
+260	260	10	Harry	Reported Body Of	JJ
+260	260	11	Ethan	Guess Killed (Killed)	Harry
+261	261	1	Josh	Killed (Killed)	Ethan
+261	261	2	Vik	Reported Body Of	Ethan
+261	261	3	Harry	Swooped	
+261	261	4	Harry	Killed (Killed)	Deji
+261	261	5	Josh	Reported Body Of	Deji
+261	261	6	Simon	Called Emergency Meeting	
+261	261	7	Harry	Guess Killed (Killed)	Harry
+261	261	8	JJ	Called Emergency Meeting	
+261	261	9	Josh	Killed (Killed)	JJ
+261	261	10	Tobi	Reported Body Of	JJ
+261	261	11		Tasks Completed	
+262	262	1	Harry	Swooped	
+262	262	2	Harry	Killed (Killed)	Tobi
+262	262	3	Ethan	Reported Body Of	Tobi
+262	262	4	JJ	Killed (Killed)	Vik
+262	262	5	Ethan	Reported Body Of	Vik
+262	262	6	JJ	Killed (Killed)	Viz
+262	262	7	Ethan	Reported Body Of	Viz
+262	262	8	JJ	Was Voted Out	
+262	262	9	Deji	Called Emergency Meeting	
+262	262	10	Josh	Was Voted Out	
+262	262	11	Harry	Swooped	
+262	262	12	Harry	Swooped	
+262	262	13	Harry	Killed (Killed)	Simon
+262	262	14	Ethan	Reported Body Of	Simon
+262	262	15	Harry	Was Voted Out	
+263	263	1	JJ	Placed Vent	
+263	263	2	Deji	Transported	
+263	263	3	Tobi	Killed (Killed)	Simon
+263	263	4	Deji	Transported	
+263	263	5	Harry	Reported Body Of	Simon
+263	263	6	JJ	Guess Killed (Killed)	JJ
+263	263	7	Deji	Transported	
+263	263	8	Vik	Hacked	Tobi
+263	263	9	Tobi	Killed (Killed)	Harry
+263	263	10	Vik	Reported Body Of	Harry
+263	263	11	Tobi	Killed (Killed)	Deji
+263	263	12	Tobi	Killed (Killed)	Vik
+263	263	13	Tobi	Killed (Killed)	Ciaran
+263	263	14	Viz	Reported Body Of	Ciaran
+263	263	15	Josh	Called Emergency Meeting	
+263	263	16	Tobi	Was Voted Out	
+264	264	1	Deji	Killed (Killed)	Deji
+264	264	2	Simon	Reported Body Of	Deji
+264	264	3	Josh	Flashed	
+264	264	4	Vik	Killed (Killed)	Harry
+264	264	5	JJ	Called Emergency Meeting	
+264	264	6	Josh	Flashed	
+264	264	7	Vik	Killed (Killed)	Tobi
+264	264	8	Josh	Killed (Killed)	JJ
+264	264	9	Simon	Called Emergency Meeting	
+264	264	10	Josh	Killed (Killed)	Viz
+264	264	11	Vik	Killed (Killed)	Ciaran
+265	265	1	Tobi	Doused	JJ
+265	265	2	Ciaran	Medic Shielded	Viz
+265	265	3	Tobi	Doused	Ethan
+265	265	4	Simon	Killed (Killed)	Vik
+265	265	5	Tobi	Doused	JJ
+265	265	6	Josh	Killed (Killed)	Tobi
+265	265	7	Tobi	Reported Body Of	Vik
+265	265	8	Harry	Guess Killed (Killed)	Harry
+265	265	9	Simon	Killed (Killed)	JJ
+265	265	10	Simon	Reported Body Of	JJ
+265	265	11	Viz	Was Voted Out	
+266	266	1	Tobi	Blackmailed	Simon
+266	266	2	Ethan	Rampaged	
+266	266	3	Ethan	Killed (Killed)	Ciaran
+266	266	4	Ethan	Killed (Killed)	Simon
+266	266	5	Vik	Reported Body Of	Simon
+266	266	6	Tobi	Blackmailed	Vik
+266	266	7	Vik	Killed (Killed)	Tobi
+266	266	8	Harry	Killed (Killed)	Josh
+266	266	9	Harry	Reported Body Of	Josh
+266	266	10	Ethan	Guess Killed (Killed)	Ethan
+266	266	11	Harry	Was Voted Out	
+267	267	1	Deji	Killed (Killed)	Ciaran
+267	267	2	Tobi	Revealed	Viz
+267	267	3	Deji	Reported Body Of	Ciaran
+267	267	4	Josh	Planted Bomb	
+267	267	5	Tobi	Revealed	Simon
+267	267	6	Deji	Killed (Killed)	JJ
+267	267	7	Ethan	Mimicked	JJ
+267	267	8	Vik	Transported	
+267	267	9	Vik	Reported Body Of	Simon
+267	267	10	Ethan	Guess Killed (Killed)	Ethan
+267	267	11	Deji	Killed (Killed)	Tobi
+267	267	12	Josh	Killed (Killed)	Harry
+268	268	1	JJ	Flashed	
+268	268	2	Deji	Killed (Killed)	JJ
+268	268	3	Deji	Reported Body Of	JJ
+268	268	4	JJ	Disconnected	
+268	268	5	Josh	Guess Killed (Killed)	Deji
+268	268	6	Ciaran	Revealed	Viz
+268	268	7	Tobi	Killed (Killed)	Viz
+268	268	8	Vik	Reported Body Of	Viz
+268	268	9	Ciaran	Revealed	Vik
+268	268	10	Tobi	Killed (Killed)	Ciaran
+268	268	11	Vik	Reported Body Of	Ciaran
+268	268	12	Ciaran	Disconnected	
+268	268	13	Harry	Killed (Killed)	Josh
+268	268	14	Harry	Reported Body Of	Josh
+268	268	15	Harry	Killed (Killed)	Vik
+268	268	16	Simon	Reported Body Of	Vik
+268	268	17	Harry	Was Voted Out	
+269	269	1	Simon	Killed (Killed)	PieFace
+269	269	2	Lachlan	Killed (Killed)	Josh
+269	269	3	ChrisMD	Reported Body Of	Josh
+269	269	4	Lachlan	Killed (Killed)	Deji
+269	269	5	Simon	Killed (Killed)	Tobi
+269	269	6	Simon	Reported Body Of	Tobi
+269	269	7	Ethan	Was Voted Out	
+269	269	8	JJ	Called Emergency Meeting	
+269	269	9	ChrisMD	Was Voted Out	
+270	270	1	Deji	Called Emergency Meeting	
+270	270	2	Deji	Was Voted Out	
+270	270	3	Ethan	Killed (Killed)	ChrisMD
+270	270	4	Ethan	Killed (Killed)	PieFace
+270	270	5	Lazarbeam	Reported Body Of	ChrisMD
+270	270	6	Simon	Killed (Killed)	Lazarbeam
+270	270	7	Ethan	Killed (Killed)	Lachlan
+270	270	8	Ethan	Reported Body Of	Lachlan
+270	270	9	Ethan	Was Voted Out	
+270	270	10	Josh	Called Emergency Meeting	
+270	270	11	Simon	Called Emergency Meeting	
+270	270	12	Simon	Killed (Killed)	Tobi
+270	270	13	Josh	Reported Body Of	Tobi
+270	270	14	Simon	Killed (Killed)	JJ
+271	271	1	JJ	Called Emergency Meeting	
+271	271	2	Lachlan	Killed (Killed)	Simon
+271	271	3	Lazarbeam	Reported Body Of	Simon
+271	271	4	PieFace	Killed (Killed)	Josh
+271	271	5	Tobi	Reported Body Of	Josh
+271	271	6	Deji	Was Voted Out	
+271	271	7	Lachlan	Killed (Killed)	Lazarbeam
+271	271	8	PieFace	Killed (Killed)	JJ
+271	271	9	Tobi	Reported Body Of	Lazarbeam
+271	271	10	Tobi	Was Voted Out	
+272	272	1	JJ	Called Emergency Meeting	
+272	272	2	JJ	Was Voted Out	
+272	272	3	Deji	Called Emergency Meeting	
+272	272	4	Lazarbeam	Was Voted Out	
+272	272	5	Deji	Killed (Killed)	Ethan
+272	272	6	Simon	Killed (Killed)	PieFace
+272	272	7	Josh	Reported Body Of	Ethan
+272	272	8	Lachlan	Was Voted Out	
+272	272	9	Simon	Killed (Killed)	ChrisMD
+273	273	1	PieFace	Killed (Killed)	Tobi
+273	273	2	JJ	Reported Body Of	Tobi
+273	273	3	Josh	Killed (Killed)	Ethan
+273	273	4	PieFace	Killed (Killed)	Lazarbeam
+273	273	5	Josh	Killed (Killed)	Simon
+273	273	6	JJ	Reported Body Of	Lazarbeam
+273	273	7	JJ	Was Voted Out	
+273	273	8	PieFace	Killed (Killed)	Deji
+274	274	1	Lazarbeam	Killed (Killed)	Simon
+274	274	2	Tobi	Reported Body Of	Simon
+274	274	3	JJ	Was Voted Out	
+274	274	4	Lazarbeam	Killed (Killed)	Ethan
+274	274	5	Josh	Killed (Killed)	PieFace
+274	274	6	Lachlan	Reported Body Of	Ethan
+274	274	7	Deji	Was Voted Out	
+274	274	8	Lachlan	Called Emergency Meeting	
+274	274	9	Josh	Was Voted Out	
+274	274	10	Lazarbeam	Killed (Killed)	Lachlan
+274	274	11	Tobi	Reported Body Of	Lachlan
+274	274	12	Tobi	Was Voted Out	
+275	275	1	Lachlan	Killed (Killed)	Deji
+275	275	2	Ethan	Reported Body Of	Deji
+275	275	3	JJ	Killed (Killed)	PieFace
+275	275	4	Tobi	Reported Body Of	PieFace
+275	275	5	JJ	Killed (Killed)	Josh
+275	275	6	Lazarbeam	Reported Body Of	Josh
+275	275	7	JJ	Killed (Killed)	Simon
+275	275	8	Lachlan	Killed (Killed)	Lazarbeam
+275	275	9	ChrisMD	Reported Body Of	Simon
+275	275	10	JJ	Was Voted Out	
+275	275	11	Lachlan	Killed (Killed)	ChrisMD
+275	275	12	Ethan	Reported Body Of	ChrisMD
+275	275	13	Lachlan	Was Voted Out	
+276	276	1	JJ	Fortified	Josh
+276	276	2	Josh	Jailed	JJ
+276	276	3	DannyAarons	Killed (Killed)	Ethan
+276	276	4	Tobi	Reported Body Of	Ethan
+276	276	5	Josh	Executed (Killed)	JJ
+276	276	6	Vik	Campaigned To	Josh
+276	276	7	JME	Killed (Killed)	Vik
+276	276	8	Josh	Reported Body Of	Vik
+276	276	9	JJ	Disconnected	
+276	276	10	JME	Called Emergency Meeting	
+276	276	11	DannyAarons	Killed (Killed)	Simon
+276	276	12	Viz	Reported Body Of	Simon
+276	276	13	DannyAarons	Was Voted Out	
+276	276	14	Ginge	Called Emergency Meeting	
+276	276	15	JME	Was Voted Out	
+277	277	1	JME	Jailed	Josh
+277	277	2	Tobi	Killed (Killed)	JME
+277	277	3	Ginge	Killed (Killed)	Vik
+277	277	4	Ginge	Reported Body Of	JME
+277	277	5	Ethan	Exiled	Ginge
+277	277	6	Josh	Campaigned To	Tobi
+277	277	7	Josh	Campaigned To	Ethan
+277	277	8	Tobi	Killed (Killed)	Viz
+277	277	9	JJ	Killed By Airlock (Killed)	JJ
+277	277	10	Josh	Called Emergency Meeting	
+277	277	11	Josh	Revealed as Mayor	
+277	277	12	Tobi	Guess Killed (Killed)	Ethan
+277	277	13	Tobi	Was Voted Out	
+278	278	1	Ethan	Jailed	DannyAarons
+278	278	2	Viz	Killed By Airlock (Killed)	Ginge
+278	278	3	Viz	Killed By Airlock (Killed)	Josh
+278	278	4	Ethan	Executed (Killed)	DannyAarons
+278	278	5	Viz	Killed By Airlock (Killed)	Viz
+279	279	1	DannyAarons	Killed By Airlock (Killed)	DannyAarons
+279	279	2	Simon	Campaigned To	JME
+279	279	3	Simon	Campaigned To	Josh
+279	279	4	Tobi	Jailed	Ethan
+279	279	5	Simon	Campaigned To	Tobi
+279	279	6	Simon	Campaigned To	Ethan
+279	279	7	JME	Killed (Killed)	Vik
+279	279	8	Ginge	Killed (Killed)	JJ
+279	279	9	JME	Killed (Killed)	Josh
+279	279	10	Viz	Reported Body Of	Vik
+279	279	11	Simon	Revealed as Mayor	
+279	279	12	Tobi	Executed (Killed)	Ethan
+279	279	13	Tobi	Was Voted Out	
+279	279	14	JME	Called Emergency Meeting	
+279	279	15	Ginge	Killed (Killed)	JME
+279	279	16	Ginge	Killed (Killed)	Viz
+280	280	1	DannyAarons	Hypnotised	Josh
+280	280	2	Deji	Killed (Killed)	JJ
+280	280	3	Deji	Killed (Killed)	Tobi
+280	280	4	Ethan	Reported Body Of	JJ
+280	280	5	Deji	Was Voted Out	
+280	280	6	DannyAarons	Hypnotised	Simon
+280	280	7	DannyAarons	Killed (Killed)	Vik
+280	280	8	DannyAarons	Reported Body Of	Vik
+280	280	9	Ginge	Called Emergency Meeting	
+280	280	10	DannyAarons	Was Voted Out	
+281	281	1	Deji	Hypnotised	JJ
+281	281	2	Deji	Killed (Killed)	JME
+281	281	3	Simon	Reported Body Of	JME
+281	281	4	Ginge	Killed (Killed)	DannyAarons
+281	281	5	JJ	Revived	DannyAarons
+281	281	6	Deji	Killed (Killed)	Simon
+281	281	7	Vik	Reported Body Of	Simon
+281	281	8	Tobi	Executed (Killed)	Ginge
+281	281	9	DannyAarons	Called Emergency Meeting	
+281	281	10	Deji	Was Voted Out	
+282	282	1	JJ	Called Emergency Meeting	
+282	282	2	Tobi	Killed (Killed)	Vik
+282	282	3	Ginge	Killed (Killed)	DannyAarons
+282	282	4	Ethan	Killed (Killed)	JJ
+282	282	5	Josh	Reported Body Of	Vik
+282	282	6	Josh	Called Emergency Meeting	
+282	282	7	Tobi	Guess Killed (Killed)	JME
+282	282	8	Simon	Executed (Killed)	Tobi
+282	282	9	Ethan	Killed (Killed)	Simon
+282	282	10	Ethan	Killed (Killed)	Deji
+282	282	11	Viz	Reported Body Of	Deji
+282	282	12	Ginge	Was Voted Out	
+282	282	13	Ethan	Killed (Killed)	Viz
+283	283	1	Ginge	Called Emergency Meeting	
+283	283	2	JJ	Executed (Killed)	Ethan
+283	283	3	Deji	Killed (Killed)	JJ
+283	283	4	Simon	Reported Body Of	JJ
+283	283	5	Josh	Guess Killed (Killed)	Josh
+283	283	6	Deji	Was Voted Out	
+283	283	7	JME	Called Emergency Meeting	
+283	283	8	DannyAarons	Killed (Killed)	Ginge
+283	283	9	Tobi	Reported Body Of	Ginge
+283	283	10	Tobi	Was Voted Out	
+283	283	11	Vik	Called Emergency Meeting	
+283	283	12	DannyAarons	Was Voted Out	
+284	284	1	JJ	Killed (Killed)	Deji
+284	284	2	Viz	Reported Body Of	Deji
+284	284	3	JME	Guess Killed (Killed)	JME
+284	284	4	Ginge	Killed (Killed)	DannyAarons
+284	284	5	Ethan	Executed (Killed)	JJ
+284	284	6	Ginge	Killed (Killed)	Tobi
+284	284	7	Ethan	Called Emergency Meeting	
+284	284	8	Ginge	Was Voted Out	
+285	285	1	Lachlan	Doused	Deji
+285	285	2	Lachlan	Ignited (Killed)	Deji
+285	285	3	JJ	Reported Body Of	Deji
+285	285	4	Randolph	Swapped Votes	
+285	285	5	Harry	Was Voted Out	
+285	285	6	Lachlan	Doused	Simon
+285	285	7	Lachlan	Ignited (Killed)	Simon
+285	285	8	Lazarbeam	Reported Body Of	Simon
+285	285	9	Lazarbeam	Was Voted Out	
+285	285	10	Vik	Killed (Killed)	Randolph
+285	285	11	Vik	Reported Body Of	Randolph
+285	285	12	Tobi	Lightning Striked (Killed)	Vik
+285	285	13	Tobi	Lightning Striked (Killed)	JJ
+285	285	14	Tobi	Lightning Striked (Killed)	Lachlan
+286	286	1	JJ	Veteran Killed (Killed)	Deji
+286	286	2	Randolph	Reported Body Of	Deji
+286	286	3	Lachlan	Swapped Votes	
+286	286	4	Simon	Was Voted Out	
+286	286	5	Harry	Doused	Lachlan
+286	286	6	Harry	Doused	Tobi
+286	286	7	PieFace	Killed (Killed)	Vik
+286	286	8	Tobi	Reported Body Of	Vik
+286	286	9	Lazarbeam	Lightning Striked (Killed)	JJ
+286	286	10	Lachlan	Reported Body Of	JJ
+286	286	11	Randolph	Was Voted Out	
+286	286	12	PieFace	Killed (Killed)	Lachlan
+286	286	13	Harry	Doused	Lazarbeam
+286	286	14	Harry	Reported Body Of	Lachlan
+286	286	15	Harry	Ignited (Killed)	Lazarbeam
+286	286	16	Harry	Ignited (Killed)	Tobi
+286	286	17	PieFace	Killed (Killed)	Harry
+287	287	1	Lazarbeam	Medic Shielded	Harry
+287	287	2	JJ	Doused	Deji
+287	287	3	Simon	Lightning Striked (Killed)	PieFace
+287	287	4	Lachlan	Reported Body Of	PieFace
+287	287	5	JJ	Guess Killed (Killed)	Vik
+287	287	6	JJ	Ignited (Killed)	Deji
+287	287	7	Tobi	Reported Body Of	Deji
+287	287	8	JJ	Was Voted Out	
+287	287	9	Simon	Lightning Striked (Killed)	Lazarbeam
+287	287	10	Simon	Lightning Striked (Killed)	Lachlan
+288	288	1	Harry	Medic Shielded	Lazarbeam
+288	288	2	PieFace	Lightning Striked (Killed)	PieFace
+288	288	3	Lachlan	Reported Body Of	PieFace
+288	288	4	Tobi	Killed (Killed)	Deji
+288	288	5	Tobi	Reported Body Of	Deji
+288	288	6	Simon	Called Emergency Meeting	
+288	288	7	Tobi	Killed (Killed)	Randolph
+288	288	8	Tobi	Reported Body Of	Randolph
+288	288	9	Lachlan	Killed (Killed)	Tobi
+288	288	10	JJ	Reported Body Of	Tobi
+288	288	11	Lachlan	Was Voted Out	
+289	289	1	Deji	Ate	Tobi
+289	289	2	JJ	Morphed Into	Deji
+289	289	3	JJ	Killed (Killed)	DannyAarons
+289	289	4	Ethan	Killed (Killed)	Lazarbeam
+289	289	5	Calfreezy	Reported Body Of	Lazarbeam
+289	289	6	Deji	Cannibal Killed (Killed)	Tobi
+289	289	7	Vik	Called Emergency Meeting	
+289	289	8	JJ	Morphed Into	Deji
+289	289	9	JJ	Killed (Killed)	Callux
+289	289	10	Ethan	Killed (Killed)	Vik
+289	289	11	Ethan	Reported Body Of	Callux
+289	289	12	Ethan	Was Voted Out	
+289	289	13	JJ	Killed (Killed)	Calfreezy
+289	289	14		Crisis	
+290	290	1	JJ	Transported	
+290	290	2	Tobi	Stole Role Of	DannyAarons
+290	290	3	Lachlan	Killed (Killed)	Callux
+290	290	4	Lachlan	Swooped	
+290	290	5	Ethan	Reported Body Of	Callux
+290	290	6	Deji	Was Voted Out	
+290	290	7	Tobi	Stole Role Of	Ethan
+290	290	8	Tobi	Stole Role Of	Vik
+290	290	9	JJ	Transported	
+290	290	10	JJ	Transported	
+290	290	11	Tobi	Stole Role Of	JJ
+290	290	12	Vik	Santa Present Killed (Killed)	Ethan
+290	290	13	Vik	Santa Present Killed (Killed)	Lachlan
+290	290	14	Vik	Santa Present Killed (Killed)	Vik
+291	291	1	Tobi	Transported	
+291	291	2	Deji	Killed (Killed)	DannyAarons
+291	291	3	Lazarbeam	Protected	Lachlan
+291	291	4	Lachlan	Reported Body Of	DannyAarons
+291	291	5	Deji	Was Voted Out	
+291	291	6	Tobi	Transported	
+291	291	7	Calfreezy	Killed (Killed)	Tobi
+291	291	8	Lachlan	Killed (Killed)	Lachlan
+291	291	9	Ethan	Reported Body Of	Lachlan
+291	291	10	Lazarbeam	Was Voted Out	
+291	291	11	Vik	Called Emergency Meeting	
+291	291	12	JJ	Was Voted Out	
+291	291	13	Ethan	Called Emergency Meeting	
+291	291	14	Calfreezy	Killed (Killed)	Vik
+291	291	15	Calfreezy	Reported Body Of	Vik
+291	291	16	Calfreezy	Was Voted Out	
+292	292	1	Callux	Protected	Calfreezy
+292	292	2	Vik	Killed (Killed)	Ethan
+292	292	3	DannyAarons	Stole Role Of	Lazarbeam
+292	292	4	Deji	Swooped	
+292	292	5	Deji	Killed (Killed)	JJ
+292	292	6	DannyAarons	Reported Body Of	JJ
+292	292	7	DannyAarons	Stole Role Of	Calfreezy
+292	292	8	Callux	Protected	Calfreezy
+292	292	9	Tobi	Killed (Killed)	Deji
+292	292	10	Tobi	Reported Body Of	Deji
+292	292	11	DannyAarons	Stole Role Of	Vik
+292	292	12	Calfreezy	Called Emergency Meeting	
+292	292	13	DannyAarons	Was Voted Out	
+292	292	14	Tobi	Killed (Killed)	Tobi
+292	292	15	Calfreezy	Reported Body Of	Tobi
+292	292	16	Vik	Was Voted Out	
+293	293	1	Ethan	Morphed Into	Deji
+293	293	2	Ethan	Killed (Killed)	JJ
+293	293	3	Vik	Cleaned	JJ
+293	293	4	DannyAarons	Stole Role Of	Tobi
+293	293	5	Deji	Called Emergency Meeting	
+293	293	6	Ethan	Morphed Into	Deji
+293	293	7	Ethan	Killed (Killed)	Tobi
+293	293	8	Vik	Cleaned	Tobi
+293	293	9	DannyAarons	Stole Role Of	Vik
+293	293	10	Ethan	Morphed Into	Deji
+293	293	11	Ethan	Killed (Killed)	Lazarbeam
+293	293	12	Vik	Killed (Killed)	DannyAarons
+293	293	13	Ethan	Morphed Into	Deji
+293	293	14	Ethan	Killed (Killed)	Calfreezy
+293	293	15	Vik	Cleaned	Calfreezy
+293	293	16	Lachlan	Called Emergency Meeting	
+293	293	17	Callux	Was Voted Out	
+293	293	18	Calfreezy	Came Back Alive	
+293	293	19	Calfreezy	Called Emergency Meeting	
+293	293	20	Ethan	Guess Killed (Killed)	Ethan
+293	293	21	Vik	Was Voted Out	
+294	294	1	DannyAarons	Transported	
+294	294	2	JJ	Killed (Killed)	Ethan
+294	294	3	Lazarbeam	Reported Body Of	Ethan
+294	294	4	JJ	Was Voted Out	
+294	294	5	DannyAarons	Transported	
+294	294	6	Lazarbeam	Killed By Airlock (Killed)	
+294	294	7	DannyAarons	Transported	
+294	294	8	Deji	Hypnotised	Callux
+294	294	9	DannyAarons	Transported	
+294	294	10	Calfreezy	Called Emergency Meeting	
+294	294	11	Deji	Mass Hysteria	
+294	294	12	Calfreezy	Killed (Killed)	Calfreezy
+294	294	13	DannyAarons	Reported Body Of	Calfreezy
+294	294	14	DannyAarons	Was Voted Out	
+294	294	15	Callux	Called Emergency Meeting	
+294	294	16	Deji	Killed (Killed)	Callux
+294	294	17	Vik	Reported Body Of	Callux
+294	294	18	Vik	Was Voted Out	
+295	295	1	Deji	Called Emergency Meeting	
+295	295	2	Deji	Was Voted Out	
+295	295	3	Ethan	Killed (Killed)	Callux
+295	295	4	Lazarbeam	Killed (Killed)	JJ
+295	295	5	Lazarbeam	Reported Body Of	JJ
+295	295	6	Ethan	Killed (Killed)	Lachlan
+295	295	7	Lazarbeam	Reported Body Of	Lachlan
+295	295	8	Ethan	Guess Killed (Killed)	Lazarbeam
+295	295	9	Ethan	Was Voted Out	
+296	296	1	Deji	Killed (Killed)	JJ
+296	296	2	Ethan	Reported Body Of	JJ
+296	296	3	Deji	Killed (Killed)	Lazarbeam
+296	296	4	DannyAarons	Killed (Killed)	DannyAarons
+296	296	5	Finn	Transported	
+296	296	6	Ethan	Reported Body Of	DannyAarons
+296	296	7	Deji	Guess Killed (Killed)	Ethan
+296	296	8	Deji	Was Voted Out	
+296	296	9	Lachlan	Hypnotised	Finn
+296	296	10	Lachlan	Killed (Killed)	Tobi
+296	296	11	Lachlan	Reported Body Of	Tobi
+296	296	12	Lachlan	Killed (Killed)	Vik
+296	296	13	Finn	Transported	
+296	296	14	Finn	Reported Body Of	Vik
+296	296	15	Callux	Was Voted Out	
+297	297	1	Callux	Killed (Killed)	Callux
+297	297	2	DannyAarons	Reported Body Of	Callux
+297	297	3	Ethan	Santa Present Killed (Killed)	DannyAarons
+297	297	4	Ethan	Santa Present Killed (Killed)	Finn
+297	297	5	JJ	Reported Body Of	DannyAarons
+297	297	6	Tobi	Transported	
+297	297	7	Ethan	Killed (Killed)	JJ
+297	297	8	Tobi	Transported	
+297	297	9	Ethan	Killed (Killed)	Lazarbeam
+297	297	10	Ethan	Killed (Killed)	Lachlan
+298	298	1	Lazarbeam	Controlled	Lachlan
+298	298	2	JJ	Medic Shielded	Deji
+298	298	3	Deji	Called Emergency Meeting	
+298	298	4	Lazarbeam	Controlled	Lachlan
+298	298	5	Lazarbeam	Control Killed (Killed)	JJ
+298	298	6	Simon	Reported Body Of	JJ
+298	298	7	Tobi	Killed (Killed)	Randolph
+298	298	8	Lazarbeam	Reported Body Of	Randolph
+298	298	9	Lazarbeam	Controlled	Simon
+298	298	10	Lazarbeam	Control Killed (Killed)	Deji
+298	298	11	Simon	Reported Body Of	Deji
+298	298	12	Tobi	Killed (Killed)	Vik
+298	298	13	Lachlan	Reported Body Of	Vik
+298	298	14	Simon	Swapped Votes	
+298	298	15	Lazarbeam	Was Voted Out	
+298	298	16	Harry	Called Emergency Meeting	
+298	298	17	Simon	Swapped Votes	
+298	298	18	Tobi	Was Voted Out	
+299	299	1	Simon	Medic Shielded	Deji
+299	299	2	Tobi	Controlled	Simon
+299	299	3	Tobi	Control Killed (Killed)	Lazarbeam
+299	299	4	Vik	Reported Body Of	Lazarbeam
+299	299	5	Tobi	Controlled	Simon
+299	299	6	Tobi	Control Killed (Killed)	Vik
+299	299	7	Simon	Reported Body Of	Vik
+299	299	8	Tobi	Controlled	Deji
+299	299	9	Tobi	Control Killed (Killed)	Randolph
+299	299	10	Deji	Reported Body Of	Randolph
+299	299	11	PieFace	Killed (Killed)	Lachlan
+299	299	12	Tobi	Controlled	Deji
+299	299	13	Tobi	Control Killed (Killed)	Harry
+299	299	14	Deji	Reported Body Of	Harry
+299	299	15	Tobi	Killed (Killed)	Simon
+300	300	1	Harry	Killed (Killed)	Lazarbeam
+300	300	2	PieFace	Controlled	JJ
+300	300	3	Deji	Called Emergency Meeting	
+300	300	4	Randolph	Swapped Votes	
+300	300	5	PieFace	Controlled	JJ
+300	300	6	PieFace	Control Killed (Killed)	Deji
+300	300	7	PieFace	Control Killed (Killed)	Simon
+300	300	8	Randolph	Reported Body Of	Simon
+300	300	9	Randolph	Swapped Votes	
+300	300	10	PieFace	Controlled	Randolph
+300	300	11	PieFace	Killed (Killed)	Vik
+300	300	12	Lachlan	Reported Body Of	Vik
+300	300	13	PieFace	Was Voted Out	
+300	300	14	Harry	Killed (Killed)	Tobi
+300	300	15	Randolph	Called Emergency Meeting	
+300	300	16	Randolph	Swapped Votes	
+300	300	17	JJ	Was Voted Out	
+300	300	18	Harry	Killed (Killed)	Randolph
+301	301	1	Deji	Killed (Killed)	JJ
+301	301	2	Randolph	Reported Body Of	JJ
+301	301	3	Deji	Guess Killed (Killed)	Deji
+301	301	4	Lazarbeam	Called Emergency Meeting	
+301	301	5	PieFace	Killed (Killed)	Randolph
+301	301	6	Lazarbeam	Reported Body Of	Randolph
+301	301	7	Harry	Was Voted Out	
+301	301	8	PieFace	Killed (Killed)	Vik
+301	301	9	Lazarbeam	Reported Body Of	Vik
+301	301	10	PieFace	Was Voted Out	
+302	302	1	Lazarbeam	Medic Shielded	Vik
+302	302	2	Randolph	Controlled	JJ
+302	302	3	Randolph	Control Killed (Killed)	Harry
+302	302	4	Randolph	Killed (Killed)	Tobi
+302	302	5	PieFace	Reported Body Of	Harry
+302	302	6	Randolph	Controlled	Deji
+302	302	7	Vik	Killed (Killed)	Simon
+302	302	8	Randolph	Control Killed (Killed)	JJ
+302	302	9	Lazarbeam	Reported Body Of	JJ
+302	302	10	Lachlan	Was Voted Out	
+302	302	11	Randolph	Killed (Killed)	Lazarbeam
+303	303	1	JJ	Killed (Killed)	JJ
+303	303	2	Lachlan	Killed (Killed)	Deji
+303	303	3	Josh	Killed (Killed)	Simon
+303	303	4	Vik	Reported Body Of	Deji
+303	303	5	Vik	Called Emergency Meeting	
+303	303	6	Lachlan	Guess Killed (Killed)	Lazarbeam
+303	303	7	Vik	Medic Shielded	Ethan
+303	303	8	Lachlan	Killed (Killed)	Harry
+303	303	9	Josh	Killed (Killed)	Tobi
+304	304	1	Deji	Called Emergency Meeting	
+304	304	2	Harry	Swooped	
+304	304	3	Harry	Killed (Killed)	Lazarbeam
+304	304	4	Ethan	Reported Body Of	Lazarbeam
+304	304	5	Deji	Was Voted Out	
+305	305	1	Lazarbeam	Morphed Into	Deji
+305	305	2	Lazarbeam	Killed (Killed)	Ethan
+305	305	3	Josh	Killed (Killed)	Harry
+305	305	4	Josh	Swooped	
+305	305	5	Lachlan	Reported Body Of	Harry
+305	305	6	Vik	Medic Shielded	Deji
+305	305	7	Lachlan	Killed (Killed)	Lachlan
+305	305	8	Vik	Reported Body Of	Lachlan
+305	305	9	Deji	Called Emergency Meeting	
+305	305	10	Lazarbeam	Morphed Into	Deji
+305	305	11	Lazarbeam	Morphed Into	Deji
+305	305	12	Lazarbeam	Killed (Killed)	Simon
+305	305	13	Tobi	Called Emergency Meeting	
+305	305	14	Tobi	Was Voted Out	
+305	305	15	Josh	Killed (Killed)	Vik
+306	306	1	Lazarbeam	Medic Shielded	Simon
+306	306	2	Vik	Killed (Killed)	Tobi
+306	306	3	Ethan	Doused	Josh
+306	306	4	Ethan	Doused	Lazarbeam
+306	306	5	Ethan	Doused	JJ
+306	306	6	JJ	Planted Bomb	
+306	306	7	Josh	Reported Body Of	Tobi
+306	306	8	Ethan	Ignited (Killed)	Lazarbeam
+306	306	9	Ethan	Ignited (Killed)	Josh
+306	306	10	Ethan	Ignited (Killed)	JJ
+306	306	11	Harry	Reported Body Of	Lazarbeam
+306	306	12	Lachlan	Swapped Votes	
+306	306	13	Vik	Was Voted Out	
+306	306	14	Simon	Called Emergency Meeting	
+306	306	15	Harry	Killed (Killed)	Harry
+306	306	16	Simon	Reported Body Of	Harry
+306	306	17	Ethan	Guess Killed (Killed)	Simon
+306	306	18	Deji	Was Voted Out	
+307	307	1	Ethan	Planted Bomb	
+307	307	2	Tobi	Hacked	Deji
+307	307	3	JJ	Called Emergency Meeting	
+307	307	4	Tobi	Killed (Killed)	Lachlan
+307	307	5	Ethan	Planted Bomb	
+307	307	6	JJ	Killed (Killed)	Ethan
+307	307	7	Vik	Reported Body Of	Ethan
+307	307	8	JJ	Disconnected	
+307	307	9	Tobi	Disconnected	
+307	307	10	Ethan	Disconnected	
+307	307	11	Deji	Was Voted Out	
+308	308	1	Josh	Doused	Harry
+308	308	2	Josh	Doused	Simon
+308	308	3	Ethan	Swooped	
+308	308	4	Ethan	Killed (Killed)	Tobi
+308	308	5	Vik	Reported Body Of	Tobi
+308	308	6	Ethan	Swooped	
+308	308	7	Vik	Reported Body Of	Ethan
+308	308	8	Josh	Doused	Vik
+308	308	9	Vik	Killed (Killed)	Simon
+308	308	10	Ethan	Killed (Killed)	Harry
+308	308	11	Lazarbeam	Reported Body Of	Harry
+308	308	12	Ethan	Was Voted Out	
+308	308	13	Lazarbeam	Called Emergency Meeting	
+308	308	14	Vik	Guess Killed (Killed)	Vik
+308	308	15	Josh	Doused	Deji
+308	308	16	JJ	Called Emergency Meeting	
+308	308	17	JJ	Was Voted Out	
+308	308	18	Josh	Doused	Lachlan
+308	308	19	Lachlan	Called Emergency Meeting	
+308	308	20	Josh	Ignited (Killed)	Deji
+308	308	21	Josh	Ignited (Killed)	Lachlan
+309	309	1	Harry	Mimicked	Deji
+309	309	2	Harry	Killed (Killed)	Ethan
+309	309	3	Harry	Reported Body Of	Ethan
+309	309	4	Vik	Medic Shielded	Deji
+309	309	5	Harry	Mimicked	Tobi
+309	309	6	Vik	Called Emergency Meeting	
+309	309	7	Harry	Mimicked	Lazarbeam
+309	309	8	Harry	Killed (Killed)	Lachlan
+309	309	9	Harry	Reported Body Of	Lachlan
+309	309	10	Harry	Guess Killed (Killed)	Harry
+309	309	11	Tobi	Killed (Killed)	Vik
+309	309	12	Tobi	Recalled	
+309	309	13	Deji	Called Emergency Meeting	
+309	309	14	Josh	Guess Killed (Killed)	Deji
+309	309	15	Josh	Was Voted Out	
+309	309	16	Lazarbeam	Called Emergency Meeting	
+309	309	17	JJ	Was Voted Out	
+310	310	1	Lachlan	Killed (Killed)	Simon
+310	310	2	Ethan	Killed (Killed)	Harry
+310	310	3	Lazarbeam	Transported	
+310	310	4	Vik	Reported Body Of	Simon
+310	310	5	Josh	Swapped Votes	
+310	310	6	Deji	Was Voted Out	
+310	310	7	Lazarbeam	Transported	
+310	310	8	Lachlan	Killed (Killed)	Ethan
+311	311	1	Vik	Killed (Killed)	Tobi
+311	311	2	Harry	Planted Bomb	
+311	311	3	Harry	Bombed (Killed)	Harry
+311	311	4	Lachlan	Morphed Into	Lazarbeam
+311	311	5	Lachlan	Killed (Killed)	Ethan
+311	311	6	Simon	Reported Body Of	Harry
+311	311	7	Deji	Called Emergency Meeting	
+311	311	8	Lachlan	Was Voted Out	
+311	311	9	JJ	Called Emergency Meeting	
+311	311	10	Vik	Guess Killed (Killed)	Vik
+312	312	1	Deji	Mimicked	JJ
+312	312	2	JJ	Controlled	Harry
+312	312	3	Deji	Killed (Killed)	JJ
+312	312	4	Vik	Reported Body Of	JJ
+312	312	5	Lachlan	Killed (Killed)	Simon
+312	312	6	Lachlan	Recalled	
+312	312	7	Deji	Mimicked	Simon
+312	312	8	Josh	Reported Body Of	Simon
+312	312	9	Tobi	Called Emergency Meeting	
+312	312	10	Deji	Mimicked	Josh
+312	312	11	Deji	Killed (Killed)	Vik
+312	312	12	Ethan	Swapped Votes	
+312	312	13	Deji	Was Voted Out	
+312	312	14	Lachlan	Killed (Killed)	Josh
+312	312	15	Lachlan	Recalled	
+312	312	16	Ethan	Reported Body Of	Josh
+312	312	17	Lachlan	Guess Killed (Killed)	Lachlan
+313	313	1	Deji	Killed (Killed)	JJ
+313	313	2	Deji	Reported Body Of	JJ
+313	313	3	Lachlan	Lightning Striked (Killed)	Vik
+313	313	4	Lachlan	Lightning Striked (Killed)	Simon
+313	313	5	Lazarbeam	Reported Body Of	Vik
+313	313	6	Deji	Rampaged	
+313	313	7	Deji	Killed (Killed)	Harry
+313	313	8	Deji	Killed (Killed)	Lachlan
+313	313	9	Lazarbeam	Called Emergency Meeting	
+313	313	10	Deji	Rampaged	
+313	313	11	Deji	Killed (Killed)	Josh
+313	313	12	Deji	Killed (Killed)	Tobi
+313	313	13	Deji	Killed (Killed)	Lazarbeam
+314	314	1	Simon	Morphed Into	Josh
+314	314	2	Harry	Mimicked	Josh
+314	314	3	Simon	Killed (Killed)	Harry
+314	314	4	Lachlan	Killed (Killed)	Vik
+314	314	5	Lachlan	Reported Body Of	Vik
+314	314	6	Simon	Morphed Into	Ethan
+314	314	7	Simon	Killed (Killed)	Lazarbeam
+314	314	8	Lachlan	Killed (Killed)	Deji
+314	314	9	JJ	Reported Body Of	Lazarbeam
+314	314	10	Josh	Was Voted Out	
+315	315	1	Vik	Killed (Killed)	Ethan
+315	315	2	Simon	Killed (Killed)	Randolph
+315	315	3	Vik	Planted Bomb	
+315	315	4	Simon	Reported Body Of	Randolph
+315	315	5	Vik	Was Voted Out	
+315	315	6	ArthurTV	Killed (Killed)	Viz
+315	315	7	Harry	Reported Body Of	Viz
+315	315	8	ArthurTV	Was Voted Out	
+315	315	9	Josh	Called Emergency Meeting	
+315	315	10	Simon	Killed (Killed)	Deji
+315	315	11	Simon	Reported Body Of	Deji
+315	315	12	Tobi	Was Voted Out	
+315	315	13	Simon	Killed (Killed)	Josh
+316	316	1	Viz	Killed By Airlock (Killed)	Tobi
+316	316	2	Ethan	Killed (Killed)	Randolph
+316	316	3	ArthurTV	Reported Body Of	Randolph
+316	316	4	Ethan	Guess Killed (Killed)	Ethan
+316	316	5	Viz	Killed (Killed)	Vik
+316	316	6	Simon	Reported Body Of	Vik
+316	316	7	Simon	Was Voted Out	
+316	316	8	Josh	Called Emergency Meeting	
+316	316	9	Viz	Was Voted Out	
+317	317	1	Vik	Killed (Killed)	Viz
+317	317	2	Simon	Killed (Killed)	Randolph
+317	317	3	Harry	Reported Body Of	Randolph
+317	317	4	Simon	Killed (Killed)	Tobi
+317	317	5	Vik	Killed By Airlock (Killed)	Deji
+317	317	6	Simon	Planted Bomb	
+317	317	7	Vik	Killed (Killed)	Simon
+317	317	8	Vik	Reported Body Of	Simon
+317	317	9	Josh	Was Voted Out	
+318	318	1	Deji	Killed (Killed)	Randolph
+318	318	2	Ethan	Killed (Killed)	Harry
+318	318	3	Simon	Reported Body Of	Harry
+318	318	4	Deji	Killed (Killed)	Simon
+318	318	5	Ethan	Killed (Killed)	Deji
+318	318	6	ArthurTV	Killed (Killed)	Josh
+318	318	7	Tobi	Reported Body Of	Josh
+318	318	8	Ethan	Killed (Killed)	Vik
+319	319	1	Deji	Killed (Killed)	Randolph
+319	319	2	Harry	Reported Body Of	Randolph
+319	319	3	Tobi	Killed (Killed)	ArthurTV
+319	319	4	Deji	Killed (Killed)	Viz
+319	319	5	Vik	Reported Body Of	Viz
+319	319	6	Deji	Killed (Killed)	Harry
+319	319	7	Tobi	Reported Body Of	Harry
+319	319	8	Deji	Was Voted Out	
+319	319	9	Tobi	Killed (Killed)	Vik
+319	319	10	Simon	Reported Body Of	Vik
+319	319	11	Tobi	Killed By Airlock (Killed)	Ethan
+319	319	12	Tobi	Killed (Killed)	Josh
+320	320	1	Randolph	Killed (Killed)	Harry
+320	320	2	Tobi	Killed (Killed)	Viz
+320	320	3	Simon	Reported Body Of	Viz
+320	320	4	Tobi	Killed (Killed)	Simon
+320	320	5	ArthurTV	Reported Body Of	Simon
+320	320	6	Vik	Ate	Josh
+320	320	7	Vik	Ate	Randolph
+320	320	8	Vik	Ate	Ethan
+320	320	9		Crisis	
+321	321	1	Deji	Killed (Killed)	Viz
+321	321	2	Tobi	Ate	Ethan
+321	321	3	Tobi	Cannibal Killed (Killed)	Ethan
+321	321	4	Tobi	Reported Body Of	Viz
+321	321	5	Deji	Guess Killed (Killed)	Deji
+321	321	6	Tobi	Ate	Harry
+321	321	7	Tobi	Cannibal Killed (Killed)	Harry
+321	321	8	Josh	Called Emergency Meeting	
+321	321	9	Tobi	Ate	Vik
+321	321	10	Tobi	Ate	Randolph
+321	321	11	Tobi	Ate	ArthurTV
+321	321	12	Tobi	Cannibal Killed (Killed)	Vik
+321	321	13	Tobi	Cannibal Killed (Killed)	Randolph
+321	321	14	Tobi	Cannibal Killed (Killed)	ArthurTV
+321	321	15	Simon	Called Emergency Meeting	
+321	321	16	Tobi	Ate	Josh
+322	322	1	Deji	Killed (Killed)	Vik
+322	322	2	Harry	Ate	Deji
+322	322	3	Harry	Cannibal Killed (Killed)	Deji
+322	322	4	Josh	Called Emergency Meeting	
+322	322	5	Simon	Was Voted Out	
+322	322	6	Randolph	Killed (Killed)	Josh
+322	322	7	Randolph	Reported Body Of	Josh
+322	322	8	Randolph	Was Voted Out	
+322	322	9	Harry	Ate	Ethan
+322	322	10	Harry	Cannibal Killed (Killed)	Ethan
+322	322	11	Tobi	Called Emergency Meeting	
+322	322	12	Tobi	Was Voted Out	
+322	322	13	Viz	Called Emergency Meeting	
+322	322	14	Viz	Was Voted Out	
+323	323	1	Josh	Killed (Killed)	Randolph
+323	323	2	ArthurTV	Reported Body Of	Randolph
+323	323	3	Simon	Ate	Deji
+323	323	4	Simon	Cannibal Killed (Killed)	Deji
+323	323	5	Harry	Called Emergency Meeting	
+323	323	6	Simon	Ate	Vik
+323	323	7	Simon	Ate	ArthurTV
+323	323	8	Ethan	Killed (Killed)	Harry
+323	323	9	Josh	Killed (Killed)	Simon
+323	323	10	Vik	Reported Body Of	Simon
+323	323	11	Ethan	Was Voted Out	
+323	323	12	Vik	Called Emergency Meeting	
+323	323	13	Tobi	Called Emergency Meeting	
+323	323	14	Josh	Was Voted Out	
+324	324	1	Deji	Killed (Killed)	Viz
+324	324	2	Viz	Ate	Deji
+324	324	3	Viz	Cannibal Killed (Killed)	Deji
+324	324	4	Vik	Reported Body Of	Viz
+324	324	5	Vik	Was Voted Out	
+324	324	6	Tobi	Killed By Airlock (Killed)	Harry
+324	324	7	Simon	Called Emergency Meeting	
+324	324	8	Tobi	Was Voted Out	
+325	325	1	Josh	Killed (Killed)	Vik
+325	325	2	Tobi	Reported Body Of	Vik
+325	325	3	Josh	Killed (Killed)	Deji
+325	325	4	Viz	Killed (Killed)	MaxFosh
+325	325	5	Simon	Reported Body Of	MaxFosh
+325	325	6	Josh	Was Voted Out	
+325	325	7	Viz	Killed (Killed)	Simon
+325	325	8	DannyAarons	Reported Body Of	Simon
+325	325	9	Viz	Was Voted Out	
+326	326	1	DannyAarons	Killed (Killed)	Vik
+326	326	2	MaxFosh	Killed (Killed)	Ethan
+326	326	3	MaxFosh	Reported Body Of	Ethan
+326	326	4	MaxFosh	Was Voted Out	
+326	326	5	DannyAarons	Killed (Killed)	Callux
+326	326	6	Simon	Reported Body Of	Callux
+326	326	7	Tobi	Was Voted Out	
+326	326	8	Josh	Called Emergency Meeting	
+326	326	9	DannyAarons	Was Voted Out	
+327	327	1	Callux	Killed (Killed)	Tobi
+327	327	2	DannyAarons	Killed (Killed)	Vik
+327	327	3	Simon	Reported Body Of	Vik
+327	327	4	DannyAarons	Was Voted Out	
+327	327	5	Callux	Killed (Killed)	Viz
+327	327	6	Simon	Reported Body Of	Viz
+327	327	7	Callux	Was Voted Out	
+328	328	1	MaxFosh	Killed (Killed)	Tobi
+328	328	2	Simon	Reported Body Of	Tobi
+328	328	3	Viz	Killed (Killed)	DannyAarons
+328	328	4	Viz	Killed (Killed)	Simon
+328	328	5	MaxFosh	Killed (Killed)	Callux
+328	328	6	Vik	Reported Body Of	Simon
+328	328	7	Vik	Was Voted Out	
+328	328	8	Deji	Called Emergency Meeting	
+328	328	9	Viz	Was Voted Out	
+328	328	10	Josh	Called Emergency Meeting	
+328	328	11	MaxFosh	Was Voted Out	
+329	329	1	Ethan	Killed (Killed)	DannyAarons
+329	329	2	Deji	Killed (Killed)	Callux
+329	329	3	Josh	Called Emergency Meeting	
+329	329	4	Deji	Was Voted Out	
+329	329	5	Ethan	Killed (Killed)	Simon
+329	329	6	Ethan	Killed (Killed)	Josh
+329	329	7	Tobi	Reported Body Of	Josh
+329	329	8	Ethan	Killed (Killed)	Tobi
+329	329	9	Ethan	Killed (Killed)	Vik
+329	329	10	Viz	Reported Body Of	Vik
+329	329	11	Ethan	Was Voted Out	
+330	330	1	Callux	Killed (Killed)	Tobi
+330	330	2	Simon	Killed (Killed)	Josh
+330	330	3	MaxFosh	Reported Body Of	Josh
+330	330	4	MaxFosh	Was Voted Out	
+330	330	5	Simon	Killed (Killed)	DannyAarons
+330	330	6	Simon	Killed (Killed)	Deji
+330	330	7	Vik	Reported Body Of	Deji
+330	330	8	Simon	Was Voted Out	
+330	330	9	Callux	Killed (Killed)	Viz
+330	330	10	Vik	Called Emergency Meeting	
+330	330	11	Ethan	Was Voted Out	
+331	331	1	Vik	Killed (Killed)	Ethan
+331	331	2	MaxFosh	Transported	
+331	331	3	MaxFosh	Reported Body Of	Josh
+331	331	4	Deji	Killed (Killed)	Viz
+331	331	5	Simon	Reported Body Of	Ethan
+331	331	6	Deji	Guess Killed (Killed)	MaxFosh
+331	331	7	Deji	Was Voted Out	
+331	331	8	Vik	Killed (Killed)	DannyAarons
+331	331	9	Tobi	Reported Body Of	DannyAarons
+331	331	10	Vik	Was Voted Out	
+331	331	11	Simon	Killed (Killed)	Tobi
+331	331	12	Josh	Reported Body Of	Tobi
+331	331	13	Callux	Was Voted Out	
+331	331	14	Simon	Killed (Killed)	Josh
+332	332	1	Deji	Killed (Killed)	DannyAarons
+332	332	2	Simon	Reported Body Of	DannyAarons
+332	332	3	Simon	Swapped Votes	
+332	332	4	Deji	Killed (Killed)	Viz
+332	332	5	Deji	Vampire Bit	Vik
+332	332	6	Josh	Flashed	
+332	332	7	Deji	Was Voted Out	
+332	332	8	Josh	Killed (Killed)	Callux
+332	332	9	Tobi	Killed (Killed)	Josh
+332	332	10	Deji	Killed (Killed)	Simon
+332	332	11	Vik	Killed (Killed)	Tobi
+332	332	12	MaxFosh	Reported Body Of	Josh
+332	332	13	Deji	Was Voted Out	
+332	332	14	Vik	Killed (Killed)	MaxFosh
+333	333	1	Deji	Killed (Killed)	Callux
+333	333	2	DannyAarons	Reported Body Of	Callux
+333	333	3	Vik	Killed By Airlock (Killed)	Simon
+333	333	4	Deji	Killed (Killed)	Tobi
+333	333	5	DannyAarons	Reported Body Of	Tobi
+333	333	6	Deji	Was Voted Out	
+333	333	7	Josh	Killed (Killed)	Ethan
+333	333	8	Viz	Reported Body Of	Ethan
+333	333	9	Vik	Killed (Killed)	Viz
+334	334	1	Vik	Camped	Simon
+334	334	2	Viz	Flashed	
+334	334	3	DannyAarons	Veteran Killed (Killed)	Callux
+334	334	4	DannyAarons	Veteran Killed (Killed)	Ethan
+334	334	5	Viz	Killed (Killed)	Simon
+334	334	6	DannyAarons	Reported Body Of	Simon
+334	334	7	Vik	Shot (Killed)	Viz
+334	334	8	Vik	Camped	DannyAarons
+334	334	9	Josh	Killed (Killed)	DannyAarons
+334	334	10	Deji	Reported Body Of	DannyAarons
+334	334	11	Vik	Shot (Killed)	Josh
+334	334	12	MaxFosh	Was Voted Out	
+335	335	1	MaxFosh	Killed (Killed)	Josh
+335	335	2	Simon	Killed (Killed)	Vik
+335	335	3	Deji	Killed (Killed)	Deji
+335	335	4	MaxFosh	Reported Body Of	Vik
+335	335	5	MaxFosh	Killed (Killed)	Callux
+335	335	6	DannyAarons	Reported Body Of	Callux
+335	335	7	DannyAarons	Was Voted Out	
+335	335	8	Simon	Lightning Striked (Killed)	George Clarkey
+336	336	1	Vik	Swooped	
+336	336	2	Vik	Killed (Killed)	Ethan
+336	336	3	Josh	Cleaned	Ethan
+336	336	4	Vik	Killed (Killed)	Deji
+336	336	5	Josh	Called Emergency Meeting	
+336	336	6	DannyAarons	Called Emergency Meeting	
+336	336	7	Josh	Guess Killed (Killed)	DannyAarons
+336	336	8	Josh	Was Voted Out	
+336	336	9	MaxFosh	Called Emergency Meeting	
+336	336	10	Vik	Was Voted Out	
+336	336	11	Callux	Killed (Killed)	Simon
+336	336	12	Viz	Reported Body Of	Simon
+336	336	13	Viz	Called Emergency Meeting	
+336	336	14	Callux	Was Voted Out	
+337	337	1	DannyAarons	Hypnotised	Ethan
+337	337	2	DannyAarons	Hypnotised	Callux
+337	337	3	Deji	Called Emergency Meeting	
+337	337	4	DannyAarons	Mass Hysteria	Ethan
+337	337	5	DannyAarons	Mass Hysteria	Callux
+337	337	6	Vik	Killed (Killed)	Ethan
+337	337	7	Simon	Revived	Ethan
+337	337	8	Callux	Called Emergency Meeting	
+337	337	9	Ethan	Killed (Killed)	Vik
+337	337	10	MaxFosh	Killed (Killed)	MaxFosh
+337	337	11	Callux	Reported Body Of	MaxFosh
+337	337	12	Callux	Executed (Killed)	Deji
+337	337	13	Viz	Veteran Killed (Killed)	DannyAarons
+337	337	14	Viz	Reported Body Of	DannyAarons
+337	337	15	George Clarkey	Swapped Votes	
+337	337	16	Viz	Was Voted Out	
+338	338	1	Lazarbeam	Killed (Killed)	Deji
+338	338	2	Vik	Killed (Killed)	PieFace
+338	338	3	Lazarbeam	Reported Body Of	Deji
+338	338	4	Lazarbeam	Blackmailed	Tobi
+338	338	5	Vik	Killed (Killed)	Josh
+338	338	6	Tobi	Called Emergency Meeting	
+338	338	7	Vik	Killed (Killed)	Ethan
+338	338	8	Lazarbeam	Blackmailed	Tobi
+338	338	9	Lazarbeam	Killed (Killed)	Viz
+338	338	10	Tobi	Reported Body Of	Viz
+338	338	11	Vik	Guess Killed (Killed)	Lachlan
+339	339	1	Tobi	Killed (Killed)	Deji
+339	339	2	Tobi	Morphed Into	Deji
+339	339	3	Lachlan	Killed (Killed)	Theo
+339	339	4	Lazarbeam	Reported Body Of	Theo
+339	339	5	Lazarbeam	Camped	Lachlan
+339	339	6	Lachlan	Killed (Killed)	Lachlan
+339	339	7	Tobi	Reported Body Of	Lachlan
+339	339	8	Lazarbeam	Camped	Ethan
+339	339	9	Tobi	Killed (Killed)	Ethan
+339	339	10	Lazarbeam	Reported Body Of	Ethan
+339	339	11	Lazarbeam	Shot (Killed)	Tobi
+339	339	12	Josh	Called Emergency Meeting	
+339	339	13	PieFace	Killed (Killed)	Josh
+339	339	14	Viz	Reported Body Of	Josh
+339	339	15	PieFace	Was Voted Out	
+340	340	1	Josh	Camped	Theo
+340	340	2	Ethan	Killed (Killed)	Theo
+340	340	3	Tobi	Killed (Killed)	Lazarbeam
+340	340	4	Ethan	Reported Body Of	Theo
+340	340	5	Tobi	Blackmailed	Josh
+340	340	6	Viz	Killed (Killed)	Viz
+340	340	7	Deji	Veteran Killed (Killed)	Tobi
+340	340	8	Vik	Reported Body Of	Viz
+340	340	9	Josh	Camped	PieFace
+340	340	10	Ethan	Camouflaged	
+340	340	11	Ethan	Killed (Killed)	Josh
+340	340	12	Vik	Reported Body Of	Josh
+340	340	13	Ethan	Was Voted Out	
+341	341	1	Deji	Blackmailed	Lazarbeam
+341	341	2	Theo	Killed (Killed)	Josh
+341	341	3	PieFace	Reported Body Of	Josh
+341	341	4	Theo	Was Voted Out	
+341	341	5	Tobi	Camped	Deji
+341	341	6	Deji	Killed (Killed)	Tobi
+341	341	7	Deji	Reported Body Of	Tobi
+341	341	8	Deji	Killed (Killed)	Viz
+341	341	9	Deji	Blackmailed	Lazarbeam
+341	341	10	Deji	Killed (Killed)	Ethan
+341	341	11	Deji	Killed (Killed)	PieFace
+341	341	12	Lachlan	Called Emergency Meeting	
+341	341	13	Deji	Killed (Killed)	Lazarbeam
+341	341	14	Lachlan	Reported Body Of	Lazarbeam
+341	341	15	Lachlan	Was Voted Out	
+342	342	1	Vik	Killed (Killed)	Tobi
+342	342	2	Vik	Blackmailed	Lazarbeam
+342	342	3	Lazarbeam	Reported Body Of	Tobi
+342	342	4	Viz	Was Voted Out	
+342	342	5	Lazarbeam	Called Emergency Meeting	
+342	342	6	Vik	Was Voted Out	
+342	342	7	Theo	Killed (Killed)	Lazarbeam
+342	342	8	Theo	Reported Body Of	Lazarbeam
+342	342	9	Theo	Was Voted Out	
+343	343	1	Tobi	Fortified	Lazarbeam
+343	343	2	PieFace	Jailed	Josh
+343	343	3	Deji	Killed (Killed)	Vik
+343	343	4	Deji	Recalled	
+343	343	5	Josh	Reported Body Of	Vik
+343	343	6	PieFace	Executed (Killed)	Josh
+343	343	7	Deji	Killed (Killed)	Theo
+343	343	8	Deji	Killed (Killed)	Viz
+343	343	9	Tobi	Reported Body Of	Viz
+343	343	10	Deji	Was Voted Out	
+344	344	1	Ethan	Jailed	Theo
+344	344	2	PieFace	Called Emergency Meeting	
+344	344	3	Lazarbeam	Exiled	Lachlan
+344	344	4	Vik	Fortified	Tobi
+344	344	5	PieFace	Killed (Killed)	Deji
+344	344	6	Ethan	Jailed	Vik
+344	344	7	Josh	Killed (Killed)	Viz
+344	344	8	Josh	Recalled	
+344	344	9	Vik	Reported Body Of	Viz
+344	344	10	Ethan	Executed (Killed)	Vik
+344	344	11	Tobi	Snitched	
+344	344	12	PieFace	Killed (Killed)	Ethan
+344	344	13	Tobi	Called Emergency Meeting	
+344	344	14	Josh	Was Voted Out	
+344	344	15	PieFace	Killed (Killed)	Tobi
+344	344	16		Lover Killed (Killed)	Lazarbeam
+345	345	1	Lachlan	Killed (Killed)	Tobi
+345	345	2	Vik	Killed (Killed)	PieFace
+345	345	3	Vik	Recalled	
+345	345	4	Josh	Called Emergency Meeting	
+345	345	5	Lazarbeam	Exiled	Deji
+345	345	6	Vik	Killed (Killed)	Josh
+345	345	7	Vik	Recalled	
+345	345	8	Lachlan	Killed (Killed)	Lazarbeam
+345	345	9	Ethan	Reported Body Of	Josh
+345	345	10	Theo	Was Voted Out	
+346	346	1	Lazarbeam	Killed (Killed)	Lachlan
+346	346	2	Lazarbeam	Recalled	
+346	346	3	PieFace	Reported Body Of	Lachlan
+346	346	4	Deji	Guess Killed (Killed)	Theo
+346	346	5	Deji	Planted Bomb	
+346	346	6	Deji	Bombed (Killed)	Viz
+346	346	7	Deji	Bombed (Killed)	Lazarbeam
+346	346	8	Deji	Planted Bomb	
+346	346	9	Deji	Bombed (Killed)	Ethan
+346	346	10	Deji	Bombed (Killed)	Josh
+346	346	11	Josh	Reported Body Of	Viz
+346	346	12	Deji	Was Voted Out	
+347	347	1	Deji	Called Emergency Meeting	
+347	347	2	Deji	Exiled	Tobi
+347	347	3	Vik	Fortified	Deji
+347	347	4	Vik	Called Emergency Meeting	
+347	347	5	Vik	Fortified	Deji
+347	347	6	Lazarbeam	Killed (Killed)	Viz
+347	347	7	Lazarbeam	Recalled	
+347	347	8	Deji	Planted Bomb	
+347	347	9	PieFace	Jailed	Lachlan
+347	347	10	PieFace	Called Emergency Meeting	
+347	347	11	PieFace	Executed (Killed)	Lachlan
+347	347	12	Vik	Fortified	Deji
+347	347	13	Lazarbeam	Killed (Killed)	PieFace
+347	347	14	Lazarbeam	Recalled	
+347	347	15	Ethan	Veteran Killed (Killed)	Theo
+347	347	16	Ethan	Reported Body Of	PieFace
+347	347	17	Lazarbeam	Killed (Killed)	Deji
+347	347	18	Lazarbeam	Recalled	
+347	347	19	Josh	Reported Body Of	Deji
+347	347	20	Vik	Fortified	Ethan
+347	347	21	Ethan	Called Emergency Meeting	
+347	347	22	Vik	Fortified	Ethan
+347	347	23	Vik	Reported Body Of	Josh
+347	347	24	Lazarbeam	Was Voted Out	
+348	348	1	JJ	Killed (Killed)	Deji
+348	348	2	Lazarbeam	Reported Body Of	Deji
+348	348	3	Lachlan	Medic Shielded	Simon
+348	348	4	JJ	Killed (Killed)	Lachlan
+348	348	5	Lazarbeam	Called Emergency Meeting	
+348	348	6	JJ	Was Voted Out	
+348	348	7	Vik	Killed (Killed)	Tobi
+348	348	8	Harry	Time Reversed	
+348	348	9	Harry	Reported Body Of	Tobi
+348	348	10	Vik	Was Voted Out	
+349	349	1	Simon	Time Reversed	
+349	349	2	JJ	Morphed Into	Deji
+349	349	3	JJ	Killed (Killed)	Simon
+349	349	4	Lachlan	Reported Body Of	Simon
+349	349	5	Tobi	Medic Shielded	JJ
+349	349	6	Ethan	Killed (Killed)	Deji
+349	349	7	Josh	Reported Body Of	Deji
+349	349	8	Josh	Called Emergency Meeting	
+349	349	9	Ethan	Called Emergency Meeting	
+349	349	10	Tobi	Medic Shielded	Harry
+349	349	11	Harry	Called Emergency Meeting	
+349	349	12	Lazarbeam	Was Voted Out	
+349	349	13	Tobi	Medic Shielded	Josh
+349	349	14	JJ	Morphed Into	Tobi
+349	349	15	JJ	Killed (Killed)	Vik
+349	349	16	Josh	Reported Body Of	Vik
+349	349	17	JJ	Was Voted Out	
+350	350	1	Deji	Killed (Killed)	Deji
+350	350	2	Harry	Reported Body Of	Deji
+350	350	3	Josh	Killed (Killed)	Tobi
+350	350	4	JJ	Time Reversed	
+350	350	5	Vik	Killed (Killed)	Ethan
+350	350	6	Lachlan	Reported Body Of	Ethan
+350	350	7	Lazarbeam	Medic Shielded	JJ
+350	350	8	Vik	Dug (Killed)	Lachlan
+350	350	9	JJ	Time Reversed	
+350	350	10	Josh	Killed (Killed)	Simon
+350	350	11	Vik	Killed (Killed)	Lazarbeam
+351	351	1	Deji	Time Reversed	
+351	351	2	Lazarbeam	Dug (Killed)	JJ
+351	351	3	Lazarbeam	Dug (Killed)	Lachlan
+351	351	4	Deji	Time Reversed	
+351	351	5	Vik	Killed (Killed)	Simon
+351	351	6	Ethan	Reported Body Of	Simon
+351	351	7	Tobi	Was Voted Out	
+351	351	8	Ethan	Medic Shielded	Josh
+351	351	9	Vik	Morphed Into	Ethan
+351	351	10	Vik	Killed (Killed)	Ethan
+351	351	11	Harry	Reported Body Of	Ethan
+351	351	12	Lazarbeam	Dug (Killed)	Harry
+352	352	1	Tobi	Medic Shielded	Simon
+352	352	2	Ethan	Killed (Killed)	Vik
+352	352	3	Lazarbeam	Dug (Killed)	Lachlan
+352	352	4	JJ	Killed (Killed)	JJ
+352	352	5	Simon	Reported Body Of	JJ
+352	352	6	Tobi	Medic Shielded	Lazarbeam
+352	352	7	Harry	Time Reversed	
+352	352	8	Lazarbeam	Killed (Killed)	Josh
+352	352	9	Harry	Time Reversed	
+352	352	10	Tobi	Reported Body Of	Josh
+352	352	11	Simon	Called Emergency Meeting	
+352	352	12	Lazarbeam	Was Voted Out	
+352	352	13	Harry	Time Reversed	
+352	352	14	Ethan	Killed (Killed)	Tobi
+352	352	15	Harry	Time Reversed	
+352	352	16	Ethan	Killed (Killed)	Lachlan
+352	352	17	Simon	Reported Body Of	Tobi
+352	352	18	Ethan	Was Voted Out	
+353	353	1	Harry	Medic Shielded	Lazarbeam
+353	353	2	Simon	Killed (Killed)	Simon
+353	353	3	Tobi	Killed (Killed)	Deji
+353	353	4	JJ	Time Reversed	
+353	353	5	Deji	Called Emergency Meeting	
+353	353	6	Simon	Killed (Killed)	Tobi
+353	353	7	JJ	Time Reversed	
+353	353	8	Tobi	Killed (Killed)	Simon
+353	353	9	JJ	Time Reversed	
+353	353	10	Lachlan	Killed (Killed)	Lazarbeam
+353	353	11	JJ	Time Reversed	
+353	353	12	Ethan	Killed (Killed)	Josh
+353	353	13	Lachlan	Reported Body Of	Lazarbeam
+353	353	14	Ethan	Was Voted Out	
+353	353	15	Tobi	Killed (Killed)	Deji
+353	353	16	JJ	Time Reversed	
+353	353	17	JJ	Called Emergency Meeting	
+353	353	18	Deji	Was Voted Out	
+353	353	19	Harry	Called Emergency Meeting	
+353	353	20	Harry	Medic Shielded	Tobi
+353	353	21	Tobi	Killed (Killed)	Lachlan
+353	353	22	JJ	Time Reversed	
+353	353	23	Lachlan	Killed (Killed)	Vik
+354	354	1	Deji	Killed (Killed)	Tobi
+354	354	2	Vik	Time Reversed	
+354	354	3	Lazarbeam	Reported Body Of	Tobi
+354	354	4	Simon	Killed (Killed)	Tobi
+354	354	5	Lachlan	Killed (Killed)	Deji
+354	354	6	JJ	Reported Body Of	Deji
+354	354	7	Ethan	Medic Shielded	Josh
+354	354	8	Lachlan	Killed (Killed)	Lachlan
+354	354	9	Harry	Reported Body Of	Lachlan
+354	354	10	Ethan	Medic Shielded	Josh
+354	354	11	JJ	Called Emergency Meeting	
+354	354	12	Ethan	Medic Shielded	Josh
+354	354	13	Vik	Time Reversed	
+354	354	14	Simon	Killed (Killed)	JJ
+354	354	15	Simon	Killed (Killed)	Vik
+354	354	16	Simon	Reported Body Of	Vik
+354	354	17	Ethan	Medic Shielded	Josh
+354	354	18	Simon	Killed (Killed)	Harry
+354	354	19	Lazarbeam	Reported Body Of	Harry
+354	354	20	Lazarbeam	Was Voted Out	
+354	354	21	Ethan	Medic Shielded	Josh
+354	354	22	Simon	Killed (Killed)	Ethan
+355	355	1	Lachlan	Killed (Killed)	Lachlan
+355	355	2	Simon	Killed (Killed)	Lazarbeam
+355	355	3	Deji	Killed (Killed)	JJ
+355	355	4	Ethan	Time Reversed	
+355	355	5	Tobi	Called Emergency Meeting	
+355	355	6	Lazarbeam	Called Emergency Meeting	
+355	355	7	Lazarbeam	Was Voted Out	
+355	355	8	JJ	Called Emergency Meeting	
+355	355	9	Simon	Was Voted Out	
+355	355	10	Deji	Killed (Killed)	JJ
+355	355	11	Tobi	Killed (Killed)	Ethan
+355	355	12	Lachlan	Killed (Killed)	Lachlan
+355	355	13	Josh	Reported Body Of	Lachlan
+355	355	14	Vik	Was Voted Out	
+356	356	1	Ethan	Barricaded Vent	
+356	356	2	Tobi	Sniped (Killed)	Simon
+356	356	3	Josh	Reported Body Of	Simon
+356	356	4	Tobi	Killed (Killed)	Josh
+356	356	5	Ethan	Barricaded Vent	
+356	356	6	Tobi	Killed (Killed)	George Clarkey
+356	356	7	Ethan	Flushed Vent	
+356	356	8	Ethan	Reported Body Of	Josh
+356	356	9	Ethan	Flushed Vent	
+356	356	10	Tobi	Killed (Killed)	AliA
+356	356	11	Lachlan	Called Emergency Meeting	
+356	356	12	Vik	Was Voted Out	
+356	356	13	Tobi	Killed (Killed)	Lachlan
+356	356	14	Tobi	Killed (Killed)	Ethan
+356	356	15	Tobi	Sniped (Killed)	JJ
+357	357	1	Josh	Time Reversed	
+357	357	2	JJ	Called Emergency Meeting	
+357	357	3	Josh	Time Reversed	
+357	357	4	Tobi	Killed (Killed)	Josh
+357	357	5	Simon	Killed (Killed)	George Clarkey
+357	357	6	DannyAarons	Reported Body Of	Josh
+357	357	7	Tobi	Blackmailed	Simon
+357	357	8	Tobi	Killed (Killed)	AliA
+357	357	9	Simon	Killed (Killed)	Vik
+357	357	10	Tobi	Blackmailed	Lachlan
+357	357	11	DannyAarons	Reported Body Of	Vik
+357	357	12	JJ	Was Voted Out	
+357	357	13	Simon	Sniped (Killed)	Lachlan
+357	357	14	Tobi	Killed (Killed)	Ethan
+357	357	15	DannyAarons	Killed (Killed)	Simon
+357	357	16	DannyAarons	Reported Body Of	Lachlan
+357	357	17	DannyAarons	Killed (Killed)	Tobi
+358	358	1	JJ	Time Reversed	
+358	358	2	Simon	Killed (Killed)	DannyAarons
+358	358	3	Simon	Reported Body Of	DannyAarons
+358	358	4	Tobi	Blackmailed	Lachlan
+358	358	5	Lachlan	Sniped (Killed)	Simon
+358	358	6	Ethan	Reported Body Of	Simon
+358	358	7	Tobi	Killed (Killed)	Vik
+358	358	8	JJ	Time Reversed	
+358	358	9	Vik	Came Back Alive	
+358	358	10	Vik	Called Emergency Meeting	
+358	358	11	Tobi	Was Voted Out	
+358	358	12	George Clarkey	Killed (Killed)	George Clarkey
+358	358	13	AliA	Reported Body Of	George Clarkey
+358	358	14	JJ	Time Reversed	
+358	358	15	Lachlan	Killed (Killed)	Vik
+358	358	16	Lachlan	Sniped (Killed)	Ethan
+358	358	17	Lachlan	Reported Body Of	Ethan
+358	358	18	Lachlan	Guess Killed (Killed)	Lachlan
+359	359	1	Vik	Sniped (Killed)	George Clarkey
+359	359	2	Lachlan	Blackmailed	JJ
+359	359	3	Lachlan	Killed (Killed)	Josh
+359	359	4	Lachlan	Reported Body Of	George Clarkey
+359	359	5	Lachlan	Blackmailed	Vik
+359	359	6	Simon	Called Emergency Meeting	
+359	359	7	Lachlan	Killed (Killed)	AliA
+359	359	8	Vik	Killed (Killed)	Tobi
+359	359	9	Simon	Reported Body Of	Tobi
+359	359	10	Vik	Guess Killed (Killed)	Vik
+359	359	11	Lachlan	Was Voted Out	
+360	360	1	Lachlan	Barricaded Vent	
+360	360	2	George Clarkey	Time Reversed	
+360	360	3	Josh	Sniped (Killed)	George Clarkey
+360	360	4	DannyAarons	Killed (Killed)	Lachlan
+360	360	5	Vik	Reported Body Of	George Clarkey
+360	360	6	Josh	Sniped (Killed)	Ethan
+360	360	7	Ethan	Reported Body Of	Simon
+360	360	8	Tobi	Was Voted Out	
+360	360	9	DannyAarons	Killed (Killed)	AliA
+360	360	10	Josh	Reported Body Of	AliA
+360	360	11	DannyAarons	Was Voted Out	
+361	361	1	Ethan	Blackmailed	Simon
+361	361	2	DannyAarons	RC Killed (Killed)	AliA
+361	361	3	Tobi	Reported Body Of	AliA
+361	361	4	Ethan	Guess Killed (Killed)	Ethan
+361	361	5	George Clarkey	Time Reversed	
+361	361	6	DannyAarons	RC Killed (Killed)	George Clarkey
+361	361	7	DannyAarons	Reported Body Of	George Clarkey
+361	361	8	DannyAarons	RC Killed (Killed)	Tobi
+361	361	9	Josh	Reported Body Of	Tobi
+361	361	10	DannyAarons	RC Killed (Killed)	Simon
+361	361	11	Josh	Reported Body Of	Simon
+361	361	12	JJ	Was Voted Out	
+361	361	13	DannyAarons	RC Killed (Killed)	Vik
+361	361	14	Josh	Called Emergency Meeting	
+361	361	15	Josh	Disconnected	
+362	362	1	Lachlan	Killed (Killed)	Vik
+362	362	2	DannyAarons	Reported Body Of	Vik
+362	362	3	Lachlan	Was Voted Out	
+362	362	4	Vik	Care Package Killed (Killed)	AliA
+362	362	5	AliA	Time Reversed	
+362	362	6	Simon	Reported Body Of	AliA
+362	362	7	DannyAarons	Disconnected	
+363	363	1	George Clarkey	RC Killed (Killed)	JJ
+363	363	2	Tobi	Time Reversed	
+363	363	3	JJ	Called Emergency Meeting	
+363	363	4	Lachlan	Killed (Killed)	AliA
+363	363	5	Tobi	Time Reversed	
+363	363	6	George Clarkey	Killed (Killed)	JJ
+363	363	7	George Clarkey	RC Killed (Killed)	Vik
+363	363	8	Tobi	Reported Body Of	JJ
+363	363	9	George Clarkey	Was Voted Out	
+363	363	10	AliA	Called Emergency Meeting	
+363	363	11	Lachlan	Was Voted Out	
+363	363	12	Josh	Blackmailed	Ethan
+363	363	13	Josh	Killed (Killed)	AliA
+363	363	14	Ethan	Reported Body Of	AliA
+363	363	15	Josh	Blackmailed	Ethan
+363	363	16	Simon	Called Emergency Meeting	
+363	363	17	Josh	Blackmailed	Ethan
+363	363	18	Tobi	Called Emergency Meeting	
+363	363	19	Josh	Blackmailed	Ethan
+363	363	20	Josh	Killed (Killed)	Simon
+363	363	21	Tobi	Reported Body Of	Simon
+363	363	22	Tobi	Was Voted Out	
+364	364	1	JJ	Killed (Killed)	Tobi
+364	364	2	Ethan	Killed (Killed)	Simon
+364	364	3	Josh	Killed (Killed)	Lachlan
+364	364	4	Ethan	Killed (Killed)	Josh
+364	364	5	Vik	Reported Body Of	Josh
+364	364	6	Ethan	Was Voted Out	
+364	364	7	JJ	RC Killed (Killed)	AliA
+364	364	8	JJ	Reported Body Of	AliA
+364	364	9	JJ	Guess Killed (Killed)	Vik
+365	365	1	Vik	RC Killed (Killed)	Ethan
+365	365	2	Lachlan	Time Reversed	
+365	365	3	George Clarkey	Killed (Killed)	Lachlan
+365	365	4	JJ	Reported Body Of	Lachlan
+365	365	5	Vik	Was Voted Out	
+365	365	6	Ethan	Killed (Killed)	Ethan
+365	365	7	George Clarkey	Killed (Killed)	Simon
+365	365	8	AliA	Reported Body Of	Simon
+365	365	9	George Clarkey	Killed (Killed)	Tobi
+365	365	10		Crisis	
+366	366	1	Ethan	Killed (Killed)	Lazarbeam
+366	366	2	Ethan	Killed (Killed)	Lachlan
+366	366	3	Simon	Reported Body Of	Lazarbeam
+366	366	4	Ethan	Chose as Imposter	Simon
+366	366	5	Simon	Killed (Killed)	Tobi
+366	366	6	Harry	Reported Body Of	Tobi
+366	366	7	Ethan	Killed (Killed)	Vik
+366	366	8	Harry	Reported Body Of	Vik
+366	366	9	Ethan	Killed (Killed)	Harry
+366	366	10	AB	Killed (Killed)	Simon
+366	366	11	Josh	Reported Body Of	Simon
+366	366	12	AB	Was Voted Out	
+366	366	13	Ethan	Killed (Killed)	Deji
+367	367	1	Tobi	Killed (Killed)	Simon
+367	367	2	Josh	Reported Body Of	Simon
+367	367	3	Tobi	Chose as Imposter	Josh
+367	367	4	Tobi	Was Voted Out	
+368	368	1	AB	Killed (Killed)	Vik
+368	368	2	Lazarbeam	Reported Body Of	Vik
+368	368	3	AB	Chose as Imposter	Lazarbeam
+368	368	4	Josh	Swapped Votes	
+368	368	5	Lazarbeam	Was Voted Out	
+368	368	6	AB	Killed (Killed)	Simon
+368	368	7	Josh	Reported Body Of	Simon
+368	368	8	AB	Was Voted Out	
+369	369	1	Deji	Killed (Killed)	Deji
+369	369	2	Lazarbeam	Reported Body Of	Deji
+369	369	3	Lachlan	Chose as Imposter	Simon
+369	369	4	Ethan	Swapped Votes	
+369	369	5	Simon	Killed (Killed)	Harry
+369	369	6	Lachlan	Killed (Killed)	Tobi
+369	369	7	Lazarbeam	Reported Body Of	Tobi
+369	369	8	Ethan	Swapped Votes	
+369	369	9	Lazarbeam	Was Voted Out	
+369	369	10	Lachlan	Killed (Killed)	Josh
+369	369	11	Simon	Killed (Killed)	Vik
+370	370	1	Deji	Killed (Killed)	Vik
+370	370	2	Lazarbeam	Reported Body Of	Vik
+370	370	3	Deji	Chose as Imposter	Tobi
+370	370	4	AB	Swapped Votes	
+370	370	5	Tobi	Killed (Killed)	Josh
+370	370	6	Deji	Killed (Killed)	Ethan
+370	370	7		Crisis	
+371	371	1	Vik	Killed (Killed)	Simon
+371	371	2	Vik	Killed (Killed)	Lachlan
+371	371	3	Lazarbeam	Called Emergency Meeting	
+371	371	4	Vik	Chose as Imposter	Lazarbeam
+371	371	5	Tobi	Imitated	Simon
+371	371	6	Vik	Killed (Killed)	Ethan
+371	371	7	Tobi	Killed (Killed)	Vik
+371	371	8	AB	Reported Body Of	Vik
+371	371	9	Deji	Was Voted Out	
+371	371	10	Tobi	Killed (Killed)	Lazarbeam
+372	372	1	Simon	Killed (Killed)	Vik
+372	372	2	Josh	Reported Body Of	Vik
+372	372	3	Lachlan	Swapped Votes	
+372	372	4	Simon	Was Voted Out	
+373	373	1	Harry	Fortified	Lachlan
+373	373	2	Vik	Killed (Killed)	Josh
+373	373	3	Lazarbeam	Reported Body Of	Josh
+373	373	4	Ethan	Transported	
+373	373	5	Lachlan	Called Emergency Meeting	
+373	373	6	Vik	Killed (Killed)	Harry
+373	373	7	Ethan	Transported	
+373	373	8	AB	Reported Body Of	Harry
+373	373	9	Deji	Fortified	Vik
+373	373	10	Vik	Killed (Killed)	Tobi
+373	373	11	Ethan	Transported	
+373	373	12	Ethan	Reported Body Of	Tobi
+373	373	13	Vik	Killed (Killed)	Ethan
+373	373	14	Simon	Killed (Killed)	Deji
+373	373	15	Vik	Killed (Killed)	Lazarbeam
+374	374	1	Simon	Fortified	Deji
+374	374	2	Ethan	Transported	
+374	374	3	Simon	Called Emergency Meeting	
+374	374	4	AB	Was Voted Out	
+374	374	5	Josh	Called Emergency Meeting	
+374	374	6	Harry	Called Emergency Meeting	
+374	374	7	Harry	Was Voted Out	
+375	375	1	Simon	Fortified	Deji
+375	375	2	Tobi	Killed (Killed)	AB
+375	375	3	Josh	Killed (Killed)	Harry
+375	375	4	Tobi	Reported Body Of	AB
+375	375	5	Simon	Called Emergency Meeting	
+375	375	6	Josh	Was Voted Out	
+375	375	7	Tobi	Killed (Killed)	Lazarbeam
+375	375	8	Tobi	Reported Body Of	Lazarbeam
+375	375	9	Tobi	Killed (Killed)	Vik
+375	375	10	Lachlan	Called Emergency Meeting	
+375	375	11	Lachlan	Was Voted Out	
+375	375	12	Tobi	Killed (Killed)	Ethan
+375	375	13	Simon	Reported Body Of	Ethan
+375	375	14	Tobi	Was Voted Out	
+376	376	1	Tobi	Killed (Killed)	Harry
+376	376	2	Ethan	Reported Body Of	Harry
+376	376	3	Lazarbeam	Fortified	Simon
+376	376	4	Tobi	Killed (Killed)	Lachlan
+376	376	5	Deji	Killed (Killed)	Vik
+376	376	6	Ethan	Reported Body Of	Lachlan
+376	376	7	Deji	Killed (Killed)	Lazarbeam
+376	376	8	Tobi	Killed (Killed)	Ethan
+376	376	9	Josh	Reported Body Of	Ethan
+376	376	10	Deji	Was Voted Out	
+376	376	11	Tobi	Killed (Killed)	AB
+376	376	12	Josh	Called Emergency Meeting	
+376	376	13	Tobi	Killed (Killed)	Josh
+377	377	1	Josh	Fortified	Lazarbeam
+377	377	2	Ethan	Killed (Killed)	Josh
+377	377	3	Lachlan	Killed (Killed)	Lazarbeam
+377	377	4	Lachlan	Reported Body Of	Lazarbeam
+377	377	5	Ethan	Killed (Killed)	Tobi
+377	377	6	Simon	Reported Body Of	Tobi
+377	377	7	Ethan	Was Voted Out	
+377	377	8	Lachlan	Killed (Killed)	Harry
+377	377	9	AB	Reported Body Of	Harry
+377	377	10	Lachlan	Killed (Killed)	Deji
+377	377	11	Lachlan	Reported Body Of	Deji
+377	377	12	Lachlan	Was Voted Out	
+378	378	1	Lazarbeam	Fortified	Simon
+378	378	2	Josh	Transported	
+378	378	3	Tobi	Killed (Killed)	Deji
+378	378	4	Josh	Transported	
+378	378	5	Vik	Reported Body Of	Deji
+378	378	6	Tobi	Killed (Killed)	Lazarbeam
+378	378	7	Josh	Transported	
+378	378	8	Josh	Transported	
+378	378	9	Simon	Reported Body Of	Lazarbeam
+378	378	10	Josh	Transported	
+378	378	11	Tobi	Killed (Killed)	Simon
+378	378	12	Lachlan	Reported Body Of	Simon
+378	378	13	Josh	Was Voted Out	
+378	378	14	Tobi	Killed (Killed)	Lachlan
+378	378	15	Harry	Called Emergency Meeting	
+378	378	16	AB	Was Voted Out	
+379	379	1	Deji	Killed (Killed)	JJ
+379	379	2	Vik	Reported Body Of	JJ
+379	379	3	Vik	Fortified	Lazarbeam
+379	379	4	JackSucksAtLife	Medic Shielded	Marlon
+379	379	5	MaxFosh	Killed (Killed)	Deji
+379	379	6	Marlon	Reported Body Of	Deji
+379	379	7	Tobi	Imitated	Deji
+379	379	8	JackSucksAtLife	Medic Shielded	MaxFosh
+379	379	9	Lazarbeam	Fortified	Tobi
+379	379	10	MaxFosh	Killed (Killed)	Josh
+379	379	11	Marlon	Reported Body Of	Josh
+379	379	12	JackSucksAtLife	Medic Shielded	Marlon
+379	379	13	Tobi	Killed (Killed)	MaxFosh
+380	380	1	Deji	Fortified	Marlon
+380	380	2	JJ	Killed (Killed)	Deji
+380	380	3	JJ	Killed (Killed)	JJ
+380	380	4		Lover Killed (Killed)	Marlon
+380	380	5	Tobi	Reported Body Of	Deji
+380	380	6	Lazarbeam	Killed (Killed)	Tobi
+380	380	7	Chip	Rampaged	
+380	380	8	Chip	Killed (Killed)	Vik
+380	380	9	Josh	Reported Body Of	Vik
+380	380	10	MaxFosh	Exiled	JackSucksAtLife
+380	380	11	Josh	Called Emergency Meeting	
+380	380	12	Chip	Was Voted Out	
+380	380	13	Lazarbeam	Killed (Killed)	MaxFosh
+381	381	1	Josh	Killed (Killed)	Chip
+381	381	2	Josh	Reported Body Of	Chip
+381	381	3	Tobi	Sniped (Killed)	JJ
+381	381	4		Lover Killed (Killed)	Josh
+381	381	5	Marlon	Reported Body Of	JJ
+381	381	6	Tobi	Killed (Killed)	Marlon
+381	381	7	Lazarbeam	Reported Body Of	Marlon
+381	381	8	Tobi	Was Voted Out	
+382	382	1	Lazarbeam	Fortified	JJ
+382	382	2	Josh	Time Reversed	
+382	382	3	Lazarbeam	Called Emergency Meeting	
+382	382	4	Josh	Time Reversed	
+382	382	5	JJ	Transported	
+382	382	6	Chip	Killed (Killed)	Vik
+382	382	7	Josh	Reported Body Of	Vik
+382	382	8	JJ	Transported	
+382	382	9	Josh	Time Reversed	
+382	382	10	Chip	Killed (Killed)	MaxFosh
+382	382	11	Chip	Reported Body Of	MaxFosh
+382	382	12	Chip	Killed (Killed)	Deji
+382	382	13	Chip	Reported Body Of	Deji
+382	382	14	Josh	Killed (Killed)	Chip
+383	383	1	Deji	Medic Shielded	JJ
+383	383	2	Josh	Dispersed	
+383	383	3	Vik	Killed (Killed)	Chip
+383	383	4	Lazarbeam	Transported	
+383	383	5	Josh	Reported Body Of	Chip
+383	383	6	Deji	Medic Shielded	Tobi
+383	383	7	Lazarbeam	Transported	
+383	383	8	Vik	RC Killed (Killed)	JJ
+383	383	9	Vik	RC Killed (Killed)	Lazarbeam
+383	383	10	Vik	RC Killed (Killed)	Marlon
+383	383	11	Tobi	Reported Body Of	Marlon
+383	383	12	Vik	Was Voted Out	
+383	383	13	Josh	Lightning Striked (Killed)	Deji
+383	383	14	Tobi	Reported Body Of	Deji
+383	383	15	Josh	Was Voted Out	
+384	384	1	Deji	Hypnotised	Marlon
+384	384	2	JJ	Revealed	Deji
+384	384	3	JJ	Called Emergency Meeting	
+384	384	4	JJ	Was Voted Out	
+384	384	5	Deji	Killed (Killed)	Chip
+384	384	6	Josh	Reported Body Of	Chip
+384	384	7	Deji	Mass Hysteria	Marlon
+384	384	8	Deji	Was Voted Out	
+384	384	9	MaxFosh	Killed (Killed)	Josh
+384	384	10	MaxFosh	Reported Body Of	Josh
+384	384	11	MaxFosh	Was Voted Out	
+385	385	1	Lazarbeam	Veteran Killed (Killed)	JackSucksAtLife
+385	385	2	MaxFosh	Reported Body Of	JackSucksAtLife
+385	385	3	Marlon	Fortified	JJ
+385	385	4	Lazarbeam	Veteran Killed (Killed)	Deji
+385	385	5	Lazarbeam	Reported Body Of	Deji
+385	385	6	Tobi	Killed (Killed)	Vik
+385	385	7	MaxFosh	Reported Body Of	Vik
+385	385	8	Josh	Sniped (Killed)	MaxFosh
+385	385	9	Lazarbeam	Reported Body Of	MaxFosh
+385	385	10	Tobi	Killed (Killed)	Lazarbeam
+385	385	11	Josh	Sniped (Killed)	JJ
+386	386	1	Deji	Poisoned (Killed)	Viz
+386	386	2	Harry	Reported Body Of	Viz
+386	386	3	Ethan	Time Reversed	
+386	386	4	Deji	Poisoned (Killed)	WillNE
+386	386	5	Josh	Killed (Killed)	Vik
+386	386	6	Harry	Reported Body Of	Vik
+386	386	7	Randolph	Was Voted Out	
+386	386	8	Josh	Killed (Killed)	Tobi
+386	386	9	Josh	Swooped	
+386	386	10	Ginge	Reported Body Of	Tobi
+386	386	11	Josh	Was Voted Out	
+386	386	12	Ethan	Time Reversed	
+386	386	13	Deji	Poisoned (Killed)	Ginge
+386	386	14	Harry	Called Emergency Meeting	
+386	386	15	Deji	Was Voted Out	
+387	387	1	Viz	Ate	Deji
+387	387	2	Deji	Transported	
+387	387	3	WillNE	Controlled	JJ
+387	387	4	Ginge	Poisoned (Killed)	JJ
+387	387	5	Viz	Ate	Josh
+387	387	6	Ginge	Killed (Killed)	Tobi
+387	387	7	Viz	Cannibal Killed (Killed)	Deji
+387	387	8	Viz	Cannibal Killed (Killed)	Josh
+387	387	9	Ginge	Reported Body Of	JJ
+387	387	10	WillNE	Controlled	Harry
+387	387	11	Viz	Ate	Vik
+387	387	12	WillNE	Controlled	Harry
+387	387	13	WillNE	Control Killed (Killed)	Randolph
+387	387	14	Viz	Ate	Ginge
+387	387	15	Viz	Cannibal Killed (Killed)	Vik
+387	387	16	Viz	Cannibal Killed (Killed)	Ginge
+387	387	17	Harry	Reported Body Of	Randolph
+387	387	18	WillNE	Was Voted Out	
+387	387	19	Harry	Called Emergency Meeting	
+387	387	20	Viz	Ate	Harry
+387	387	21	Viz	Cannibal Killed (Killed)	Harry
+388	388	1	Deji	Called Emergency Meeting	
+388	388	2	Deji	Was Voted Out	
+388	388	3	Ginge	Killed (Killed)	Harry
+388	388	4	Josh	Killed (Killed)	Tobi
+388	388	5	Ethan	Remembered Role	Harry
+388	388	6	Ethan	Killed (Killed)	Josh
+388	388	7	Ginge	Was Voted Out	
+389	389	1	Ethan	Campaigned To	Deji
+389	389	2	Deji	Killed (Killed)	Tobi
+389	389	3	Ethan	Reported Body Of	Tobi
+389	389	4	Deji	Guess Killed (Killed)	Deji
+389	389	5	Ethan	Campaigned To	Harry
+389	389	6	Josh	Transported	
+389	389	7	Ethan	Campaigned To	Josh
+389	389	8	WillNE	Killed (Killed)	WillNE
+389	389	9	Ethan	Reported Body Of	WillNE
+389	389	10	JJ	Controlled	Harry
+389	389	11	JJ	Control Killed (Killed)	Josh
+389	389	12	Harry	Reported Body Of	Josh
+389	389	13	Ethan	Revealed as Mayor	
+389	389	14	JJ	Controlled	Harry
+389	389	15	JJ	Control Killed (Killed)	Vik
+389	389	16	Harry	Reported Body Of	Vik
+389	389	17	JJ	Was Voted Out	
+390	390	1	Harry	Transported	
+390	390	2	JJ	Swooped	
+390	390	3	Vik	Time Reversed	
+390	390	4	JJ	Killed (Killed)	Viz
+390	390	5	Harry	Reported Body Of	Viz
+390	390	6	JJ	Was Voted Out	
+390	390	7	Randolph	Poisoned (Killed)	Vik
+390	390	8	Harry	Transported	
+390	390	9	Ginge	Reported Body Of	Vik
+390	390	10	Randolph	Poisoned (Killed)	Josh
+390	390	11	Harry	Transported	
+390	390	12	Tobi	Reported Body Of	Josh
+390	390	13	Ethan	Was Voted Out	
+390	390	14	Ginge	Called Emergency Meeting	
+390	390	15	Deji	Was Voted Out	
+390	390	16	Randolph	Poisoned (Killed)	Ginge
+390	390	17	Harry	Transported	
+390	390	18	Tobi	Reported Body Of	Ginge
+390	390	19	WillNE	Was Voted Out	
+390	390	20	Randolph	Poisoned (Killed)	Harry
+391	391	1	Josh	Killed (Killed)	Tom Syndicate
+391	391	2	Calfreezy	Killed (Killed)	Harry
+391	391	3	Chip	Reported Body Of	Harry
+391	391	4	Chip	Disconnected	
+391	391	5	JJ	Was Voted Out	
+391	391	6	PieFace	Called Emergency Meeting	
+391	391	7	Anita	Swapped Votes	
+391	391	8	Tobi	Was Voted Out	
+391	391	9	Josh	Killed (Killed)	Deji
+392	392	1	Deji	Called Emergency Meeting	
+392	392	2	Tobi	Controlled	Tom Syndicate
+392	392	3	Tobi	Control Killed (Killed)	Calfreezy
+392	392	4	PieFace	Reported Body Of	Calfreezy
+392	392	5	PieFace	Was Voted Out	
+392	392	6	JJ	Killed (Killed)	Josh
+392	392	7	Tobi	Killed (Killed)	Deji
+392	392	8	Tobi	Killed (Killed)	Harry
+393	393	1	Tobi	Controlled	Harry
+393	393	2	Tobi	Killed (Killed)	Tom Syndicate
+393	393	3	Tobi	Control Killed (Killed)	Calfreezy
+393	393	4	PieFace	Reported Body Of	Calfreezy
+393	393	5	Tobi	Guess Killed (Killed)	JJ
+393	393	6	Josh	Called Emergency Meeting	
+393	393	7	Deji	Was Voted Out	
+393	393	8	Anita	Killed (Killed)	Josh
+394	394	1	JJ	Called Emergency Meeting	
+394	394	2	Harry	Controlled	Calfreezy
+394	394	3	Harry	Killed (Killed)	PieFace
+394	394	4	Harry	Reported Body Of	PieFace
+394	394	5	Deji	Guess Killed (Killed)	Tom Syndicate
+394	394	6	Anita	Was Voted Out	
+394	394	7	Deji	Killed (Killed)	Calfreezy
+394	394	8	Harry	Killed (Killed)	JJ
+395	395	1	Tom Syndicate	Killed (Killed)	Harry
+395	395	2	Calfreezy	Reported Body Of	Harry
+395	395	3	Tobi	Swapped Votes	
+395	395	4	Calfreezy	Was Voted Out	
+395	395	5	Deji	Called Emergency Meeting	
+395	395	6	Tobi	Swapped Votes	
+395	395	7	JJ	Was Voted Out	
+395	395	8	Tom Syndicate	Killed (Killed)	Josh
+395	395	9	PieFace	Killed (Killed)	Tobi
+396	396	1	JJ	Killed (Killed)	Harry
+396	396	2	Tobi	Killed (Killed)	Anita
+396	396	3	Tobi	Controlled	Josh
+396	396	4	Tobi	Control Killed (Killed)	PieFace
+396	396	5	JJ	Reported Body Of	PieFace
+396	396	6	Deji	Was Voted Out	
+396	396	7	Tobi	Controlled	Josh
+396	396	8	Tobi	Control Killed (Killed)	Tobi
+396	396	9	JJ	Killed (Killed)	Calfreezy
+396	396	10	Josh	Reported Body Of	Tobi
+396	396	11	JJ	Was Voted Out	
+397	397	1	Josh	Controlled	Calfreezy
+397	397	2	Josh	Control Killed (Killed)	Anita
+397	397	3	Tom Syndicate	Reported Body Of	Anita
+397	397	4	Deji	Swapped Votes	
+397	397	5	Harry	Killed (Killed)	Harry
+397	397	6	Tom Syndicate	Reported Body Of	Harry
+397	397	7	Tom Syndicate	Was Voted Out	
+397	397	8	JJ	Called Emergency Meeting	
+397	397	9	Deji	Swapped Votes	
+397	397	10	Deji	Called Emergency Meeting	
+397	397	11	Deji	Swapped Votes	
+397	397	12	PieFace	Killed (Killed)	Calfreezy
+397	397	13	Josh	Controlled	JJ
+397	397	14	Josh	Control Killed (Killed)	Tobi
+398	398	1	Tobi	Killed (Killed)	PieFace
+398	398	2	Calfreezy	Reported Body Of	PieFace
+398	398	3	JJ	Controlled	Tom Syndicate
+398	398	4	JJ	Control Killed (Killed)	Anita
+398	398	5	Tom Syndicate	Reported Body Of	Anita
+398	398	6	JJ	Guess Killed (Killed)	Deji
+398	398	7	JJ	Controlled	Tobi
+398	398	8	Josh	Called Emergency Meeting	
+398	398	9	Tobi	Killed (Killed)	Josh
+398	398	10	JJ	Killed (Killed)	Calfreezy
+399	399	1	Calfreezy	Killed (Killed)	Deji
+399	399	2	Josh	Killed (Killed)	JJ
+399	399	3	Anita	Reported Body Of	JJ
+399	399	4	Harry	Was Voted Out	
+399	399	5	Calfreezy	Killed (Killed)	Tom Syndicate
+399	399	6	Josh	Killed (Killed)	PieFace
+400	400	1	Deji	Medic Shielded	Vik
+400	400	2	Harry	Deployed Mech	
+400	400	3	Harry	Detonated Mech (Killed)	Deji
+400	400	4	Lachlan	Placed Zapper	
+400	400	5	Lachlan	Zapped (Killed)	Vik
+400	400	6	Tobi	Killed (Killed)	Tobi
+400	400	7	JJ	Revived	Tobi
+400	400	8	Lazarbeam	Reported Body Of	Vik
+400	400	9	Harry	Deployed Mech	
+400	400	10	Harry	Detonated Mech (Killed)	Lazarbeam
+400	400	11	Ninja	Reported Body Of	Lazarbeam
+400	400	12	Lachlan	Placed Zapper	
+400	400	13	Lachlan	Zapped (Killed)	Ninja
+400	400	14	Harry	Reported Body Of	Ninja
+400	400	15	Lachlan	Killed (Killed)	JJ
+400	400	16	Harry	Killed (Killed)	Courage
+400	400	17	Harry	Reported Body Of	Courage
+400	400	18	Lachlan	Was Voted Out	
+400	400	19	Josh	Called Emergency Meeting	
+400	400	20	Ethan	Killed (Killed)	Harry
+401	401	1	Lazarbeam	Placed Zapper	
+401	401	2	Lazarbeam	Zapped (Killed)	Courage
+401	401	3	Lazarbeam	Zapped (Killed)	Ethan
+401	401	4	Deji	Deployed Mech	
+401	401	5	Deji	Detonated Mech (Killed)	Vik
+401	401	6	Josh	Reported Body Of	Vik
+401	401	7	Lazarbeam	Placed Zapper	
+401	401	8	Lazarbeam	Zapped (Killed)	Josh
+401	401	9	Lazarbeam	Zapped (Killed)	Ninja
+401	401	10	Deji	Killed (Killed)	Tobi
+401	401	11	Harry	Time Reversed	
+401	401	12	JJ	Reported Body Of	Josh
+401	401	13	Deji	Guess Killed (Killed)	Harry
+402	402	1	Courage	Killed (Killed)	Josh
+402	402	2	Vik	Killed (Killed)	Lazarbeam
+402	402	3	Tobi	Time Reversed	
+402	402	4	Lazarbeam	Called Emergency Meeting	
+402	402	5	Lazarbeam	Was Voted Out	
+402	402	6	Courage	Shockwaved (Killed)	Vik
+402	402	7	Tobi	Time Reversed	
+402	402	8	Tobi	Time Reversed	
+402	402	9	Harry	Called Emergency Meeting	
+402	402	10	Vik	Spaceship Chest (Killed)	Deji
+402	402	11	Vik	Spaceship Chest (Killed)	Ninja
+402	402	12	Ethan	Reported Body Of	Ninja
+402	402	13	Vik	Spaceship Chest (Killed)	JJ
+402	402	14	Vik	Spaceship Chest (Killed)	Lachlan
+402	402	15	Ethan	Reported Body Of	Lachlan
+402	402	16	Harry	Medic Shielded	Ethan
+402	402	17	Courage	Killed (Killed)	Harry
+402	402	18	Ethan	Reported Body Of	Harry
+402	402	19	Courage	Was Voted Out	
