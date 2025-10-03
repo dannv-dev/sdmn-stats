@@ -1,3 +1,5 @@
+'use client'
+
 import { Sidebar } from "@/components/sidebar"
 import { KillPermutations } from "@/components/kill-permutations"
 
